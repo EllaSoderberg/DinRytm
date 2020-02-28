@@ -39,8 +39,8 @@ export class Header extends React.Component {
             className={`${
               transparent
                 ? `h-64 w-64`
-                : `h-48 w-48`
-            } z-50 absolute top-0 right-0 -m-4 transform ease-in duration-500 transition-all`}
+                : `h-32 w-32`
+            } z-50 absolute top-0 right-0 -m-2 transform ease-in duration-500 transition-all`}
             to="/"
           >
             <img src={Logo} alt="Din Rytm"></img>

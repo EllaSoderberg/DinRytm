@@ -60,11 +60,11 @@ export class Nav extends React.Component {
           navData={navData}
         />
         <button
-          className="block md:hidden px-8 py-6 text-white hover:cursor-pointer focus:outline-none"
+          className="block md:hidden px-6 py-4 text-white hover:cursor-pointer focus:outline-none"
           onClick={this.toggleExpansion}
         >
           <svg
-            className="fill-current h-12 w-12 hover:text-green-100"
+            className="fill-current h-8 w-8 hover:text-green-100"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 32 32"
           >
@@ -73,11 +73,11 @@ export class Nav extends React.Component {
           </svg>
         </button>
         <div className="hidden md:block">
-          <div className="flex font-bold text-2xl">
+          <div className="flex font-bold text-xl">
             {navData.map(link => (
               <Link
                 className={
-                  "md:inline-block mt-3 md:ml-6 no-underline text-white hover:text-green-100 active:text-green-600"
+                  "md:inline-block md:ml-6 no-underline text-white hover:text-green-100 active:text-green-600"
                 }
                 key={link.title}
                 to={link.route}

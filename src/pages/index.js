@@ -29,7 +29,7 @@ class IndexPage extends React.Component {
     ];
     return (
       <div>
-        <BackgroundImg src={enePhoto} />
+        <BackgroundImg src={enePhoto} height={110} />
         <Layout isIndex={true}>
           <SEO
             keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
