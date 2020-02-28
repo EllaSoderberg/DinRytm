@@ -2,10 +2,10 @@ import React from "react";
 
 export const SocialMedia = () => {
   return (
-    <div className="flex my-3">
+    <div className="flex mt-1">
       <a href="https://www.instagram.com/dinrytm/">
         <svg
-          className="h-6 w-6 my-2 ml-4 fill-current text-white"
+          className="h-6 w-6 ml-4 fill-current text-white"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 511 511.9"
         >
@@ -16,7 +16,7 @@ export const SocialMedia = () => {
       </a>
       <a href="https://www.facebook.com/dinrytm/">
         <svg
-          className="h-6 w-6 m-2 fill-current text-white"
+          className="h-6 w-6 mx-2 fill-current text-white"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 60.734 60.733"
         >
