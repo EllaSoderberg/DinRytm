@@ -50,21 +50,21 @@ export default function Form() {
           <label className="">
             Ditt namn:
             <br />
-            <input type="text" name="name" onChange={handleChange} />
+            <input className="text-black" type="text" name="name" onChange={handleChange} />
           </label>
         </p>
         <p className="text-white font-bold text-lg px-12 pt-8">
           <label>
             Din email:
             <br />
-            <input type="email" name="email" onChange={handleChange} />
+            <input className="text-black" type="email" name="email" onChange={handleChange} />
           </label>
         </p>
         <p className="text-white font-bold text-lg  px-12 pt-8">
           <label>
             Meddelande:
             <br />
-            <textarea name="message" rows="4" cols="50" onChange={handleChange} />
+            <textarea className="text-black" name="message" rows="4" cols="50" onChange={handleChange} />
           </label>
         </p>
         <p className="text-white font-bold text-lg px-12 pb-8">
