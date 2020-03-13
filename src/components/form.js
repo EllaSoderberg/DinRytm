@@ -30,7 +30,7 @@ export default function Form() {
   }
 
   return (
-      <div className="bg-red-600 rounded-lg w-2/3">
+      <div className="bg-red-600 rounded-lg">
       <form
         name="contact"
         method="post"
@@ -64,7 +64,7 @@ export default function Form() {
           <label>
             Meddelande:
             <br />
-            <textarea className="text-black" name="message" rows="4" cols="50" onChange={handleChange} />
+            <textarea className="text-black" name="message" rows="6" cols="28" onChange={handleChange} />
           </label>
         </p>
         <p className="text-white font-bold text-lg px-12 pb-8">

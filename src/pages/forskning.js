@@ -11,9 +11,9 @@ function Forskning() {
           keywords={[`Fertilitet`, `din rytm`, `yoga`, `mediyoga`]}
           title="Forskning"
         />
-        <div className="mt-32 flex justify-center">
-          <div className="block flex flex-col w-full md:max-w-4xl mb-8">
-            <div className="bg-red-600 text-white flex flex-col p-10">
+        <div className="mt-32 flex justify-center border-8 border-black w-full">
+          <div className="block flex flex-col md:max-w-4xl mb-8 border-8 border-green-600">
+            <div className="bg-red-600 text-white flex flex-col border-8 border-black border-dotted">
               <h1 className="font-bold text-3xl">FORSKNING</h1>
               <p>
                 Fertility awareness baserade metoder (FABM) och dess

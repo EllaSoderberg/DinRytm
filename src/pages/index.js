@@ -32,7 +32,7 @@ class IndexPage extends React.Component {
         <BackgroundImg src={enePhoto} height={110} />
         <Layout isIndex={true}>
           <SEO
-            keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
+            keywords={[`Fertilitet`, `din rytm`, `yoga`, `mediyoga`]}
             title="Home"
           />
           <CenterText />
@@ -45,7 +45,7 @@ class IndexPage extends React.Component {
           {/*Bottom section*/}
           <section>
             <div className="flex text-white">
-              <div className="w-full md:w-7/12 px-16 py-10 bg-green-600">
+              <div className="w-full md:w-7/12 px-12 xs:px-16 py-10 bg-green-600">
                 <h3 className="text-5xl capitalize font-serif">om din rytm</h3>
                 <p className="text-sm p-3">
                   Hos Din Rytm lär du dig att förstå och lyssna in din kropp och

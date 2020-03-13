@@ -9,7 +9,7 @@ export const Sidebar = props => {
       <div
         className={`${
           props.isExpanded ? `translate-x-0` : `-translate-x-64`
-        } fixed h-screen text-white top-0 left-0 z-50 w-64 bg-green-400 transition transform ease-in-out duration-500`}
+        } z-50 fixed h-screen text-white top-0 left-0  w-64 bg-green-400 transition transform ease-in-out duration-500`}
       >
         <div
           className="h-6 w-6 m-4 float-right fill-current text-white hover:cursor-pointer hover:text-green-100"

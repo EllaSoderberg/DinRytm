@@ -15,7 +15,7 @@ function Om() {
         <div className="mt-32 flex justify-center">
           <div className="block flex flex-col sm:flex-row w-full md:w-2/3 mb-8">
             <div className="flex-1">
-            <img className="p-8 px-24 sm:pr-0 sm:pl-8" src={ Malin }></img>
+            <img className="py-2 px-16 xs:py-8 xs:px-24 sm:pr-0 sm:pl-8" src={ Malin }></img>
             </div>
             <div className="flex-1 px-10">
               <h1 className="font-serif text-5xl ">Om Mig</h1>
