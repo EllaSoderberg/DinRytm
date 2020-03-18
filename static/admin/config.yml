@@ -15,16 +15,65 @@ collections:
      preview: true
     fields:
       - { label: "Titel", name: "title", widget: "string" }
-      - { label: "Publiceras", name: "date", widget: "datetime" }
-      - { label: "Bild", name: "image", widget: "image"}
+      - { label: "Publiceras", name: "date", widget: "date" }
+      - { label: "Bild", name: "image", required: false, widget: "image"}
+      - { label: 'Kategori', name: 'category', widget: 'select', options: ['aktuellt', 'forskning'] }
       - { label: "Text", name: "body", widget: "markdown" }
 
-  - name: "sidor"
-    label: "Sidor"
-    files:
-      - file: "src/pages/index.md"
-        label: "Startsida"
-        name: "index"
+  - name: "tjanster"
+    label: "Tjänster"
+    folder: "src/pages/tjanser"
+    create: true
+    slug: "{{slug}}"
+    fields: 
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Bild", name: "image",  widget: "image"}
+      - { label: "Ingress", name: "ingress", widget: "text" }
+      - { label: "Text", name: "body", widget: "markdown" }
+      - label: "Priser"
+        name: "price"
+        create: true
         fields:
-          - { label: "Textbox 1", name: "textbox1", widget: "markdown" }
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: 'Pris', name: 'number', widget: 'number' }
+          - { label: "Beskrivning", name: "description", widget: "text" }
+
+  - name: "indextexts"
+    label: "Texter startsida"
+    delete: false
+    create: false
+    editor: 
+      preview: false
+    file: "src/pages/index"
+    fields:
+      - label: "textbox1"
+        name: "Textbox 1"
+        widget: "object"
+        fields:
+          - { label: "Titel", name: "titlebox1", widget: "string" }
+          - { label: "Text", name: "textbox1", widget: "text" }
+      - label: "textbox2"
+        name: "Textbox 2"
+        widget: "object"
+        fields:
+          - { label: "Titel", name: "titlebox2", widget: "string" }
+          - { label: "Text", name: "textbox2", widget: "text" }
+      - label: "textbox3"
+        name: "Textbox 3"
+        widget: "object"
+        fields:
+          - { label: "Titel", name: "titlebox3", widget: "string" }
+          - { label: "Text", name: "textbox3", widget: "text" }
+      - { label: "Om din rytm", name: "aboutindex", widget: "text" }
+
+  - name: "ommig"
+    label: "Om mig"
+    delete: false
+    create: false
+    file: "src/pages/ommig"
+    fields: 
+      - { label: "Text", name: "body", widget: "markdown" }
+    
+
+
       
