@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
+import { Button } from "./button";
 
 export const CenterText = () => {
   return (
@@ -11,9 +11,7 @@ export const CenterText = () => {
         <h3 className="w-1/2 text-4xl sm:text-5xl lg:text-6xl font-serif leading-tight">
           Lär känna din kropp på ett nytt sätt
         </h3>
-        <button className="py-3 px-8 mt-6 rounded capitalize text-lg bg-red-600 hover:bg-red-500">
-          <Link to='/om'>om din rytm</Link>
-        </button>
+        <Button to="/om">Om Din Rytm</Button>
       </div>
     </div>
   );

@@ -2,8 +2,22 @@ import React from "react";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
+import { Card } from "../components/card";
+import { GreenButton } from "../components/greenbutton";
 
-function Forskning() {
+class LasMer extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = { showPage: 'aktuellt'}
+        this.togglePage = this.togglePage.bind(this)
+    }
+
+    togglePage(newState) {
+        if (newState != this.showPage){
+            this.setState({ showPage: newState });
+        }
+    }
+    render() {
   return (
     <div>
       <Layout isIndex={false}>
@@ -11,7 +25,41 @@ function Forskning() {
           keywords={[`Fertilitet`, `din rytm`, `yoga`, `mediyoga`]}
           title="Forskning"
         />
-        <div className="mt-32 flex justify-center border-8 border-black w-full">
+        <div className="mt-32 flex flex-col">
+          <div className="text-5xl font-serif p-4">Läs mer</div>
+          <div className="block flex uppercase px-4 sm:px-12">
+            <GreenButton isActive={() => {if (this.state.showPage === "aktuellt") { return true } else {return false}}} onClick={() => this.togglePage("aktuellt")}>
+              Aktuellt
+            </GreenButton>
+            <GreenButton isActive={() => {if (this.state.showPage === "forskning") { return true } else {return false}}} onClick={() => this.togglePage("forskning")}>
+              Forskning
+            </GreenButton>
+            {/*<div className="bg-green-500 hover:bg-green-300 font-bold text-white border-green-500 border-2 border-b-0 rounded-t-lg px-4 py-1">
+        Aktuellt
+        </div>
+        <div className="bg-white hover:bg-green-300 border-green-500 font-bold border-b-0 border-2 rounded-t-lg px-4 py-1">
+        Forskning
+        </div>*/}
+          </div>
+          <div className="block flex flex-wrap justify-around sm:p-12">
+            <Card></Card>
+            <Card></Card>
+            <Card></Card>
+            <Card></Card>
+            <Card></Card>
+            <Card></Card>
+            <Card></Card>
+          </div>
+        </div>
+      </Layout>
+    </div>
+  );
+    }
+}
+
+export default LasMer;
+
+/*<div className="mt-32 flex justify-center border-8 border-black w-full">
           <div className="block flex flex-col md:max-w-4xl mb-8 border-8 border-green-600">
             <div className="bg-red-600 text-white flex flex-col border-8 border-black border-dotted">
               <h1 className="font-bold text-3xl">FORSKNING</h1>
@@ -93,9 +141,4 @@ function Forskning() {
             </div>
           </div>
         </div>
-      </Layout>
-    </div>
-  );
-}
-
-export default Forskning;
+        */
