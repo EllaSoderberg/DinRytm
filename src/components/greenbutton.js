@@ -8,7 +8,7 @@ export const GreenButton = (props) => {
         props.isActive ? `bg-green-500 text-white` : `bg-white text-green-600`
       }  hover:bg-green-300 hover:cursor-pointer font-bold rounded-full px-4 py-1 border-2 border-green-300 m-2`}
     >
-      {this.props.children}
+      {props.children}
     </div>
   );
 };
