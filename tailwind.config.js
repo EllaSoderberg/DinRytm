@@ -21,6 +21,9 @@ module.exports = {
       white: '#fff', 
     },
     screens: {
+        'xs': '420px',
+        // => @media (min-width: 640px) { ... }
+        
         'sm': '640px',
         // => @media (min-width: 640px) { ... }
   
