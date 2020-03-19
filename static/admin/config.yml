@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: ellasoderberg/dinrytm
 
 media_folder: static/img
 public_folder: /img
@@ -76,7 +76,7 @@ collections:
         name: "about"
         file: "src/pages/ommig"
         fields:
-          - { label: "Text", name: "text", widget: "text"}
+          - { label: "Text", name: "text", widget: "markdown"}
     
 
 

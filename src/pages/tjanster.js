@@ -21,7 +21,7 @@ function Tjanster() {
           <Tjanst></Tjanst>
           <Tjanst></Tjanst>
         </div>
-        </div>
+        </div> 
       </Layout>
     </div>
   )
