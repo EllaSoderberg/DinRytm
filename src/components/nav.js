@@ -18,6 +18,11 @@ export class Nav extends React.Component {
   render() {
     let navData = [
       {
+        route: `/`,
+        title: `Hem`,
+        nodes: []
+      },
+      {
         route: `/tjanster`,
         title: `Tjänster`,
         nodes: [
@@ -36,8 +41,8 @@ export class Nav extends React.Component {
         ]
       },
       {
-        route: `/forskning`,
-        title: `Forskning`,
+        route: `/lasmer`,
+        title: `Läs Mer`,
         nodes: []
       },
       {

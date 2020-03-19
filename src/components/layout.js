@@ -8,12 +8,12 @@ class Layout extends React.Component {
     return (
       <div className="z-30 flex flex-col min-h-screen">
         <Header isIndex={this.props.isIndex} />
-        <main className="flex flex-col md:justify-center mx-auto w-full">
+        <main className="flex flex-col md:justify-center">
           {this.props.children}
         </main>
-        <footer className="bg-green-400">
-          <nav className="flex justify-between max-w-4xl mx-auto p-4 md:p-8 text-sm  text-white">
-            <p>
+        <footer className="bg-green-400 text-sm text-white text-center flex justify-center">
+          <nav className="sm:flex sm:justify-between w-full max-w-5xl p-4 md:p-8">
+            <p className="p-2">
               Utvecklad av {` `}
               <a
                 className="font-bold no-underline"
@@ -22,7 +22,7 @@ class Layout extends React.Component {
                 Ella Söderberg
               </a>
             </p>
-            <p>
+            <p className="p-2">
               Designad av {` `}
               <a className="font-bold no-underline" href="#">
                 Maja Lundquist
@@ -32,7 +32,7 @@ class Layout extends React.Component {
                 ....
               </a>
             </p>
-            <p>
+            <p className="p-2">
               Se denna sida på {` `}
               <a
                 className="font-bold no-underline"

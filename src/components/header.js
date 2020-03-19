@@ -31,16 +31,16 @@ export class Header extends React.Component {
       <header
         className={`${
           transparent ? `` : `bg-green-400`
-        } z-50 uppercase fixed w-full ease-out duration-300 transition-all`}
+        } z-40 uppercase fixed w-full ease-out duration-300 transition-all`}
       >
         <div className="flex items-center justify-between max-w-4xl mx-auto p-4 md:p-8">
           <Nav />
           <Link
             className={`${
               transparent
-                ? `h-64 w-64`
+                ? `xs:h-64 xs:w-64 h-32 w-32`
                 : `h-32 w-32`
-            } z-50 absolute top-0 right-0 -m-2 transform ease-in duration-500 transition-all`}
+            } z-40 absolute top-0 right-0 -m-2 transform ease-in duration-500 transition-all`}
             to="/"
           >
             <img src={Logo} alt="Din Rytm"></img>
