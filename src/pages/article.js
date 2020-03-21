@@ -5,7 +5,6 @@ import PropTypes from "prop-types";
 
 export default function Article({ data }) {
   const post = data.markdownRemark;
-  console.log(post);
   return (
     <Layout>
       <div className="mt-32 flex justify-center">
@@ -36,7 +35,7 @@ export default function Article({ data }) {
 }
 
 export const query = graphql`
-  query($slug: String!) {
+  query($slug: String) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
