@@ -12,7 +12,7 @@ export const Card = props => {
   }
   return (
     <div className={`${isVisible ? `` : `hidden`} block w-64 bg-green-600 my-6 mx-4 flex flex-col hover:bg-red-600 hover:cursor-pointer rounded-lg`}>
-    <Link to="article">
+    <Link to={props.slug}>
       <div
         className="block h-40 bg-center bg-cover rounded-t-lg"
         style={{
@@ -37,6 +37,7 @@ Card.propTypes = {
   category: PropTypes.string,
   title: PropTypes.string,
   exc: PropTypes.string,
+  slug: PropTypes.string,
   aktuelltIsActive: PropTypes.bool,
   forskningIsActive: PropTypes.bool
 };

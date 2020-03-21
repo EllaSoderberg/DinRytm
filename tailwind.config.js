@@ -1,7 +1,11 @@
+let tinycolor = require("tinycolor2");
+
 module.exports = {
   theme: {
     colors: {
       green: {
+        'layover-50': tinycolor('#4A5950').setAlpha(0.5).toRgbString(),
+        'layover-25': tinycolor('#4A5950').setAlpha(0.25).toRgbString(),
         '600': '#4A5950',
         '500': '#798672',
         '400': '#85907E',
@@ -35,6 +39,11 @@ module.exports = {
   
         'xl': '1280px',
         // => @media (min-width: 1280px) { ... }
+      },
+      extend: {
+        spacing: {
+          xxl: '26rem'
+        }
       },
   },
   

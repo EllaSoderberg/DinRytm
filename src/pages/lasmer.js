@@ -60,6 +60,9 @@ class LasMer extends React.Component {
                             category
                           }
                           excerpt(pruneLength: 100, format: PLAIN)
+                          fields {
+                            slug
+                          }
                         }
                       }
                     }
@@ -74,6 +77,7 @@ class LasMer extends React.Component {
                       date={node.frontmatter.date}
                       category={node.frontmatter.category}
                       exc={node.excerpt}
+                      slug={node.fields.slug}
                       aktuelltIsActive={this.state.aktuelltIsActive}
                       forskningIsActive={this.state.forskningIsActive}
                     ></Card>
