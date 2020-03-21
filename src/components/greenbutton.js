@@ -14,6 +14,6 @@ export const GreenButton = (props) => {
 };
 
 GreenButton.propTypes = {
-  isActive: PropTypes.boolean,
+  isActive: PropTypes.bool,
   children: PropTypes.string
 };
