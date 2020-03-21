@@ -8,6 +8,14 @@ module.exports = {
     "gatsby-plugin-netlify-cms",
     "gatsby-plugin-eslint",
     `gatsby-plugin-react-helmet`,
+    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `src`,
+        path: `${__dirname}/src/`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

@@ -8,7 +8,8 @@
   "parser": "babel-eslint",
   "rules": {
     // https://eslint.org/docs/2.0.0/rules/strict
-    "strict": 0
+    "strict": 0,
+    "react/display-name": 0
   },
   "extends": [
     // https://eslint.org/docs/rules/
@@ -28,4 +29,5 @@
       "version": "^16.4.2"
     }
   }
+  
 }

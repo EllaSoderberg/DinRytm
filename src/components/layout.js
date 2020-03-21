@@ -29,14 +29,14 @@ class Layout extends React.Component {
               </a>
               {` `} & {` `}
               <a className="font-bold no-underline" href="#">
-                ....
+                Sanna Mogren
               </a>
             </p>
             <p className="p-2">
               Se denna sida på {` `}
               <a
                 className="font-bold no-underline"
-                href="https://github.com/EllaSoderberg"
+                href="https://github.com/EllaSoderberg/dinrytm"
               >
                 GitHub
               </a>
