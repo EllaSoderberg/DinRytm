@@ -8,7 +8,7 @@
     "gatsby": "2.19.22",
     "gatsby-cli": "^2.10.13",
     "gatsby-plugin-manifest": "2.2.42",
-    "gatsby-plugin-netlify-cms": "^4.1.43",
+    "gatsby-plugin-netlify-cms": "^4.2.0",
     "gatsby-plugin-offline": "3.0.35",
     "gatsby-plugin-postcss": "2.1.20",
     "gatsby-plugin-purgecss": "4.0.1",

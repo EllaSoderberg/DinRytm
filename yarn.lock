@@ -787,13 +787,6 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@babel/runtime@^7.8.7":
-  version "7.8.7"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.8.7.tgz#8fefce9802db54881ba59f90bb28719b4996324d"
-  integrity sha512-+AATMUFppJDw6aiR5NVPHqIQBlV/Pj8wY/EZH+lmvRdUo9xBaz/rF3alAwFJQavvKfeOlPE7oaaDHVbcySbCsg==
-  dependencies:
-    regenerator-runtime "^0.13.4"
-
 "@babel/template@^7.8.3", "@babel/template@^7.8.6":
   version "7.8.6"
   resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.8.6.tgz#86b22af15f828dfb086474f964dcc3e39c43ce2b"
@@ -5940,10 +5933,10 @@ gatsby-plugin-manifest@2.2.42:
     semver "^5.7.1"
     sharp "^0.23.4"
 
-gatsby-plugin-netlify-cms@^4.1.43:
-  version "4.1.43"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-4.1.43.tgz#2b39b7f49397b5650382df8a91cb31643d476759"
-  integrity sha512-d9SB9xdhorheJYmkHftbqM1sCvVqm5k//w3GBTFRJoVzJIWjsQiqBw01mRGnfi+cnRZginqB/On59v3MAQtpZg==
+gatsby-plugin-netlify-cms@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-4.2.0.tgz#9d437eb7b41c04272b7a95cd96a8a984e0499ff4"
+  integrity sha512-083VmZMUZPcayhmTh3iWpegZgWu7geuN//bffLzyEUBmMWvFmavZZzUeh2qSJr2JvsJHTa0IvTUxKoJS9+D1fg==
   dependencies:
     "@pieh/friendly-errors-webpack-plugin" "1.7.0-chalk-2"
     copy-webpack-plugin "^5.1.1"
