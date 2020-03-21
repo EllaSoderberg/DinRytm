@@ -8,7 +8,7 @@ public_folder: /img
 collections:
   - name: "inlagg"
     label: "Inlägg"
-    folder: "src/pages/inlagg"
+    folder: "src/pages/ommig"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
