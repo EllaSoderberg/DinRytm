@@ -2,7 +2,7 @@ import React from "react";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import enePhoto from "../images/GreenBg.jpg";
+import Poppy from "../images/poppy.jpg";
 import greenB from "../images/GreenPattern.png";
 import { BackgroundImg } from "../components/backgroundimg";
 import { TextboxRow } from "../components/textboxrow";
@@ -12,24 +12,27 @@ class IndexPage extends React.Component {
   render() {
     let boxData = [
       {
-        title: "kroppskännedom",
+        title: "Samtal och terapi",
+        slug: "/tjanster/samtalochterapi",
         text:
-          "Lär dig att förstå din kropp och öka medvetenheten om fruktsamheten genom att observera och tolka din menscykel."
+          "Hos Din rytm lär du dig förstå och lyssna in din kropp och ditt sinne på nya sätt. Värme, empati och respekt präglar verksamheten."
       },
       {
-        title: "vill du bli gravid?",
+        title: "MediYoga",
+        slug: "/tjanster/mediyoga",
         text:
-          "Planerar du/ni för en graviditet? Lär dig hur du kan förbättra din hälsa och öka förståelsen för din/er fruktsamhet."
+          "Stärk din hälsa och utveckla ditt självledarskap genom individuell terapi och träning. Hitta din rytm i livet!"
       },
       {
-        title: "mediyoga som terapi",
+        title: "Fertilitetsförståelse",
+        slug: "/tjanster/fertilitetsforstaelse",
         text:
-          "Stärk din hälsa och utveckla ditt självledarskap genom individuell terapi och träning. Hitta din rytm i livet."
+          "Lär dig att förstå din kropp och fertilitet genom att observera och tolka din menscykel."
       }
     ];
     return (
       <div>
-        <BackgroundImg src={enePhoto} height={110} />
+        <BackgroundImg src={Poppy} height={110} />
         <Layout isIndex={true}>
           <SEO
             keywords={[`Fertilitet`, `din rytm`, `yoga`, `mediyoga`]}
@@ -38,7 +41,6 @@ class IndexPage extends React.Component {
           <CenterText />
           <section className="block z-30 pb-20 bg-white">
             <div className="-mt-16 text-white">
-
               <TextboxRow boxData={boxData} />
             </div>
           </section>
@@ -49,12 +51,15 @@ class IndexPage extends React.Component {
                 <h3 className="text-5xl capitalize font-serif">om din rytm</h3>
                 <p className="text-sm p-3">
                   Hos Din Rytm lär du dig att förstå och lyssna in din kropp och
-                  ditt sinne på ett nytt sätt. Vi har bred kunskap inom
-                  reproduktiv hälsa, omvårdnad, sex- och samlevnad,
-                  fertilitetsförståelse (Fertility Awareness), menscykelhälsa,
-                  klimakteriet, holistisk hälsa, miljö/livsstil, självledarskap
-                  etc. och kan erbjuda samtal/rådgivning, handledning,
-                  yogaklasser och Mediyogaterapi.
+                  ditt sinne. Min erfarenhet är att kognitiv beteende terapi,
+                  mindfulness, mediyoga och fertilitetsförståelse är fantastiska
+                  tekniker, var och en för sig eller i kombination. En kontakt
+                  kan se ut på olika sätt och vara lång eller kort beroende på
+                  vad du söker för. Jag har bred kunskap från flera områden
+                  såsom psykisk hälsa, reproduktiv hälsa och omvårdnad, sex- och
+                  samlevnad, existentiella frågor kring fertilitet,
+                  fertilitetsförståelse (Fertility Awareness), menscykelhälsa
+                  och hälsa i klimakteriet.
                 </p>
               </div>
               <div className="md:w-5/12">
