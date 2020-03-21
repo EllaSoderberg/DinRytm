@@ -27,7 +27,3 @@ Chakrasystemet är en karta över ditt inre landskap, din intuition är din komp
 Yoga och meditation är utmärkta verktyg för att läsa av din kompass och karta. I yogarörelserna förbereder du kropp och sinne för meditation. Meditation handlar inte om att sitta med benen i kors och inte röra en fena. Det handlar om att ge din kropp en stund av total uppmärksamhet och tid på ett sätt som passar dig. Du kan sitta, stå eller gå så som du vill. Du har ditt fokus inåt i kroppen, till exempel på en kroppsdel, på andetaget, din puls, eller på en plats som är stel eller gör ont. En kärleksfull, nyfiken och tillåtande uppmärksamhet, och varje tanke som tar din uppmärksamhet från kroppen blir en påminnelse om att rikta fokus inåt i kroppen igen, en liten stund till.
 
 **Lyssna in – l å t – d e t – t a – t i d!**
-
-
-
-<!--EndFragment-->

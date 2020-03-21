@@ -50,7 +50,7 @@ class LasMer extends React.Component {
               <StaticQuery
                 query={graphql`
                   query {
-                    allMarkdownRemark {
+                    allMarkdownRemark(filter: {fields: {slug: {regex: "/(lasmer)/"}}}) {
                       edges {
                         node {
                           frontmatter {
