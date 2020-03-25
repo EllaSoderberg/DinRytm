@@ -4,24 +4,78 @@ image: /img/blur.jpg
 date: 2012-12-16T20:17:31.834Z
 template: tjanst
 ---
-**Önskan om graviditet**
-<br/>
-<br/>
-Vi vet idag att vår stressiga livsstil kan påverka vår fruktsamhet på ett negativt sätt. Men det finns också möjlighet att förbättra och stärka vår reproduktiva hälsa genom att se över och anpassa vår livsstil, våra tankemönster, närmiljö m.m.
-<br/>
-<br/>
-Medvetenhet om den egna menscykeln handlar om kunskapen att ”tolka” sin cykliska kropp. Dagliga observationer och registreringar av kroppens biokemiska tecken ger dig kunskap om menscykelns olika faser och din fertilitet. Förståelsen för det som upplevs under menscykeln är till hjälp för att förstå många av de känslomässiga och kroppsliga förändringar som kan upplevas varje månad samt med stigande ålder. Genom att du lär dig förstå och tolka menscykeln får du ökad kunskap om din gynekologiska och sexuella hälsa, din fertilitet och på köpet en större självtillit när det kommer till viktiga livsval. 
-<br/>
-<br/>
-Handledningen är baserad på Justissemetoden (Symptothermalmetod), ett standardiserat system framtaget för att optimera inlärningen och det dagliga användandet, metoden har sin grund i väl dokumenterad forskning.
-Har du redan börjat kartföra din menscykel med någon annan teknik och har svårt att tolka vad din menskarta visar är du också välkommen att kontakta mig.
-<br/>
-<br/>
-I mitt arbete vänder jag mig till alla som vill veta mer om fertilitet och hälsa oberoende av om du vill bilda familj eller ej.
-<br/>
-<br/>
-**Önskar du en hormonfri preventivmetod?**
-<br/>
-<br/>
-För dig som inte vill eller kan använda hormonella preventivmedel erbjuder jag handledning i Symtothermalmetoden. Genom att lära dig att observera, registrera och tolka kroppens förändringar under menscykeln vet du när du är fertil och infertil. En bonus är att du samtidigt får kunskap om ditt hormonsystem och din hela hälsa. Den här kunskapen är även viktig för dig som använder barriärmetoder (pessar, kondom, femidom).
-Metoden kan användas oavsett om du har en regelbunden eller oregelbunden menscykel.
+<!--StartFragment-->
+
+**Handledning önskan om graviditet och menshälsa**
+
+Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller värmevallningar/frysningar.
+
+Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Den här kunskapen är sedan hjälpsam för att förstå din helhetshälsa, fertilitet och infertilitet, gynekologiska hälsa och förändringar i menscykeln under livet. Handledningen skräddarsys efter dina behov, vare sig du har regelbundna eller oregelbundna cykler, har slutat med hormonella preventivmedel, eller är i klimakteriet.
+
+Vi går igenom din tidigare och nuvarande hälsa och livssituation utifrån ett helhetsperspektiv. För de flesta som söker för mensrelaterade besvär är en introduktion till reproduktionens anatomi och fysiologi, samt till Justissemetoden en bra start. Med den kunskapen och tekniken kan du börja observera och registrera de biokemiska tecken som din kropp signalerar när hormonerna skiftar.
+
+Återbesök rekommenderas för att du ska få återkoppling på dina observationer, din kartföring och lära dig tolka din menscykel på egen hand.
+
+Utifrån dina besvär, behov, önskningar och mål får du förslag på hur du kan gå vidare för att må bättre. Det kan röra sig om livsstilsförändringar såsom om kost, sömn, träning, återhämtning, glädje och lust samt ibland även mindfulnessövningar och terapi.
+
+Nuvarande pris:
+
+Nybesök (50 min) 900 kr
+
+Återbesök (50 min) 900 kr
+
+(Heltidsstudent 20% rabatt)
+
+Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva på nätet finns flera olika så välj en som passar era behov.
+
+Önskar du boka en tid? Skicka ett meddelande genom att klicka här.
+
+
+
+**Handledning hormonfri preventivmetod**
+
+Handledning för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.
+
+Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Jag handleder dig i Justissemetoden, en teknik för att observera och registrera de biokemiska tecken som din kropp signalerar när hormonerna skiftar. Justissemetoden är en symtothermalmetod dvs du observerar både livmoderhalssekret och basal kroppstemperatur.
+
+Den här kunskapen är sedan hjälpsam för att förstå dina fertila och infertila dagar och som bonus får du en förståelse för din helhetshälsa och gynekologiska hälsa samt kan följa förändringarna i menscykeln under livet.
+
+Vi går igenom din tidigare och nuvarande hälsa och livssituation och du får en introduktion till reproduktionens anatomi och fysiologi, samt observations- och kartföringsteknik. Fem till åtta återbesök rekommenderas för att du ska få återkoppling på dina observationer, din kartföring och känna dig trygg i att kunna tolka dina fertila och infertila dagar på egen hand.
+
+Utifrån dina besvär, behov, önskningar och mål får du förslag på hur du kan gå vidare för att må bättre. Det kan röra sig om livsstilsförändringar såsom om kost, sömn, träning, återhämtning, glädje och lust samt ibland även mindfulnessövningar och terapi.
+
+Nuvarande pris:
+
+Första besöket (90 min) 1500 kr
+
+Återbesök (45 min) 900 kr
+
+(Heltidsstudent 20% rabatt)
+
+Instruktionsbok (eng.) och fertilitetstermometer tillkommer.
+
+Önskar du boka en tid? Skicka ett meddelande genom att klicka här.
+
+
+
+**Handledning om menscykeln, i grupp**
+
+För dig som vill veta mer om din menscykel, din hälsa och fertilitet.
+
+Detta är ett populärt sätt att lära sig mer om menscykelns och fruktsamhetens anatomi och fysiologi, lära dig observera och kartföra menscykeln, och samtidigt dela erfarenheter med andra.
+
+Vi ses tre kvällar med 4 veckors mellanrum. Varje träff är 3 timmar inklusive fikapaus. Önskar du mer information om kursupplägg kika här.
+
+Är ni redan en grupp som är intresserade av att lära er mer om detta, anmäl er under kontakt.
+
+Skriv i meddelandet: Hur många ni är, era namn och vem av er jag kan kontakta, så planerar vi ett upplägg tillsammans. Vi kan ses hemma hos någon av er eller i lokal som jag ordnar.
+
+Önskar du anmäla dig till väntelistan för kommande kurs skicka ett meddelande via kontaktformuläret.
+
+Nuvarande pris
+
+500 kr/deltagare (6 deltagare) om annat antal deltagare justeras priset något.
+
+
+
+<!--EndFragment-->
