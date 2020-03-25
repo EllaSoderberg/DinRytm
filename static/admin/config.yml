@@ -62,7 +62,7 @@ collections:
         fields:
           - { label: "Titel", name: "titlebox3", widget: "string" }
           - { label: "Text", name: "textbox3", widget: "text" }
-      - label: "Om din rytm"
+      - label: "Om Din rytm"
         name: "aboutindex"
         file: "src/pages/index"
         fields:
@@ -72,7 +72,7 @@ collections:
     label: "Om mig"
     delete: false
     files: 
-      - label: "Om din rytm"
+      - label: "Om Din rytm"
         name: "about"
         file: "src/pages/ommig"
         fields:

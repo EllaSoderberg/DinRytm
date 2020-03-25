@@ -5,6 +5,7 @@ title: >-
 date: 2018-04-03T19:20:22.404Z
 image: /img/promenad-vid-vatten.jpg
 category: aktuellt
+template: article
 ---
 <!--StartFragment-->
 
@@ -24,7 +25,7 @@ Vet du va’ som är så härligt?
 
 Det är aldrig för sent att börja bygga grunden, och varför inte göra det tillsammans med andra för att bli inspirerad och inspirera!
 
-Apropå att bygga en bra grund, hitta din rytm och vara i ditt bästa jag så varför inte börja redan idag med en liten, liten förändring.
+Apropå att bygga en bra grund, hitta Din rytm och vara i ditt bästa jag så varför inte börja redan idag med en liten, liten förändring.
 
 Som till exempel att se till att komma i säng i tid, senast mellan kl. 22-23. Det mest gynnsamma är att undvika mejl, mobil/datasurfande och TV från klockan 20 för att låta kroppen varva ner och ställa in sig på sömn. Vid 22-23 tiden sjunker kortisolnivåerna i kroppen som då behöver sin nattliga vila och återhämtning.
 
@@ -34,7 +35,7 @@ Som till exempel att se till att komma i säng i tid, senast mellan kl. 22-23. D
 
 …eller gör något du känner lust till även om det bara blir en liten stund varje dag.
 
-Små förändringar som kan vara en bra början till ditt bygge och som en i taget kan bli en inspirerande resa för dig där du puttar på perspektiven bit för bit, både fysiskt och mentalt, där du hittar din rytm.
+Små förändringar som kan vara en bra början till ditt bygge och som en i taget kan bli en inspirerande resa för dig där du puttar på perspektiven bit för bit, både fysiskt och mentalt, där du hittar Din rytm.
 
 
 

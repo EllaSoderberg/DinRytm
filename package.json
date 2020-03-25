@@ -6,7 +6,7 @@
   "dependencies": {
     "core-js": "3",
     "gatsby": "2.19.22",
-    "gatsby-cli": "^2.10.13",
+    "gatsby-cli": "^2.11.1",
     "gatsby-plugin-manifest": "2.2.42",
     "gatsby-plugin-netlify-cms": "^4.2.0",
     "gatsby-plugin-offline": "3.0.35",

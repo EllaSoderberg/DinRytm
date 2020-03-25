@@ -17,11 +17,14 @@ exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
   const result = await graphql(`
     query {
-      allMarkdownRemark {
+      allMarkdownRemark(sort: {fields: frontmatter___date}) {
         edges {
           node {
             fields {
               slug
+            }
+            frontmatter {
+              template
             }
           }
         }
@@ -32,7 +35,7 @@ exports.createPages = async ({ graphql, actions }) => {
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
       path: node.fields.slug,
-      component: path.resolve(`./src/pages/article.js`),
+      component: path.resolve(`./src/templates/${node.frontmatter.template}.js`),
       context: {
         // Data passed to context is available
         // in page queries as GraphQL variables.

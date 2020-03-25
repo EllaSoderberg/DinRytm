@@ -3,6 +3,7 @@ title: DEN VIKTIGA ANDNINGEN
 date: 2018-12-16T20:17:31.834Z
 image: /img/breath-beach.jpg
 category: aktuellt
+template: article
 ---
 <!--StartFragment-->
 

@@ -47,7 +47,7 @@ export class Nav extends React.Component {
       },
       {
         route: `/om`,
-        title: `Om Mig`,
+        title: `Om`,
         nodes: []
       },
       {
@@ -78,11 +78,11 @@ export class Nav extends React.Component {
           </svg>
         </button>
         <div className="hidden md:block">
-          <div className="flex font-bold text-xl">
+          <div className="lg:-ml-32 flex font-bold text-xl md:text-2xl">
             {navData.map(link => (
               <Link
                 className={
-                  "md:inline-block md:ml-6 no-underline text-white hover:text-green-100 active:text-green-600"
+                  "md:inline-block md:ml-6 lg:ml-12 no-underline text-white hover:text-green-100 active:text-green-600"
                 }
                 key={link.title}
                 to={link.route}
