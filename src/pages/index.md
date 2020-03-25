@@ -3,7 +3,7 @@ template: index
 image: /img/poppy.jpg
 box1title: Samtal och terapi
 box1text: Det kan kännas som att tillvaron tyngs av en grå filt, tankar och relationer skaver, humöret och känslorna åker berg och dalbana. Du kan få hjälp att förstå vad du behöver.
-box1slug: /tjanster/samtalochterapi
+box1slug: /tjanster/terapi
 box2title: MediYoga
 box2text: Stärk din hälsa och utveckla ditt självledarskap. Hitta Din rytm i livet!
 box2slug: /tjanster/mediyoga
