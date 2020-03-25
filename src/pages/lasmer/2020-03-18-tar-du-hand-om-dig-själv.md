@@ -3,6 +3,7 @@ title: TAR DU HAND OM DIG SJÄLV?
 date: 2019-06-25T19:26:30.786Z
 image: /img/planta-i-händer.jpg
 category: aktuellt
+template: article
 ---
 <!--StartFragment-->
 

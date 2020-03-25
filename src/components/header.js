@@ -43,7 +43,7 @@ export class Header extends React.Component {
             } z-40 absolute top-0 right-0 -m-2 transform ease-in duration-500 transition-all`}
             to="/"
           >
-            <img src={Logo} alt="Din Rytm"></img>
+            <img src={Logo} alt="Din rytm"></img>
           </Link>
         </div>
       </header>

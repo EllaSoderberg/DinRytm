@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: master
+  branch: master
 
 media_folder: static/img
 public_folder: /img
@@ -8,9 +8,9 @@ public_folder: /img
 collections:
   - name: "inlagg"
     label: "Inlägg"
-    folder: "src/pages/ommig"
+    folder: "src/pages/lasmer"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     editor:
      preview: true
     fields:
@@ -22,62 +22,31 @@ collections:
 
   - name: "tjanster"
     label: "Tjänster"
-    folder: "src/pages/tjanser"
+    folder: "src/pages/tjanster"
     create: true
     slug: "{{slug}}"
     fields: 
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Bild", name: "image",  widget: "image"}
-      - { label: "Ingress", name: "ingress", widget: "text" }
+      - { label: "Sammanfattning", name: "ingress", required: false, widget: "text"}
       - { label: "Text", name: "body", widget: "markdown" }
-      - label: "Priser"
-        name: "price"
-        widget: "object"
-        fields:
-          - { label: "Titel", name: "title", widget: "string" }
-          - { label: 'Pris', name: 'number', widget: 'number' }
-          - { label: "Beskrivning", name: "description", widget: "text" }
 
   - name: "indextexts"
     label: "Texter startsida"
+    folder: "src/pages"
     delete: false
     editor: 
       preview: false
-    files:
-      - label: "textbox1"
-        name: "Textbox 1"
-        file: "src/pages/index"
-        fields:
-          - { label: "Titel", name: "titlebox1", widget: "string" }
-          - { label: "Text", name: "textbox1", widget: "text" }
-      - label: "textbox2"
-        name: "Textbox 2"
-        file: "src/pages/index"
-        fields:
-          - { label: "Titel", name: "titlebox2", widget: "string" }
-          - { label: "Text", name: "textbox2", widget: "text" }
-      - label: "textbox3"
-        name: "Textbox 3"
-        file: "src/pages/index"
-        fields:
-          - { label: "Titel", name: "titlebox3", widget: "string" }
-          - { label: "Text", name: "textbox3", widget: "text" }
-      - label: "Om din rytm"
-        name: "aboutindex"
-        file: "src/pages/index"
-        fields:
-          - { label: "Text", name: "text", widget: "text"}
-
-  - name: "ommig"
-    label: "Om mig"
-    delete: false
-    files: 
-      - label: "Om din rytm"
-        name: "about"
-        file: "src/pages/ommig"
-        fields:
-          - { label: "Text", name: "text", widget: "markdown"}
-    
+    fields: 
+      - { label: "Bild startsida", name: "image",  widget: "image"}
+      - { label: "Slogan startsida", name: "Slogan", widget: "string"}
+      - { label: "Box 1 titel", name: "box1title", widget: "string" }
+      - { label: "Box 1 text", name: "box1text", widget: "text"}
+      - { label: "Box 2 titel", name: "box2title", widget: "string" }
+      - { label: "Box 2 text", name: "box2text", widget: "text"}
+      - { label: "Box 3 titel", name: "box3title", widget: "string" }
+      - { label: "Box 3 text", name: "box3text", widget: "text"}
+      - { label: "Om startsida", name: "om", widget: "text" }
 
 
       

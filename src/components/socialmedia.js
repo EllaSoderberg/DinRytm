@@ -5,7 +5,7 @@ export const SocialMedia = () => {
     <div className="flex mt-1">
       <a href="https://www.instagram.com/dinrytm/">
         <svg
-          className="h-6 w-6 ml-4 fill-current text-white"
+          className="h-6 w-6 ml-8 fill-current text-white"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 511 511.9"
         >

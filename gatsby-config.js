@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Din Rytm`,
-    description: `Din Rytm, Din Hälsa`,
+    title: `Din rytm`,
+    description: `Din rytm, Din Hälsa`,
     author: `Malin Söderberg`
   },
   plugins: [

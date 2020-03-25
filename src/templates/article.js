@@ -8,7 +8,7 @@ export default function Article({ data }) {
   return (
     <Layout>
       <div className="mt-32 flex justify-center">
-        <div className="block flex flex-col w-full md:max-w-4xl mb-8">
+        <div className="block flex flex-col w-full md:max-w-5xl mb-8">
           <div className="block h-64 md:h-xxl">
             <div
               className="h-full bg-center bg-cover flex"

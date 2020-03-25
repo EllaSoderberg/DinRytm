@@ -11,7 +11,7 @@ class Tjanster extends React.Component {
       <div>
         <Layout isIndex={false}>
           <SEO
-            keywords={[`Fertilitet`, `din rytm`, `yoga`, `mediyoga`]}
+            keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
             title="Tjänster"
           />
           <div className="mt-32 flex flex-col justify-center">

@@ -1,6 +1,8 @@
 ---
 title: Samtal och Terapi
 image: /img/wheat.jpg
+date: 2011-12-16T20:17:31.834Z
+template: tjanst
 ---
 Livet går i cykler alla går vi igenom perioder som känns extra tunga, obegripliga eller smärtsamma. Det kan kännas som att tillvaron tyngs av en grå filt, tankar och relationer skaver, humöret och känslorna åker berg och dalbana.
 <br/>

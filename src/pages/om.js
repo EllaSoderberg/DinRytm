@@ -9,48 +9,75 @@ function Om() {
     <div>
       <Layout isIndex={false}>
         <SEO
-          keywords={[`Fertilitet`, `din rytm`, `yoga`, `mediyoga`]}
+          keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
           title="Forskning"
         />
         <div className="mt-32 flex justify-center">
-          <div className="block flex flex-col sm:flex-row w-full md:w-2/3 mb-8">
+          <div className="block w-full md:w-2/3 mb-8">
+          <div className="px-4 mb-8">
+          <h1 className="font-serif text-6xl">Om Din rytm</h1>
+          <p className="text-xl px-8">
+                Din rytm grundades av mig, Malin Söderberg, 2014 efter många år
+                som kliniskt verksam sjuksköterska och barnmorska, samt en
+                forskarexamen inom reproduktiv hälsa. Avhandlingsarbetet
+                behandlade existentiella frågor kring fertilitet och
+                barnafödande vilket var en anledning till att Din rytm kom till.
+                <br />
+                <br />
+                Arbetet med hela människan i sitt sammanhang har alltid varit
+                viktigt för mig. För att kunna erbjuda ett helhetsperspektiv i
+                mitt arbete har jag därför fortbildat mig inom kognitiv
+                psykoterapi, mediyoga och holistisk hälsa.
+                <br />
+                <br />
+                Jag har arbetat kliniskt under många år bland annat inom födande
+                och eftervård, på preventivmedelsmottagning, RFSU-klinik,
+                ungdomsmottagning och hälsocentral. Efter min disputation 2013
+                arbetade jag några år som universitetslärare och senare som
+                samordnare av Mödrahälsovården i Stockholms läns landsting på halvtid, samtidigt
+                som jag började bygga upp min egen verksamhet.
+                <br />
+                <br />
+                Värme, empati och respekt är viktiga delar i arbetet.
+              </p>
+          </div>
+          <div className="w-full border-b-4 border-dotted border-green-500"></div>
+          <div className="block flex flex-col sm:flex-row">
             <div className="flex-1">
-            <img className="py-2 px-16 xs:py-8 xs:px-24 sm:pr-0 sm:pl-8" src={ Malin }></img>
+              <img
+                className="py-2 px-16 xs:py-8 xs:px-24 sm:pr-0 sm:pl-8"
+                src={Malin}
+              ></img>
             </div>
-            <div className="flex-1 px-10">
-              <h1 className="font-serif text-5xl ">Om Mig</h1>
-              <p>
-                Din Rytm grundades av mig, Malin Söderberg, 2014. 
-                <br></br>
-                <br></br>
-                Jag är
-                utbildad barnmorska och forskare med särskilt intresse för
-                hållbarhet inom hälsa och miljö. Jag har de senaste åren
-                specialiserat mig inom Holistisk Reproduktiv hälsa och MediYoga
-                dels för egen utveckling och dels för att kunna erbjuda individ
-                och företag möjlighet att integrera närvaro, acceptans, glädje
-                och lust i vardagen.
-                <br></br>
-                <br></br>
-                 Min önskan är att menstruerare (och
-                partners) ska få möjlighet att lära sig mer om sin egen kropp
-                och dess cykliska språk för ökad självtillit och möjlighet att
-                förstå sin fertila förmåga samt övervaka sin gynekologiska och
-                sexuella hälsa. I mitt arbete vänder jag mig till alla som vill
-                veta mer om fruktsamhet och hälsa, oberoende av om du vill bilda
-                familj eller ej. 
-                <br></br>
-                <br></br>
-                Jag har arbetat inom födande och eftervård, på
-                preventivmedelsmottagning, RFSU-klinik och ungdomsmottagning.
-                Parallellt med det kliniska arbetet har jag bedrivit
-                forskarstudier inom ämnet reproduktiv omvårdnad och disputerade
-                i maj 2013 med avhandlingen; Fruktsamhet och barnafödande:
-                upplevelser, tankar och attityder bland kvinnor som inte fött
-                barn.
+            <div className="flex-1 px-10 sm:mt-6">
+              <h1 className="font-serif text-6xl ">Om Mig</h1>
+              <p className="text-xl">
+                Din rytm grundades av mig, Malin Söderberg, 2014 efter många år
+                som kliniskt verksam sjuksköterska och barnmorska, samt en
+                forskarexamen inom reproduktiv hälsa. Avhandlingsarbetet
+                behandlade existentiella frågor kring fertilitet och
+                barnafödande vilket var en anledning till att Din rytm kom till.
+                <br />
+                <br />
+                Arbetet med hela människan i sitt sammanhang har alltid varit
+                viktigt för mig. För att kunna erbjuda ett helhetsperspektiv i
+                mitt arbete har jag därför fortbildat mig inom kognitiv
+                psykoterapi, mediyoga och holistisk hälsa.
+                <br />
+                <br />
+                Jag har arbetat kliniskt under många år bland annat inom födande
+                och eftervård, på preventivmedelsmottagning, RFSU-klinik,
+                ungdomsmottagning och hälsocentral. Efter min disputation 2013
+                arbetade jag några år som universitetslärare och senare som
+                samordnare av Mödrahälsovården i Stockholms läns landsting på halvtid, samtidigt
+                som jag började bygga upp min egen verksamhet.
+                <br />
+                <br />
+                Värme, empati och respekt är viktiga delar i arbetet.
               </p>
             </div>
           </div>
+        </div>
         </div>
       </Layout>
     </div>

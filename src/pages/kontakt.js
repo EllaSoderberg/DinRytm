@@ -10,7 +10,7 @@ function Kontakt() {
     <div>
       <Layout isIndex={false}>
         <SEO
-          keywords={[`Fertilitet`, `din rytm`, `yoga`, `mediyoga`]}
+          keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
           title="Tjanster"
         />
         <div className="mt-32 flex justify-center">

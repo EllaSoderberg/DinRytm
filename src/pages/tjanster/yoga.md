@@ -1,6 +1,8 @@
 ---
-title: MediYoga
+title: Yoga
 image: /img/waterflower.jpg
+date: 2013-12-16T20:17:31.834Z
+template: tjanst
 ---
 MediYoga som terapi ger dig verktyg att hitta din väg i livet och nå hälsa. Med din hälsohistoria som utgångspunkt får du olika verktyg som kan förbättra ditt mående. Vi utgår från din livssituation och lyssnar in vad du behöver.
 <br/>
