@@ -3,6 +3,7 @@ title: Priser
 image: /img/blur.jpg
 date: 2014-12-16T20:17:31.834Z
 template: tjanst
+ingress: Vi vet idag att vår stressiga livsstil kan påverka vår fruktsamhet på ett negativt sätt. Men det finns också möjlighet att förbättra och stärka vår reproduktiva hälsa genom att se över och anpassa vår livsstil, våra tankemönster, närmiljö m.m.
 ---
 **Önskan om graviditet**
 <br/>
