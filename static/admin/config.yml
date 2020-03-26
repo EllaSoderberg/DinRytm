@@ -54,5 +54,26 @@ collections:
       - { label: "Box 3 leder till", name: "box3slug", widget: "string"}
       - { label: "Om startsida", name: "om", widget: "text" }
 
+  - name: "om"
+    label: "Om"
+    folder: "src/pages"
+    delete: false
+    create: false
+    fields: 
+      - { label: "Template", name: "template", widget: "hidden", default: "om"}
+      - { label: "Bild", name: "image",  widget: "image"}
+      - { label: "Om Din rytm", name: "about", widget: "markdown" }
+      - { label: "Om mig", name: "aboutme", widget: "markdown" }
+
+  - name: "kontakt"
+    label: "Kontakt"
+    folder: "src/pages"
+    delete: false
+    create: false
+    fields: 
+      - { label: "Template", name: "template", widget: "hidden", default: "kontakt"}
+      - { label: "Telefonnummer", name: "phone", widget: "string" }
+      - { label: "E-post", name: "email", widget: "string" }
+
 
       
