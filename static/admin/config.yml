@@ -10,7 +10,7 @@ collections:
     label: "Inlägg"
     folder: "src/pages/lasmer"
     create: true
-    slug: "{{slug}}"
+    slug: "{{title}}"
     editor:
      preview: true
     fields:
@@ -39,13 +39,16 @@ collections:
       preview: false
     fields: 
       - { label: "Bild startsida", name: "image",  widget: "image"}
-      - { label: "Slogan startsida", name: "Slogan", widget: "string"}
+      - { label: "Slogan startsida", name: "slogan", widget: "string"}
       - { label: "Box 1 titel", name: "box1title", widget: "string" }
       - { label: "Box 1 text", name: "box1text", widget: "text"}
+      - { label: "Box 1 leder till", name: "box1slug", widget: "string"}
       - { label: "Box 2 titel", name: "box2title", widget: "string" }
       - { label: "Box 2 text", name: "box2text", widget: "text"}
+      - { label: "Box 2 leder till", name: "box2slug", widget: "string"
       - { label: "Box 3 titel", name: "box3title", widget: "string" }
       - { label: "Box 3 text", name: "box3text", widget: "text"}
+      - { label: "Box 3 leder till", name: "box3slug", widget: "string"
       - { label: "Om startsida", name: "om", widget: "text" }
 
 

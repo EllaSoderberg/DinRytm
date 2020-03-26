@@ -28,7 +28,7 @@ class IndexPage extends React.Component {
                 box3text
                 box3slug
                 om
-                Slogan
+                slogan
               }
             }
           }
@@ -54,7 +54,7 @@ class IndexPage extends React.Component {
                         title:
                         data.markdownRemark.frontmatter
                             .box1title,
-                        slug:
+                        slug: "/tjanster/" +
                           data.markdownRemark.frontmatter
                             .box1slug,
                         text:
@@ -64,7 +64,7 @@ class IndexPage extends React.Component {
                         title:
                           data.markdownRemark.frontmatter
                             .box2title,
-                        slug:
+                        slug: "/tjanster/" +
                           data.markdownRemark.frontmatter
                             .box2slug,
                         text:
@@ -74,7 +74,7 @@ class IndexPage extends React.Component {
                         title:
                           data.markdownRemark.frontmatter
                             .box3title,
-                        slug:
+                        slug: "/tjanster/" +
                           data.markdownRemark.frontmatter
                             .box3slug,
                         text:
