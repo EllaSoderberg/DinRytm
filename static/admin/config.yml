@@ -37,7 +37,6 @@ collections:
     label: "Texter startsida"
     folder: "src/pages"
     delete: false
-    create: false
     editor: 
       preview: false
     fields: 
@@ -58,7 +57,6 @@ collections:
     label: "Om"
     folder: "src/pages"
     delete: false
-    create: false
     fields: 
       - { label: "Template", name: "template", widget: "hidden", default: "om"}
       - { label: "Bild", name: "image",  widget: "image"}
@@ -69,7 +67,6 @@ collections:
     label: "Kontakt"
     folder: "src/pages"
     delete: false
-    create: false
     fields: 
       - { label: "Template", name: "template", widget: "hidden", default: "kontakt"}
       - { label: "Telefonnummer", name: "phone", widget: "string" }
