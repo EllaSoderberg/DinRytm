@@ -51,7 +51,7 @@ collections:
       - { label: "Box 2 leder till", name: "box2slug", widget: "string"}
       - { label: "Box 3 titel", name: "box3title", widget: "string" }
       - { label: "Box 3 text", name: "box3text", widget: "text"}
-      - { label: "Box 3 leder till", name: "box3slug", widget: "string"
+      - { label: "Box 3 leder till", name: "box3slug", widget: "string"}
       - { label: "Om startsida", name: "om", widget: "text" }
 
 
