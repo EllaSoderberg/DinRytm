@@ -39,7 +39,7 @@ export default function Om({ data }) {
 
 export const query = graphql`
   query($slug: String) {
-    markdownRemark(fileAbsolutePath: { regex: "/(om)/" }) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       frontmatter {
         aboutme
         about
