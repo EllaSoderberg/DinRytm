@@ -17,17 +17,18 @@ export default function Article({ data }) {
               }}
             >
               <div className="text-white bg-green-layover-50 h-auto w-full m-4 p-4 self-end">
-              
                 <div className="text-3xl font-serif font-bold">
                   {post.frontmatter.title}
                 </div>
                 <div>{post.frontmatter.date}</div>
                 <div className="absolute bg-green-600 w-full top-0 left-0 border-red-600 border-8"></div>
-                
               </div>
             </div>
           </div>
-          <div className="p-8 break-words" dangerouslySetInnerHTML={{ __html: post.html }} />
+          <div
+            className="p-8 break-words"
+            dangerouslySetInnerHTML={{ __html: post.html }}
+          />
         </div>
       </div>
     </Layout>

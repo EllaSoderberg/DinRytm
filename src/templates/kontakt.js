@@ -5,9 +5,9 @@ import PropTypes from "prop-types";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import Form from "../components/form";
-//import PinkPattern from "../images/PinkPattern.png";
 
-function Kontakt() {
+export default function Kontakt({ data }) {
+  const info = data.markdownRemark.frontmatter;
   return (
     <div>
       <Layout isIndex={false}>
@@ -16,15 +16,15 @@ function Kontakt() {
           title="Tjanster"
         />
         <div className="mt-32 flex justify-center">
-          <div className="block flex flex-col w-full max-w-2xl mb-8 h-full px-4">
+          <div className="block flex flex-col w-full max-w-5xl mb-8 h-full px-4">
             <div className="font-bold text-3xl px-8 pb-8">Kontakt:</div>
             <p className="pb-8 px-8">
               <b>Malin Söderberg</b>
               <br></br>
               <br></br>
-              Telefon: <a href="tel:+46766144118">076-614 41 18</a>
+              Telefon: <a href={"tel:" + info.phone}>{info.phone}</a>
               <br></br>
-              Mail: <a href="mailto:info@dinrytm.se">info@dinrytm.se</a>
+              Mail: <a href={"mailto:" + info.email}>{info.email}</a>
               <br></br>
               <br></br>
               <b>
@@ -40,16 +40,12 @@ function Kontakt() {
   );
 }
 
-export default Kontakt;
-
 export const query = graphql`
   query($slug: String) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
-      html
       frontmatter {
-        title
-        image
-        ingress
+        email
+        phone
       }
     }
   }
@@ -58,10 +54,9 @@ export const query = graphql`
 Kontakt.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
-      html: PropTypes.string,
       frontmatter: PropTypes.shape({
-        title: PropTypes.string,
-        image: PropTypes.string
+        email: PropTypes.string,
+        phone: PropTypes.string
       })
     })
   })

@@ -44,40 +44,31 @@ class IndexPage extends React.Component {
                 keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
                 title="Home"
               />
-              <CenterText text={data.markdownRemark.frontmatter.slogan}/>
+              <CenterText text={data.markdownRemark.frontmatter.slogan} />
               <section className="block z-30 pb-20 bg-white">
                 <div className="-mt-16 text-white">
                   <TextboxRow
                     boxData={[
                       {
-                        title:
-                        data.markdownRemark.frontmatter
-                            .box1title,
-                        slug: "/tjanster/" +
-                          data.markdownRemark.frontmatter
-                            .box1slug,
-                        text:
-                          data.markdownRemark.frontmatter.box1text
+                        title: data.markdownRemark.frontmatter.box1title,
+                        slug:
+                          "/tjanster/" +
+                          data.markdownRemark.frontmatter.box1slug,
+                        text: data.markdownRemark.frontmatter.box1text
                       },
                       {
-                        title:
-                          data.markdownRemark.frontmatter
-                            .box2title,
-                        slug: "/tjanster/" +
-                          data.markdownRemark.frontmatter
-                            .box2slug,
-                        text:
-                          data.markdownRemark.frontmatter.box2text
+                        title: data.markdownRemark.frontmatter.box2title,
+                        slug:
+                          "/tjanster/" +
+                          data.markdownRemark.frontmatter.box2slug,
+                        text: data.markdownRemark.frontmatter.box2text
                       },
                       {
-                        title:
-                          data.markdownRemark.frontmatter
-                            .box3title,
-                        slug: "/tjanster/" +
-                          data.markdownRemark.frontmatter
-                            .box3slug,
-                        text:
-                          data.markdownRemark.frontmatter.box3text
+                        title: data.markdownRemark.frontmatter.box3title,
+                        slug:
+                          "/tjanster/" +
+                          data.markdownRemark.frontmatter.box3slug,
+                        text: data.markdownRemark.frontmatter.box3text
                       }
                     ]}
                   />
