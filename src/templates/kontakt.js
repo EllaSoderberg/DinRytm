@@ -16,7 +16,7 @@ export default function Kontakt({ data }) {
           title="Tjanster"
         />
         <div className="mt-32 flex justify-center">
-          <div className="block flex flex-col w-full max-w-2xl mb-8 h-full px-4">
+          <div className="block flex flex-col w-full max-w-5xl mb-8 h-full px-4">
             <div className="font-bold text-3xl px-8 pb-8">Kontakt:</div>
             <p className="pb-8 px-8">
               <b>Malin Söderberg</b>
