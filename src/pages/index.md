@@ -11,7 +11,7 @@ box1slug: /tjanster/terapi
 box2slug: /tjanster/mediyoga
 box3slug: /tjanster/fertilitetsforstaelse
 image: /img/poppy.jpg
-Slogan: Lär känna dig själv på nytt
+slogan: Lär känna dig själv på nytt
 box3text: >-
   Lär dig att förstå din kropp och fertilitet genom att observera och tolka din
   menscykel.
