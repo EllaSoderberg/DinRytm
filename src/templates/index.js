@@ -40,12 +40,11 @@ class IndexPage extends React.Component {
               height={110}
             />
             <Layout isIndex={true}>
-              {console.log(data.markdownRemark)}
               <SEO
                 keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
                 title="Home"
               />
-              <CenterText text={data.markdownRemark.frontmatter.Slogan}/>
+              <CenterText text={data.markdownRemark.frontmatter.slogan}/>
               <section className="block z-30 pb-20 bg-white">
                 <div className="-mt-16 text-white">
                   <TextboxRow

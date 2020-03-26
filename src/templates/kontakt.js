@@ -1,4 +1,6 @@
 import React from "react";
+import { graphql } from "gatsby";
+import PropTypes from "prop-types";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
@@ -39,3 +41,28 @@ function Kontakt() {
 }
 
 export default Kontakt;
+
+export const query = graphql`
+  query($slug: String) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      html
+      frontmatter {
+        title
+        image
+        ingress
+      }
+    }
+  }
+`;
+
+Kontakt.propTypes = {
+  data: PropTypes.shape({
+    markdownRemark: PropTypes.shape({
+      html: PropTypes.string,
+      frontmatter: PropTypes.shape({
+        title: PropTypes.string,
+        image: PropTypes.string
+      })
+    })
+  })
+};

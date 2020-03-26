@@ -21,12 +21,7 @@ export default function Tjanst({ data }) {
                   {post.frontmatter.title}
                 </div>
                 <div className="text-md sm:text-xl ml-4">
-                  En kort beskrivning utav tjänsten, cirka tre rader. En kort
-                  beskrivning utav tjänsten, cirka tre rader. En kort
-                  beskrivning utav tjänsten, cirka tre rader. En kort
-                  beskrivning utav tjänsten, cirka tre rader. En kort
-                  beskrivning utav tjänsten, cirka tre rader. En kort
-                  beskrivning utav tjänsten, cirka tre rader.
+                  {post.frontmatter.ingress}
                 </div>
                 <div className="absolute bg-green-600 w-full top-0 left-0 border-red-600 border-8"></div>
               </div>
@@ -50,6 +45,7 @@ export const query = graphql`
       frontmatter {
         title
         image
+        ingress
       }
     }
   }
@@ -62,6 +58,7 @@ Tjanst.propTypes = {
       frontmatter: PropTypes.shape({
         title: PropTypes.string,
         image: PropTypes.string,
+        ingress: PropTypes.string
       })
     })
   })

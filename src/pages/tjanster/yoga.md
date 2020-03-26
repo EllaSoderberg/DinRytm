@@ -3,6 +3,7 @@ title: Yoga
 image: /img/waterflower.jpg
 date: 2013-12-16T20:17:31.834Z
 template: tjanst
+ingress: hej
 ---
 **Individuell mediyoga** ärför dig som går med långvarig stress, för dig som är i utmattningsdepression, eller för dig som vill utveckla ditt självledarskap.
 

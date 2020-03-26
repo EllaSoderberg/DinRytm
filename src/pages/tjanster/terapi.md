@@ -3,6 +3,7 @@ title: Samtal och Terapi
 image: /img/wheat.jpg
 date: 2011-12-16T20:17:31.834Z
 template: tjanst
+ingress: hej
 ---
 <!--StartFragment-->
 
