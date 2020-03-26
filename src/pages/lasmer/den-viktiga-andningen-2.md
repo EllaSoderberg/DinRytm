@@ -1,47 +1,51 @@
 ---
-title: Den viktiga andningen 2
-date: 2018-12-16T15:57:26.963Z
-image: /img/breath-beach.jpg
+title: VAD ÄR FERTILITY AWARENESS OCH JUSTISSEMETODEN?
+date: 2018-01-29T15:57:26.963Z
+image: /img/justisse-300x200.png
 category: aktuellt
 ---
-*Andningen har sedan begynnelsen förknippats med livsprocesserna och med livet självt.*
+**Fertility Awareness** är ett begrepp som inkluderar olika metoder för att kartlägga menscykeln och därigenom få en förståelse för den egna fruktsamheten och reproduktiva hälsa.
 
-De senaste 24 timmarna har du tagit ungefär 20 000 andetag. Om du inte andas dör du. Vi klarar oss i dagar utan vatten och i veckor utan mat men redan efter ett par minuter utan syre dör cellerna i kroppen. Efter bara 4 minuter utan syre kommer din hjärna aldrig mer att fungera som förr.
+”Medveten fruktsamhet” ger dig möjlighet att förstå kroppens cykliska förändringar bättre från mensdebut till mensslut. Medvetenhet om den egna menscykeln handlar om kunskapen att ”läsa” sin kropp. Du ökar din förståelse för hur din fruktsamhet förändras under cykelns olika faser och från månad till månad. Med kunskap om din egen fruktsamhet och reproduktiva hälsa har du nödvändig information när du ska göra viktiga livsval.
 
-Precis som alla andra större organismer är människan beroende av speciella organ i kroppen för utbyte av syre och koldioxid med omgivningen.
 
-Andningssystemet förser kroppen med syre genom andetaget. Luften värms, fuktas och renas när den passerar mun, näsa, svalg, luftstrupe på väg ner i bronker och lungor. Hela systemet är viktigt för vårt utbyte av syre och koldioxid.
 
-Syret används som bränsle i cellen vid sönderdelningen av näring. Vid sönderdelningen av näringen frigörs energi som i sin tur driver cellprocesserna. Resterna av processerna i cellerna består huvudsakligen av koldioxid och vatten, vilket vi avlägsnar via vår andning.
+**Justissemetoden**(JM) är ett standardiserat system som är framtaget för att optimera inlärningen och det dagliga användandet. Metoden har sin grund i väl dokumenterad forskning och baseras på dagliga observationer av livmoderhalssekretet, mätningar av den basala kroppstemperaturen samt andra fysiska tecken, sk. Symptothermalmetod.
 
-Tips för insomning
+Observationen av livmoderhalsens sekret ger kunskap om vilka dagar som är fruktsamma och icke fruktsamma. Förändringen i kroppstemperatur under menscykeln ger besked om när ägglossning ägt rum.
 
-När du går och lägger dig på kvällen, börja med att ligga på vänster sida i fem till tio minuter för att värma upp systemet. Sedan vänder du över till höger sida, vänster näsborre öppnar upp och varm och behaglig slappnar du av och somnar lättare.
+JM applicerar ett holistiskt perspektiv som utrustar dig med praktisk kunskap om din menscykel för att bättre hantera din hälsa genom hela livet. Oavsett om det handlar om att hantera mensrelaterade besvär, förbättra din hälsa, att undvika graviditet, att bli gravid, eller förändringar i klimakteriet.
 
-Prana – livsenergin
 
-Via andningen fyller du enligt det yogiska synsättet på med pranisk energi som flödar genom dina energikanaler, hela ditt system fylls på med livskraft. Livskraften får ditt hjärta att slå, diafragma att aktiveras, kroppstemperaturen att balanseras och blodet i dina lungor att renas.
 
-När du har en lugn och djup andning är din energi i balans, då kan ingenting kan rubba dig. Via andningen tar du kontroll över sinnet. Med kontroll över sinnet kan du nå djupt in i din själ. Om du kan kontrollera andningen kan du, enligt det yogiska synsättet, ta kontroll över ditt liv.
+**Fördelarna med JM** är att den är lätt att lära sig, den är säker som preventivmetod och hjälpsam om man vill bli gravid. Metoden hjälper dig att identifiera tecken på; reproduktiv hälsa och ohälsa, fertila och infertila dagar, och ägglossning. Metoden skadar inte din hälsa på något sätt och går att använda under hela ditt reproduktiva liv.
 
-Sjukdom börjar enligt yogan som obalanser i det praniska flödet. Om det är försvagat är du konstant trött och orolig, med brist på kreativitet. Yogaträningen handlar på ett plan om att fylla på med prana och skapa balans i ditt energisystem, balans mellan kropp och sinne. En fullständig balans som leder till att du växer och mognar som människa. En balans som i slutändan leder till en fördjupad och fundamental medvetenhet på alla nivåer inom dig själv.
+Kunskapen ger dig möjlighet att utforska nya dimensioner av dig själv och stärker dig i och med att du blir medveten om de naturliga processerna i din kropp.
 
-Var medveten om vad som ger dig energi och vad som tar din energi.
+JM kan skräddarsys efter dina behov, vare sig du har regelbundna eller oregelbundna cykler, om du ammar, har slutat med hormonella preventivmedel eller är i klimakteriet.
 
-Prana är livsenergin som genomsyrar allt levande.
 
-Prana kommer in i kroppen med luften vi andas, maten vi äter och vattnet vi dricker. Även genom huden och håret når livskraften oss vid massage och beröring, och solens ljus. En annan aspekt av livskraften är Apana, den renande utrensande energin. När Prana och Apana är i balans och din andning är lugn och djup då kan inget rubba dig.
 
-Enligt det yogiska synsättet är flödet av luft in och ut genom näsan oerhört viktigt i formandet av den mentala balansen och personligheten. Luftflödet påverkar tillgången på Prana i kroppen och i hjärnan. Via andningen får den fysiska kroppen tillgång till obegränsade mängder av Prana.
+**Vilka är fördelarna med att lära sig kartlägga sin menscykel?**
 
-Prana flödar genom och fyller upp hela universum. När du har balans i ditt praniska flöde kan du komma till insikt om att livets motsatser, liv/död, manligt/kvinnligt, glädje/sorg, styrka svaghet etc. egentligen handlar om samma sak. I det större perspektivet är allt delar av samma helhet.
+– Du får en preventivmetod som du kan använda om och när behov finns
 
-Yogaträning handlar om att fylla på med livskraft och skapa balans i ditt energisystem, att nå balans mellan kropp och sinne. En balans där du kan växa och mogna som människa och som i slutändan leder till en fördjupad medvetenhet på alla nivåer inom dig själv.
+– Det gör det möjligt att göra ett informerat val om syntetiska hormoner
 
-Var medveten om vad som ger dig energi och vad som tar din energi.
+– Du kan få värdefull feedback om din hälsa från din barnmorska
 
-Om du blir trött när du ätit en måltid, tänk efter vad du ätit, hur du ätit, hur mycket du ätit. Känn efter hur maten och ätandet påverkade dig.
+– Du får kunskap om den egna kroppen och därmed stärkt egenmakt
 
-Blir du trött av möten med andra människor? Var medveten om på vilket sätt det påverkar dig.
+– Denna kunskap är en av de grundläggande delarna för att uppnå ”reproduktiv frihet”
 
-*”Målet med yoga är att väcka din innersta kraft, och utveckla din fulla potential.”*
+
+
+**Att lära sig Justissemetoden**
+
+Det bästa tillvägagångssättet för att lyckas med JM är att ta in så mycket du kan under den först introduktionen och därefter delta vid uppföljningshandledningarna som är upplagda för att snabbt hjälpa dig bli självsäker i förfarandet, och uppnå dina mål med lärandet.
+
+Det första mötet inkluderar ett hälsosamtal samt introduktion av fruktsamhetens anatomi och fysiologi. Därefter går vi igenom användandet av JM, observationer, kartföring och tolkning av kartor samt vad som kan underlätta ditt lärande och hjälpa dig uppnå dina intentioner.
+
+Under uppföljningshandledning kommer du kunna fördjupa kunskapen du erhållit, få svar på frågor som uppstått, lära dig hur du tolkar din menscykelkarta och få hjälp att nå dina mål utifrån dina individuella behov.
+
+Jag arbetar utifrån ett helhetsperspektiv på hälsa som respekterar individens sexuella och reproduktiva val. Metoden stödjer reproduktiv frihet, och inkluderar alla menstruerare och deras partners. Lärandemodellen är utformad för optimal användarframgång i att undvika eller uppnå graviditet.
