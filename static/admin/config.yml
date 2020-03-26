@@ -10,10 +10,11 @@ collections:
     label: "Inlägg"
     folder: "src/pages/lasmer"
     create: true
-    slug: "{{title}}"
+    slug: "{{date}}-{slug}}"
     editor:
      preview: true
     fields:
+      - { label: "Template", name: "template", widget: "hidden", default: "article"}
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Publiceras", name: "date", widget: "date" }
       - { label: "Bild", name: "image", required: false, widget: "image"}
@@ -26,6 +27,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields: 
+      - { label: "Template", name: "template", widget: "hidden", default: "tjanst"}
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Bild", name: "image",  widget: "image"}
       - { label: "Sammanfattning", name: "ingress", required: false, widget: "text"}
@@ -35,6 +37,7 @@ collections:
     label: "Texter startsida"
     folder: "src/pages"
     delete: false
+    create: false
     editor: 
       preview: false
     fields: 
