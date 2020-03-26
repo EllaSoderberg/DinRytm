@@ -4,8 +4,6 @@ image: /img/blur.jpg
 date: 2012-12-16T20:17:31.834Z
 template: tjanst
 ---
-<!--StartFragment-->
-
 **Handledning önskan om graviditet och menshälsa**
 
 Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller värmevallningar/frysningar.
@@ -29,8 +27,6 @@ Nybesök (50 min) 900 kr
 Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva på nätet finns flera olika så välj en som passar era behov.
 
 Önskar du boka en tid? Skicka ett meddelande genom att klicka här.
-
-
 
 **Handledning hormonfri preventivmetod**
 
@@ -56,8 +52,6 @@ Instruktionsbok (eng.) och fertilitetstermometer tillkommer.
 
 Önskar du boka en tid? Skicka ett meddelande genom att klicka här.
 
-
-
 **Handledning om menscykeln, i grupp**
 
 För dig som vill veta mer om din menscykel, din hälsa och fertilitet.
@@ -75,7 +69,5 @@ Skriv i meddelandet: Hur många ni är, era namn och vem av er jag kan kontakta,
 Nuvarande pris
 
 500 kr/deltagare (6 deltagare) om annat antal deltagare justeras priset något.
-
-
 
 <!--EndFragment-->
