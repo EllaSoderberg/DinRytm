@@ -1,20 +1,20 @@
 ---
+image: /img/poppy.jpg
+slogan: Lär känna dig själv på nytt
 box1title: Samtal och terapi
 box1text: >-
   Det kan kännas som att tillvaron tyngs av en grå filt, tankar och relationer
   skaver, humöret och känslorna åker berg och dalbana. Du kan få hjälp att
   förstå vad du behöver.
+box1slug: terapi
 box2title: MediYoga
 box2text: Stärk din hälsa och utveckla ditt självledarskap. Hitta Din rytm i livet!
+box2slug: yoga
 box3title: Fertilitetsförståelse
-box1slug: /tjanster/terapi
-box2slug: /tjanster/mediyoga
-box3slug: /tjanster/fertilitetsforstaelse
-image: /img/poppy.jpg
-slogan: Lär känna dig själv på nytt
 box3text: >-
   Lär dig att förstå din kropp och fertilitet genom att observera och tolka din
   menscykel.
+box3slug: handledning
 template: index
 om: >-
   Hos Din Rytm lär du dig att förstå och lyssna in din kropp och ditt sinne. Vi
