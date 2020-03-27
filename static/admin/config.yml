@@ -29,13 +29,14 @@ collections:
     fields: 
       - { label: "Template", name: "template", widget: "hidden", default: "tjanst"}
       - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Ordning", name: "order",  widget: "number"}
       - { label: "Bild", name: "image",  widget: "image"}
       - { label: "Sammanfattning", name: "ingress", required: false, widget: "text"}
       - { label: "Text", name: "body", widget: "markdown" }
 
-  - name: "indextexts"
+  - name: "start"
     label: "Texter startsida"
-    folder: "src/pages"
+    file: "src/pages/index.md"
     delete: false
     editor: 
       preview: false
@@ -56,7 +57,9 @@ collections:
   - name: "om"
     label: "Om"
     delete: false
-    folder: "src/pages"
+    file: "src/pages/om.md"
+    editor: 
+      preview: false
     fields: 
       - { label: "Template", name: "template", widget: "hidden", default: "om"}
       - { label: "Bild", name: "image",  widget: "image"}
@@ -66,7 +69,9 @@ collections:
   - name: "kontakt"
     label: "Kontakt"
     delete: false
-    folder: "src/pages"
+    file: "src/pages/kontakt.md"
+    editor: 
+      preview: false
     fields: 
       - { label: "Template", name: "template", widget: "hidden", default: "kontakt"}
       - { label: "Telefonnummer", name: "phone", widget: "string" }
