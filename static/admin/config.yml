@@ -36,6 +36,7 @@ collections:
 
   - name: "start"
     label: "Texter startsida"
+    folder: "src/pages"
     file: "src/pages/index.md"
     delete: false
     editor: 
@@ -57,6 +58,7 @@ collections:
   - name: "om"
     label: "Om"
     delete: false
+    folder: "src/pages"
     file: "src/pages/om.md"
     editor: 
       preview: false
@@ -69,6 +71,7 @@ collections:
   - name: "kontakt"
     label: "Kontakt"
     delete: false
+    folder: "src/pages"
     file: "src/pages/kontakt.md"
     editor: 
       preview: false
