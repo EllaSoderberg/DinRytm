@@ -36,13 +36,13 @@ collections:
 
   - name: "start"
     label: "Texter startsida"
+    editor: 
+      preview: false
     files:
       - label: "Redigera texter startsida"
         name: "redigera"
         file: "src/pages/index.md"
         delete: false
-        editor: 
-          preview: falsegit
         fields: 
           - { label: "Bild startsida", name: "image",  widget: "image"}
           - { label: "Slogan startsida", name: "slogan", widget: "string"}
@@ -59,13 +59,13 @@ collections:
 
   - name: "om"
     label: "Om"
+    editor: 
+      preview: false
     files: 
       - label: "Redigera om"
         name: "redigera"
         file: "src/pages/om.md"
         delete: false
-        editor: 
-          preview: false
         fields: 
           - { label: "Template", name: "template", widget: "hidden", default: "om"}
           - { label: "Bild", name: "image",  widget: "image"}
@@ -74,13 +74,13 @@ collections:
 
   - name: "kontakt"
     label: "Kontakt"
+    editor: 
+      preview: false
     files: 
       - label: "Redigera kontakt"
         name: "redigera"
         file: "src/pages/kontakt.md"
         delete: false
-        editor: 
-          preview: false
         fields: 
           - { label: "Template", name: "template", widget: "hidden", default: "kontakt"}
           - { label: "Telefonnummer", name: "phone", widget: "string" }
