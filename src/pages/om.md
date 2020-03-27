@@ -13,11 +13,9 @@ about: >-
   viktiga ledord i verksamheten.
 aboutme: >-
   Din rytm grundades av mig, Malin Söderberg 2014 efter många år som kliniskt
-  verksam\
-
-  sjuksköterska och barnmorska, samt en forskarexamen inom reproduktiv hälsa och
-  arbete som universitetslärare. I forskningen har jag intresserat mig för
-  existentiella frågor kring fertilitet och barnafödande vilket stärkt mig i
+  verksam sjuksköterska och barnmorska, samt en forskarexamen inom reproduktiv
+  hälsa och arbete som universitetslärare. I forskningen har jag intresserat mig
+  för existentiella frågor kring fertilitet och barnafödande vilket stärkt mig i
   mitt arbete för ett helhetsperspektiv på hälsa och lidande. De senaste 5 åren
   har jag därför utbildat mig inom psykoterapi, mediyoga och holistisk
   reproduktiv hälsa.
