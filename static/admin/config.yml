@@ -36,49 +36,54 @@ collections:
 
   - name: "start"
     label: "Texter startsida"
-    folder: "src/pages"
-    file: "src/pages/index.md"
-    delete: false
-    editor: 
-      preview: false
-    fields: 
-      - { label: "Bild startsida", name: "image",  widget: "image"}
-      - { label: "Slogan startsida", name: "slogan", widget: "string"}
-      - { label: "Box 1 titel", name: "box1title", widget: "string" }
-      - { label: "Box 1 text", name: "box1text", widget: "text"}
-      - { label: "Box 1 leder till", name: "box1slug", widget: "string"}
-      - { label: "Box 2 titel", name: "box2title", widget: "string" }
-      - { label: "Box 2 text", name: "box2text", widget: "text"}
-      - { label: "Box 2 leder till", name: "box2slug", widget: "string"}
-      - { label: "Box 3 titel", name: "box3title", widget: "string" }
-      - { label: "Box 3 text", name: "box3text", widget: "text"}
-      - { label: "Box 3 leder till", name: "box3slug", widget: "string"}
-      - { label: "Om startsida", name: "om", widget: "text" }
+    files:
+      - label: "Redigera texter startsida"
+        name: "redigera"
+        file: "src/pages/index.md"
+        delete: false
+        editor: 
+          preview: falsegit
+        fields: 
+          - { label: "Bild startsida", name: "image",  widget: "image"}
+          - { label: "Slogan startsida", name: "slogan", widget: "string"}
+          - { label: "Box 1 titel", name: "box1title", widget: "string" }
+          - { label: "Box 1 text", name: "box1text", widget: "text"}
+          - { label: "Box 1 leder till", name: "box1slug", widget: "string"}
+          - { label: "Box 2 titel", name: "box2title", widget: "string" }
+          - { label: "Box 2 text", name: "box2text", widget: "text"}
+          - { label: "Box 2 leder till", name: "box2slug", widget: "string"}
+          - { label: "Box 3 titel", name: "box3title", widget: "string" }
+          - { label: "Box 3 text", name: "box3text", widget: "text"}
+          - { label: "Box 3 leder till", name: "box3slug", widget: "string"}
+          - { label: "Om startsida", name: "om", widget: "text" }
 
   - name: "om"
     label: "Om"
-    delete: false
-    folder: "src/pages"
-    file: "src/pages/om.md"
-    editor: 
-      preview: false
-    fields: 
-      - { label: "Template", name: "template", widget: "hidden", default: "om"}
-      - { label: "Bild", name: "image",  widget: "image"}
-      - { label: "Om Din rytm", name: "about", widget: "markdown" }
-      - { label: "Om mig", name: "aboutme", widget: "markdown" }
+    files: 
+      - label: "Redigera om"
+        name: "redigera"
+        file: "src/pages/om.md"
+        delete: false
+        editor: 
+          preview: false
+        fields: 
+          - { label: "Template", name: "template", widget: "hidden", default: "om"}
+          - { label: "Bild", name: "image",  widget: "image"}
+          - { label: "Om Din rytm", name: "about", widget: "markdown" }
+          - { label: "Om mig", name: "aboutme", widget: "markdown" }
 
   - name: "kontakt"
     label: "Kontakt"
-    delete: false
-    folder: "src/pages"
-    file: "src/pages/kontakt.md"
-    editor: 
-      preview: false
-    fields: 
-      - { label: "Template", name: "template", widget: "hidden", default: "kontakt"}
-      - { label: "Telefonnummer", name: "phone", widget: "string" }
-      - { label: "E-post", name: "email", widget: "string" }
-
+    files: 
+      - label: "Redigera kontakt"
+        name: "redigera"
+        file: "src/pages/kontakt.md"
+        delete: false
+        editor: 
+          preview: false
+        fields: 
+          - { label: "Template", name: "template", widget: "hidden", default: "kontakt"}
+          - { label: "Telefonnummer", name: "phone", widget: "string" }
+          - { label: "E-post", name: "email", widget: "string" }
 
       
