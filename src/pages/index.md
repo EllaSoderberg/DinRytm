@@ -6,14 +6,14 @@ box1text: >-
   Det kan kännas som att tillvaron tyngs av en grå filt, tankar och relationer
   skaver, humöret och känslorna åker berg och dalbana. Du kan få hjälp att
   förstå vad du behöver.
-box1slug: terapi
+box1slug: Samtal och terapi
 box2title: MediYoga
 box2text: Stärk din hälsa och utveckla ditt självledarskap. Hitta Din rytm i livet!
-box2slug: yoga
+box2slug: MediYoga
 box3title: Fertilitetsförståelse
 box3text: >-
   Lär dig att förstå din kropp och fertilitet genom att observera och tolka din
-  menscykel.
+  menscykel. Individuell handledning eller grupp.
 box3slug: handledning
 template: index
 om: >-
