@@ -10,6 +10,10 @@ ingress: ''
 
 <br/>
 
+<!--EndFragment--><!--StartFragment-->
+
+<br/>
+
 <!--EndFragment-->
 
 Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller värmevallningar/frysningar.<!--StartFragment-->
@@ -64,9 +68,17 @@ Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva p�
 
 <br/>
 
+<!--EndFragment--><!--StartFragment-->
+
+<br/>
+
 <!--EndFragment-->
 
 **Handledning hormonfri preventivmetod**<!--StartFragment-->
+
+<br/>
+
+<!--EndFragment--><!--StartFragment-->
 
 <br/>
 
@@ -124,9 +136,17 @@ Instruktionsbok (eng.) och fertilitetstermometer tillkommer.<!--StartFragment-->
 
 <br/>
 
+<!--EndFragment--><!--StartFragment-->
+
+<br/>
+
 <!--EndFragment-->
 
 **Handledning om menscykeln, i grupp**<!--StartFragment-->
+
+<br/>
+
+<!--EndFragment--><!--StartFragment-->
 
 <br/>
 
