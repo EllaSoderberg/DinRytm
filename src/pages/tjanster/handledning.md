@@ -6,7 +6,7 @@ date: 2012-12-16T20:17:31.834Z
 template: tjanst
 ingress: ''
 ---
-**Handledning önskan om graviditet och menshälsa** <!--StartFragment-->
+**För vem?** <!--StartFragment-->
 
 <br/>
 
@@ -22,7 +22,9 @@ Handledningen är för dig som planerar för en graviditet och/eller har försö
 
 <!--EndFragment-->
 
-Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Den här kunskapen är sedan hjälpsam för att förstå din helhetshälsa, fertilitet och infertilitet, gynekologiska hälsa och förändringar i menscykeln under livet. Handledningen skräddarsys efter dina behov, vare sig du har regelbundna eller oregelbundna cykler, har slutat med hormonella preventivmedel, eller är i klimakteriet.<!--StartFragment-->
+**Hur går det till?**<br/>
+
+Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Kunskapen är sedan hjälpsam för att förstå din helhetshälsa, fertilitet och infertilitet, gynekologiska hälsa och förändringar i menscykeln under livet. Handledningen skräddarsys efter dina behov, vare sig du har regelbundna eller oregelbundna cykler, har slutat med hormonella preventivmedel, eller är i klimakteriet. Ibland kan samtalsterapi bli ett komplement till handledningen, eller så växlar vi från handledning till samtalsterapeutisk behandling.<!--StartFragment-->
 
 <br/>
 
@@ -46,7 +48,7 @@ Utifrån dina besvär, behov, önskningar och mål får du förslag på hur du k
 
 <!--EndFragment-->
 
-Nuvarande pris:
+**Nuvarande pris:**
 
 Nybesök (50 min) 900 kr
 
@@ -74,7 +76,7 @@ Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva p�
 
 <!--EndFragment-->
 
-**Handledning hormonfri preventivmetod**<!--StartFragment-->
+**Hormonfri preventivmetod**<!--StartFragment-->
 
 <br/>
 
@@ -89,6 +91,8 @@ Handledning för dig som redan använder eller önskar börja använda en hormon
 <br/>
 
 <!--EndFragment-->
+
+**Hur går det till?** <br/>
 
 Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Jag handleder dig i Justissemetoden, en teknik för att observera och registrera de biokemiska tecken som din kropp signalerar när hormonerna skiftar. Justissemetoden är en symtothermalmetod dvs du observerar både livmoderhalssekret och basal kroppstemperatur.<!--StartFragment-->
 
@@ -114,7 +118,7 @@ Utifrån dina besvär, behov, önskningar och mål får du förslag på hur du k
 
 <!--EndFragment-->
 
-Nuvarande pris:
+**Nuvarande pris:**
 
 Första besöket (90 min) 1500 kr
 
@@ -142,7 +146,7 @@ Instruktionsbok (eng.) och fertilitetstermometer tillkommer.<!--StartFragment-->
 
 <!--EndFragment-->
 
-**Handledning om menscykeln, i grupp**<!--StartFragment-->
+**Lär dig Justissemetoden tillsammans med andra!**<!--StartFragment-->
 
 <br/>
 
@@ -152,12 +156,7 @@ Instruktionsbok (eng.) och fertilitetstermometer tillkommer.<!--StartFragment-->
 
 <!--EndFragment-->
 
-För dig som vill veta mer om din menscykel, din hälsa och fertilitet.<!--StartFragment-->
-
-<br/>
-
-<!--EndFragment-->
-
+För dig som vill veta mer om din menscykel, din hälsa och fertilitet.\
 Detta är ett populärt sätt att lära sig mer om menscykelns och fruktsamhetens anatomi och fysiologi, lära dig observera och kartföra menscykeln, och samtidigt dela erfarenheter med andra.<!--StartFragment-->
 
 <br/>
@@ -170,7 +169,7 @@ Vi ses tre kvällar med 4 veckors mellanrum. Varje träff är 3 timmar inklusive
 
 <!--EndFragment-->
 
-Är ni redan en grupp som är intresserade av att lära er mer om detta, anmäl er under kontakt.<!--StartFragment-->
+**Är ni redan en grupp** som är intresserade av att lära er mer om detta, anmäl er under kontakt.<!--StartFragment-->
 
 <br/>
 
@@ -182,13 +181,13 @@ Skriv i meddelandet: Hur många ni är, era namn och vem av er jag kan kontakta,
 
 <!--EndFragment-->
 
-Önskar du anmäla dig till väntelista för kommande kurs skicka ett meddelande via kontaktformuläret.<!--StartFragment-->
+**Önskar du anmäla dig till väntelista** för kommande kurs skicka ett meddelande via kontaktformuläret.<!--StartFragment-->
 
 <br/>
 
 <!--EndFragment-->
 
-Nuvarande pris
+**Nuvarande pris**
 
 500 kr/deltagare (6 deltagare) om annat antal deltagare justeras priset något.
 
