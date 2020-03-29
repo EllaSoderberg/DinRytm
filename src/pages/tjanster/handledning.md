@@ -6,17 +6,9 @@ date: 2012-12-16T20:17:31.834Z
 template: tjanst
 ingress: ''
 ---
-**För vem?** <!--StartFragment-->
+**För vem?**<br/>
 
-<br/>
-
-<!--EndFragment--><!--StartFragment-->
-
-<br/>
-
-<!--EndFragment-->
-
-Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller värmevallningar/frysningar.<!--StartFragment-->
+<br/>Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller värmevallningar/frysningar.<!--StartFragment-->
 
 <br/>
 
@@ -76,17 +68,9 @@ Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva p�
 
 <!--EndFragment-->
 
-**Hormonfri preventivmetod**<!--StartFragment-->
+**Hormonfri preventivmetod**<br/>
 
-<br/>
-
-<!--EndFragment--><!--StartFragment-->
-
-<br/>
-
-<!--EndFragment-->
-
-Handledning för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<!--StartFragment-->
+<br/>Handledning för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<!--StartFragment-->
 
 <br/>
 
@@ -146,17 +130,11 @@ Instruktionsbok (eng.) och fertilitetstermometer tillkommer.<!--StartFragment-->
 
 <!--EndFragment-->
 
-**Lär dig Justissemetoden tillsammans med andra!**<!--StartFragment-->
+**Lär dig Justissemetoden tillsammans med andra!**<br/>
 
-<br/>
 
-<!--EndFragment--><!--StartFragment-->
 
-<br/>
-
-<!--EndFragment-->
-
-För dig som vill veta mer om din menscykel, din hälsa och fertilitet.\
+<br/>För dig som vill veta mer om din menscykel, din hälsa och fertilitet.\
 Detta är ett populärt sätt att lära sig mer om menscykelns och fruktsamhetens anatomi och fysiologi, lära dig observera och kartföra menscykeln, och samtidigt dela erfarenheter med andra.<!--StartFragment-->
 
 <br/>
