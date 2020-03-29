@@ -6,21 +6,9 @@ date: 2012-12-16T20:17:31.834Z
 template: tjanst
 ingress: ''
 ---
-**För vem?**<br/>
-
-<br/>Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller värmevallningar/frysningar.<!--StartFragment-->
+**För vem?**<br/>Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller värmevallningar/frysningar.<br/><br/>**Hur går det till?**<br/>Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Kunskapen är sedan hjälpsam för att förstå din helhetshälsa, fertilitet och infertilitet, gynekologiska hälsa och förändringar i menscykeln under livet. Handledningen skräddarsys efter dina behov, vare sig du har regelbundna eller oregelbundna cykler, har slutat med hormonella preventivmedel, eller är i klimakteriet. Ibland kan samtalsterapi bli ett komplement till handledningen, eller så växlar vi från handledning till samtalsterapeutisk behandling.
 
 <br/>
-
-<!--EndFragment-->
-
-**Hur går det till?**<br/>
-
-Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Kunskapen är sedan hjälpsam för att förstå din helhetshälsa, fertilitet och infertilitet, gynekologiska hälsa och förändringar i menscykeln under livet. Handledningen skräddarsys efter dina behov, vare sig du har regelbundna eller oregelbundna cykler, har slutat med hormonella preventivmedel, eller är i klimakteriet. Ibland kan samtalsterapi bli ett komplement till handledningen, eller så växlar vi från handledning till samtalsterapeutisk behandling.<!--StartFragment-->
-
-<br/>
-
-<!--EndFragment-->
 
 Vi går igenom din tidigare och nuvarande hälsa och livssituation utifrån ett helhetsperspektiv. För de flesta som söker för mensrelaterade besvär är en introduktion till reproduktionens anatomi och fysiologi, samt till Justissemetoden en bra start. Med den kunskapen och tekniken kan du börja observera och registrera de biokemiska tecken som din kropp signalerar när hormonerna skiftar.<!--StartFragment-->
 
