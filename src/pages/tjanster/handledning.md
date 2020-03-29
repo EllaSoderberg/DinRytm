@@ -132,8 +132,6 @@ Instruktionsbok (eng.) och fertilitetstermometer tillkommer.<!--StartFragment-->
 
 **Lär dig Justissemetoden tillsammans med andra!**<br/>
 
-
-
 <br/>För dig som vill veta mer om din menscykel, din hälsa och fertilitet.\
 Detta är ett populärt sätt att lära sig mer om menscykelns och fruktsamhetens anatomi och fysiologi, lära dig observera och kartföra menscykeln, och samtidigt dela erfarenheter med andra.<!--StartFragment-->
 
