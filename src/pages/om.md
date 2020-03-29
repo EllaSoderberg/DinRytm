@@ -14,31 +14,25 @@ about: >-
 aboutme: >-
   Din rytm grundades av mig, Malin Söderberg 2014 efter många år som kliniskt
   verksam sjuksköterska och barnmorska, samt en forskarexamen inom reproduktiv
-  hälsa och arbete som universitetslärare. I forskningen har jag intresserat mig
-  för existentiella frågor kring fertilitet och barnafödande vilket stärkt mig i
-  mitt arbete för ett helhetsperspektiv på hälsa och lidande. De senaste 5 åren
-  har jag därför utbildat mig inom psykoterapi, mediyoga och holistisk
-  reproduktiv hälsa.
+  hälsa. I forskningen har jag intresserat mig för existentiella frågor vilket
+  varit bidragande till att jag startade Din rytm och vidareutbildade mig inom
+  psykoterapi, mediyoga och holistisk reproduktiv hälsa. I mitt arbete är
+  närvaro, självmedkänsla, acceptans och glädje centrala.<br/>
 
 
-  I mitt arbete har det alltid varit viktigt att se till hela människan i sitt
-  unika sammanhang. Det är i vår sociala miljö som vi kan må bra, men det också
-  där vi kan börja må dåligt. Jag arbetar med olika teorier och metoder, och
-  anpassar dem efter behov för att kunna erbjuda en helhet i behandlingen.
+  <br/>Jag arbetar med olika teorier och metoder, och anpassar dem efter behov
+  för att kunna erbjuda en helhet i behandlingen. Kognitiv beteende terapi (KBT)
+  ger en förståelse för hur känslor, tankar och beteenden påverkar oss och hur
+  vi genom ett förändrat tankemönster bli mer självreflekterande och närvarande.
+  Existentiella samtal kan ge nya perspektiv på livsfrågor som kan kännas stora
+  och svåra. Andra tekniker för läkande och utveckling är mindfulness, mediyoga
+  och fertilitetsförståelsede kan användas var och en för sig eller i
+  kombination.<br/>
 
 
-  Här är några exempel:Kognitiv beteende terapi(KBT) ger en förståelse för hur
-  känslor, tankar och beteenden påverkar oss och hur vi genom ett förändrat
-  tankemönster bli mer självreflekterande och närvarande.Existentiella samtalkan
-  ge nya perspektiv på livsfrågor som kan kännas stora och svåra. Andra tekniker
-  för läkande och utveckling ärmindfulness, mediyoga och fertilitetsförståelsede
-  kan användas var och en för sig eller i kombination.
-
-
-  Jag har arbetat kliniskt under många år bland annat inom födande och
-  eftervård, på preventivmedelsmottagning, RFSU-klinik, ungdomsmottagning och
-  hälsocentral. Efter min disputation 2013 arbetade jag några år som
-  universitetslärare och senare som samordnare av Mödrahälsovården i Stockholms
-  läns landsting på halvtid, samtidigt som jag började bygga upp min egen
-  verksamhet.
+  <br/>Som barnmorska har jag arbetat bland annat inom födande och eftervård, på
+  preventivmedelsmottagning, RFSU-klinik, ungdomsmottagning och hälsocentral.
+  Efter min disputation 2013 arbetade jag några år som universitetslärare och
+  senare som samordnare av Mödrahälsovården i Stockholms läns landsting på
+  halvtid, samtidigt som jag började bygga upp min egen verksamhet.
 ---
