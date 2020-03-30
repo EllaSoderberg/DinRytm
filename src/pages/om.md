@@ -9,33 +9,27 @@ about: >-
   från flera områden såsom psykisk hälsa/ohälsa, reproduktiv hälsa, sex- och
   samlevnad, existentiella frågor, menscykelhälsa och hälsa i klimakteriet. Jag
   arbetar utifrån ett helhetsperspektiv som stödjer reproduktiv frihet och
-  respekterar dina sexuella och reproduktiva val. Värme, empati och respekt är
-  viktiga ledord i verksamheten.
+  respekterar dina sexuella och reproduktiva val. Värme, empati, närvaro och
+  respekt är viktiga ledord i verksamheten.
 aboutme: >-
-  Din rytm grundades av mig, Malin Söderberg 2014 efter många år som kliniskt
-  verksam sjuksköterska och barnmorska, samt en forskarexamen inom reproduktiv
-  hälsa och arbete som universitetslärare. I forskningen har jag intresserat mig
-  för existentiella frågor kring fertilitet och barnafödande vilket stärkt mig i
-  mitt arbete för ett helhetsperspektiv på hälsa och lidande. De senaste 5 åren
-  har jag därför utbildat mig inom psykoterapi, mediyoga och holistisk
-  reproduktiv hälsa.
+  Jag grundade Din rytm 2014 efter många år som kliniskt verksam sjuksköterska
+  och barnmorska, en forskarexamen inom reproduktiv hälsa och några år som
+  universitetslärare och vårdsamordnare. Jag saknade en verksamhet där jag kunde
+  erbjuda ett helhetsperspektiv i mötet, där det mänskliga fick plats och
+  behandlingen kunde anpassas efter klientens behov och mål. <br/><br/>
 
 
-  I mitt arbete har det alltid varit viktigt att se till hela människan i sitt
-  unika sammanhang. Det är i vår sociala miljö som vi kan må bra, men det också
-  där vi kan börja må dåligt. Jag arbetar med olika teorier och metoder, och
-  anpassar dem efter behov för att kunna erbjuda en helhet i behandlingen.
+  Jag har en bred erfarenhet och arbetar utifrån olika evidensbaserade teorier
+  och metoder i samtal, terapi och handledning. Det kan handla om metoder som
+  ger en förståelse för hur känslor, tankar och beteenden påverkar oss och hur
+  vi genom ett förändrat tankemösnter kan bli mer självreflekterande, närvarande
+  och öka vår självmedkänsla. Existentiella samtal kan ge nya perspektiv på
+  livsfrågor som kan kännas stora och svåra. Andra metoder för läkande och
+  utveckling är mindfulness, mediyoga och fertilitetsförståelse som kan användas
+  var och en för sig eller i kombination.
 
 
-  Här är några exempel:Kognitiv beteende terapi(KBT) ger en förståelse för hur
-  känslor, tankar och beteenden påverkar oss och hur vi genom ett förändrat
-  tankemönster bli mer självreflekterande och närvarande.Existentiella samtalkan
-  ge nya perspektiv på livsfrågor som kan kännas stora och svåra. Andra tekniker
-  för läkande och utveckling ärmindfulness, mediyoga och fertilitetsförståelsede
-  kan användas var och en för sig eller i kombination.
-
-
-  Jag har arbetat kliniskt under många år bland annat inom födande och
+  <br/><br/>Som barnmorska har jag arbetat bland annat inom födande och
   eftervård, på preventivmedelsmottagning, RFSU-klinik, ungdomsmottagning och
   hälsocentral. Efter min disputation 2013 arbetade jag några år som
   universitetslärare och senare som samordnare av Mödrahälsovården i Stockholms
