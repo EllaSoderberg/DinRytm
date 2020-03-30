@@ -1,8 +1,8 @@
 ---
 template: article
 title: >-
-  Egen avhandling Fruktsamhet och barnafödande - upplevelser, tankar och
-  attityder bland kvinnor som inte fött barn.
+  Fruktsamhet och barnafödande - upplevelser, tankar och attityder bland kvinnor
+  som inte fött barn.
 date: 2015-05-12T22:00:00.000Z
 image: /img/thesis.jpg
 category: forskning
