@@ -30,9 +30,9 @@ Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva p�
 \
 <br/>Önskar du boka en tid? Skicka ett meddelande genom att klicka här.<br/><br/>
 
+**Hormonfri preventivmetod**
 
-
-**Hormonfri preventivmetod**<br/>Handledning för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<br/><br/>
+Handledning för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<br/><br/>
 
 **Hur går det till?**<br/>Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Jag handleder dig i Justissemetoden, en teknik för att observera och registrera de biokemiska tecken som din kropp signalerar när hormonerna skiftar. Justissemetoden är en symtothermalmetod dvs du observerar både livmoderhalssekret och basal kroppstemperatur.<br/><br/>
 
@@ -53,12 +53,12 @@ Första besöket (90 min) 1500 kr
 
 Instruktionsbok (eng.) och fertilitetstermometer tillkommer.
 
-
-
 <br/>Önskar du boka en tid? Skicka ett meddelande genom att klicka här.<br/><br/>
 
 \
-**Lär dig Justissemetoden tillsammans med andra!**<br/>För dig som vill veta mer om din menscykel, din hälsa och fertilitet.\
+**Lär dig Justissemetoden tillsammans med andra!**
+
+För dig som vill veta mer om din menscykel, din hälsa och fertilitet.\
 Detta är ett populärt sätt att lära sig mer om menscykelns och fruktsamhetens anatomi och fysiologi, lära dig observera och kartföra menscykeln, och samtidigt dela erfarenheter med andra.
 
 \
