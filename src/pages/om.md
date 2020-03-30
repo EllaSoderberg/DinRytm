@@ -9,30 +9,30 @@ about: >-
   från flera områden såsom psykisk hälsa/ohälsa, reproduktiv hälsa, sex- och
   samlevnad, existentiella frågor, menscykelhälsa och hälsa i klimakteriet. Jag
   arbetar utifrån ett helhetsperspektiv som stödjer reproduktiv frihet och
-  respekterar dina sexuella och reproduktiva val. Värme, empati och respekt är
-  viktiga ledord i verksamheten.
+  respekterar dina sexuella och reproduktiva val. Värme, empati, närvaro och
+  respekt är viktiga ledord i verksamheten.
 aboutme: >-
-  Din rytm grundades av mig, Malin Söderberg 2014 efter många år som kliniskt
-  verksam sjuksköterska och barnmorska, samt en forskarexamen inom reproduktiv
-  hälsa. I forskningen har jag intresserat mig för existentiella frågor vilket
-  varit bidragande till att jag startade Din rytm och vidareutbildade mig inom
-  psykoterapi, mediyoga och holistisk reproduktiv hälsa. I mitt arbete är
-  närvaro, självmedkänsla, acceptans och glädje centrala.<br/>
+  Jag grundade Din rytm 2014 efter många år som kliniskt verksam sjuksköterska
+  och barnmorska, en forskarexamen inom reproduktiv hälsa och några år som
+  universitetslärare och vårdsamordnare. Jag saknade en verksamhet där jag kunde
+  erbjuda ett helhetsperspektiv i mötet, där det mänskliga fick plats och
+  behandlingen kunde anpassas efter klientens behov och mål. <br/><br/>
 
 
-  <br/>Jag arbetar med olika teorier och metoder, och anpassar dem efter behov
-  för att kunna erbjuda en helhet i behandlingen. Kognitiv beteende terapi (KBT)
+  Jag har en bred erfarenhet och arbetar utifrån olika evidensbaserade teorier
+  och metoder i samtal, terapi och handledning. Det kan handla om metoder som
   ger en förståelse för hur känslor, tankar och beteenden påverkar oss och hur
-  vi genom ett förändrat tankemönster bli mer självreflekterande och närvarande.
-  Existentiella samtal kan ge nya perspektiv på livsfrågor som kan kännas stora
-  och svåra. Andra tekniker för läkande och utveckling är mindfulness, mediyoga
-  och fertilitetsförståelsede kan användas var och en för sig eller i
-  kombination.<br/>
+  vi genom ett förändrat tankemösnter kan bli mer självreflekterande, närvarande
+  och öka vår självmedkänsla. Existentiella samtal kan ge nya perspektiv på
+  livsfrågor som kan kännas stora och svåra. Andra metoder för läkande och
+  utveckling är mindfulness, mediyoga och fertilitetsförståelse som kan användas
+  var och en för sig eller i kombination.
 
 
-  <br/>Som barnmorska har jag arbetat bland annat inom födande och eftervård, på
-  preventivmedelsmottagning, RFSU-klinik, ungdomsmottagning och hälsocentral.
-  Efter min disputation 2013 arbetade jag några år som universitetslärare och
-  senare som samordnare av Mödrahälsovården i Stockholms läns landsting på
-  halvtid, samtidigt som jag började bygga upp min egen verksamhet.
+  <br/><br/>Som barnmorska har jag arbetat bland annat inom födande och
+  eftervård, på preventivmedelsmottagning, RFSU-klinik, ungdomsmottagning och
+  hälsocentral. Efter min disputation 2013 arbetade jag några år som
+  universitetslärare och senare som samordnare av Mödrahälsovården i Stockholms
+  läns landsting på halvtid, samtidigt som jag började bygga upp min egen
+  verksamhet.
 ---
