@@ -9,19 +9,19 @@ import { graphql, StaticQuery } from "gatsby";
 class LasMer extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { aktuelltIsActive: true, forskningIsActive: true };
+    this.state = { aktuelltIsActive: true, forskningIsActive: false };
     this.toggleAktuellt = this.toggleAktuellt.bind(this);
     this.toggleForskning = this.toggleForskning.bind(this);
   }
 
   toggleAktuellt() {
-    const newState = this.state.aktuelltIsActive ? false : true;
-    this.setState({ aktuelltIsActive: newState });
+    this.setState({ aktuelltIsActive: true });
+    this.setState({ forskningIsActive: false });
   }
 
   toggleForskning() {
-    const newState = this.state.forskningIsActive ? false : true;
-    this.setState({ forskningIsActive: newState });
+    this.setState({ aktuelltIsActive: false });
+    this.setState({ forskningIsActive: true });
   }
 
   render() {
