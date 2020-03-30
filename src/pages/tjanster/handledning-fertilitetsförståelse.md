@@ -20,15 +20,7 @@ Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva p�
 
 **Hormonfri preventivmetod**
 
-Handledning för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<br/>**Hur går det till?**<br/>Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Jag handleder dig i Justissemetoden, en teknik för att observera och registrera de biokemiska tecken som din kropp signalerar när hormonerna skiftar. Justissemetoden är en symtothermalmetod dvs du observerar både livmoderhalssekret och basal kroppstemperatur.<br/><br/>
-
-Den här kunskapen är sedan hjälpsam för att förstå dina fertila och infertila dagar och som bonus får du en förståelse för din helhetshälsa och gynekologiska hälsa samt kan följa förändringarna i menscykeln under livet.<br/><br/>
-
-Vi går igenom din tidigare och nuvarande hälsa och livssituation och du får en introduktion till reproduktionens anatomi och fysiologi, samt observations- och kartföringsteknik. Fem till åtta återbesök rekommenderas för att du ska få återkoppling på dina observationer, din kartföring och känna dig trygg i att kunna tolka dina fertila och infertila dagar på egen hand.<br/><br/>
-
-Utifrån dina besvär, behov, önskningar och mål får du förslag på hur du kan gå vidare för att må bättre. Det kan röra sig om livsstilsförändringar såsom om kost, sömn, träning, återhämtning, glädje och lust samt ibland även mindfulnessövningar och terapi.<br/><br/>
-
-\
+Handledning för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<br/><br/>**Hur går det till?**<br/>Centralt i handledningen är kunskapen om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Jag handleder dig i Justissemetoden, en teknik för att observera och registrera de biokemiska tecken som din kropp signalerar när hormonerna skiftar. Justissemetoden är en symtothermalmetod dvs du observerar både livmoderhalssekret och basal kroppstemperatur.<br/><br/>Den här kunskapen är sedan hjälpsam för att förstå dina fertila och infertila dagar och som bonus får du en förståelse för din helhetshälsa och gynekologiska hälsa samt kan följa förändringarna i menscykeln under livet.<br/><br/>Vi går igenom din tidigare och nuvarande hälsa och livssituation och du får en introduktion till reproduktionens anatomi och fysiologi, samt observations- och kartföringsteknik. Fem till åtta återbesök rekommenderas för att du ska få återkoppling på dina observationer, din kartföring och känna dig trygg i att kunna tolka dina fertila och infertila dagar på egen hand.<br/><br/>Utifrån dina besvär, behov, önskningar och mål får du förslag på hur du kan gå vidare för att må bättre. Det kan röra sig om livsstilsförändringar såsom om kost, sömn, träning, återhämtning, glädje och lust samt ibland även mindfulnessövningar och terapi.<br/><br/>\
 **Nuvarande pris:**
 
 Första besöket (90 min) 1500 kr
