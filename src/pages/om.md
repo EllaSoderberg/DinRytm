@@ -19,14 +19,14 @@ aboutme: >-
   behandlingen kunde anpassas efter klientens behov och mål. <br/><br/>
 
 
-  Jag har en bred erfarenhet och arbetar utifrån olika evidensbaserade teorier
-  och metoder i samtal, terapi och handledning. Det kan handla om metoder som
-  ger en förståelse för hur känslor, tankar och beteenden påverkar oss och hur
-  vi genom ett förändrat tankemösnter kan bli mer självreflekterande, närvarande
-  och öka vår självmedkänsla. Existentiella samtal kan ge nya perspektiv på
-  livsfrågor som kan kännas stora och svåra. Andra metoder för läkande och
-  utveckling är mindfulness, mediyoga och fertilitetsförståelse som kan användas
-  var och en för sig eller i kombination.
+  Jag har bred erfarenhet och arbetar utifrån olika evidensbaserade teorier och
+  metoder i samtal, terapi och handledning. Det kan handla om metoder som ger en
+  förståelse för hur känslor, tankar och beteenden påverkar oss och hur vi genom
+  ett förändrat tankemösnter kan bli mer självreflekterande, närvarande och öka
+  vår självmedkänsla. Existentiella samtal kan ge nya perspektiv på livsfrågor
+  som kan kännas stora och svåra. Andra metoder för läkande och utveckling är
+  mindfulness, mediyoga och fertilitetsförståelse som kan användas var och en
+  för sig eller i kombination.
 
 
   <br/><br/>Som barnmorska har jag arbetat bland annat inom födande och
