@@ -6,18 +6,18 @@ box1text: >-
   När det känns som att tillvaron tyngs av en grå filt, tankar och relationer
   skaver, humöret och känslorna åker berg och dalbana. Du kan få hjälp att
   förstå vad du behöver.
-box1slug: Samtal och terapi
+box1slug: terapi
 box2title: MediYoga
 box2text: >-
   När du vill ge dig själv mer uppmärksamhet och tid genom övningar för
   stillhet, närvaro, styrka och rörlighet. Hitta din rytm i livet.
-box2slug: MediYoga
+box2slug: yoga
 box3title: Fertilitetsförståelse
 box3text: >-
   När det känns som menscykeln är obegriplig och påverkar din vardag. När du
   vill lära dig mer om din fertilitet, din hälsa inför graviditet och få råd om
   preventivmetoder.
-box3slug: handledning
+box3slug: handledning-fertilitetsförståelse
 template: index
 om: >-
   Hos Din Rytm lär du dig att förstå och lyssna in din kropp och ditt sinne. Vi
