@@ -3,17 +3,20 @@ image: /img/poppy.jpg
 slogan: Lär känna dig själv på nytt
 box1title: Samtal och terapi
 box1text: >-
-  Det kan kännas som att tillvaron tyngs av en grå filt, tankar och relationer
+  När det känns som att tillvaron tyngs av en grå filt, tankar och relationer
   skaver, humöret och känslorna åker berg och dalbana. Du kan få hjälp att
   förstå vad du behöver.
 box1slug: Samtal och terapi
 box2title: MediYoga
-box2text: Stärk din hälsa och utveckla ditt självledarskap. Hitta Din rytm i livet!
+box2text: >-
+  När du vill ge dig själv mer uppmärksamhet och tid genom övningar för
+  stillhet, närvaro, styrka och rörlighet. Hitta din rytm i livet.
 box2slug: MediYoga
 box3title: Fertilitetsförståelse
 box3text: >-
-  Lär dig att förstå din kropp och fertilitet genom att observera och tolka din
-  menscykel. Individuell handledning eller grupp.
+  När det känns som menscykeln är obegriplig och påverkar din vardag. När du
+  vill lära dig mer om din fertilitet, din hälsa inför graviditet och få råd om
+  preventivmetoder.
 box3slug: handledning
 template: index
 om: >-
