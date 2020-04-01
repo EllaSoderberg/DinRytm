@@ -26,7 +26,7 @@ export default function Article({ data }) {
             </div>
           </div>
           <div
-            className="p-8 break-words"
+            className="p-8 text-sm break-words"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
         </div>

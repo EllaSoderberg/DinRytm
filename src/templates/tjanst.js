@@ -8,7 +8,7 @@ export default function Tjanst({ data }) {
   return (
     <Layout>
       <div className="mt-24 lg:mt-32 flex justify-center ">
-        <div className="flex flex-col w-full md:max-w-5xl">
+        <div className="flex flex-col w-full md:max-w-4xl">
           <div className="block h-64 xs:h-xxl">
             <div
               className="h-full bg-center bg-cover flex"
@@ -29,7 +29,7 @@ export default function Tjanst({ data }) {
           </div>
 
           <div
-            className="p-8 break-words text-md sm:text-xl"
+            className="p-8 break-words text-sm"
             dangerouslySetInnerHTML={{ __html: post.html }}
           />
         </div>

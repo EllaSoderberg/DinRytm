@@ -9,7 +9,7 @@ export const CenterText = (props) => {
       style={{ minHeight: 110 + "vh" }}
     >
       <div className="flex flex-col text-center items-center justify-center -mt-24">
-        <h3 className="w-1/2 text-4xl sm:text-5xl lg:text-6xl font-serif leading-tight">
+        <h3 className="w-2/3 text-4xl sm:text-5xl lg:text-6xl font-serif leading-tight">
           {props.text}
         </h3>
         <Button to="/om">Om Din rytm</Button>
