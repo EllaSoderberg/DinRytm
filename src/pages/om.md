@@ -35,7 +35,4 @@ aboutme: >-
   universitetslärare och senare som samordnare av Mödrahälsovården i Stockholms
   läns landsting på halvtid, samtidigt som jag började bygga upp min egen
   verksamhet.
-
-
-  ![]()
 ---
