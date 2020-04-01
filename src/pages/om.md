@@ -35,4 +35,13 @@ aboutme: >-
   universitetslärare och senare som samordnare av Mödrahälsovården i Stockholms
   läns landsting på halvtid, samtidigt som jag började bygga upp min egen
   verksamhet.
+
+
+
+
+  ![](https://lh4.googleusercontent.com/wBiPMvZp87Cj4_VvTOe99EP2tk58Ws3Nw6nzqd2k-falhwIzedTQoPsGTTRQjtRE_C8yLDrRiSFlhCIgc9PCupQlki41iX_9f7XLSkFbR9waHrPq-5Fb9J0JJD-5nwr9BbQypCNn)![](https://lh4.googleusercontent.com/0xeILi0RB-3QqI5TApt80UYMA1J7c2F0MPVXW11LAOFMyZbW4rksXRxV0yKdqv61cw28-vdY0TEpFeNeA3PFaiXPlH07jZCXGh2w84SsIzMnU-fEDMrQntEg-T8eTdS-C-OBU6Rb)
+
+
+  International Certification through the [Association for Fertility Awareness
+  Professionals (AFAP)](http://www.fertilityawarenessprofessionals.com/).
 ---
