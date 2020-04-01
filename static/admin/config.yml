@@ -70,7 +70,6 @@ collections:
           - { label: "Template", name: "template", widget: "hidden", default: "om"}
           - { label: "Bild", name: "image",  widget: "image"}
           - { label: "Om Din rytm", name: "about", widget: "markdown" }
-          - { label: "Om mig", name: "aboutme", widget: "markdown" }
 
   - name: "kontakt"
     label: "Kontakt"
