@@ -1,25 +1,23 @@
 ---
+template: article
 title: DEN VIKTIGA ANDNINGEN
 date: 2018-12-16T20:17:31.834Z
 image: /img/breath-beach.jpg
 category: aktuellt
-template: article
 ---
-<!--StartFragment-->
+**Andningen har sedan begynnelsen förknippats med livsprocesserna och med livet självt.** <br/>
 
-Andningen har sedan begynnelsen förknippats med livsprocesserna och med livet självt.
+De senaste 24 timmarna har du tagit ungefär 20 000 andetag. Om du inte andas dör du. Vi klarar oss i dagar utan vatten och i veckor utan mat men redan efter ett par minuter utan syre dör cellerna i kroppen. Efter bara 4 minuter utan syre kommer din hjärna aldrig mer att fungera som förr.<br/>
 
-De senaste 24 timmarna har du tagit ungefär 20 000 andetag. Om du inte andas dör du. Vi klarar oss i dagar utan vatten och i veckor utan mat men redan efter ett par minuter utan syre dör cellerna i kroppen. Efter bara 4 minuter utan syre kommer din hjärna aldrig mer att fungera som förr.
+Precis som alla andra större organismer är människan beroende av speciella organ i kroppen för utbyte av syre och koldioxid med omgivningen.<br/>
 
-Precis som alla andra större organismer är människan beroende av speciella organ i kroppen för utbyte av syre och koldioxid med omgivningen.
+Andningssystemet förser kroppen med syre genom andetaget. Luften värms, fuktas och renas när den passerar mun, näsa, svalg, luftstrupe på väg ner i bronker och lungor. Hela systemet är viktigt för vårt utbyte av syre och koldioxid.<br/>
 
-Andningssystemet förser kroppen med syre genom andetaget. Luften värms, fuktas och renas när den passerar mun, näsa, svalg, luftstrupe på väg ner i bronker och lungor. Hela systemet är viktigt för vårt utbyte av syre och koldioxid.
+Syret används som bränsle i cellen vid sönderdelningen av näring. Vid sönderdelningen av näringen frigörs energi som i sin tur driver cellprocesserna. Resterna av processerna i cellerna består huvudsakligen av koldioxid och vatten, vilket vi avlägsnar via vår andning.<br/>
 
-Syret används som bränsle i cellen vid sönderdelningen av näring. Vid sönderdelningen av näringen frigörs energi som i sin tur driver cellprocesserna. Resterna av processerna i cellerna består huvudsakligen av koldioxid och vatten, vilket vi avlägsnar via vår andning.
+**Tips för insomning**
 
-Tips för insomning
-
-När du går och lägger dig på kvällen, börja med att ligga på vänster sida i fem till tio minuter för att värma upp systemet. Sedan vänder du över till höger sida, vänster näsborre öppnar upp och varm och behaglig slappnar du av och somnar lättare.
+<br/>När du går och lägger dig på kvällen, börja med att ligga på vänster sida i fem till tio minuter för att värma upp systemet. Sedan vänder du över till höger sida, vänster näsborre öppnar upp och varm och behaglig slappnar du av och somnar lättare.<br/>
 
 Prana – livsenergin
 
@@ -48,7 +46,5 @@ Om du blir trött när du ätit en måltid, tänk efter vad du ätit, hur du ät
 Blir du trött av möten med andra människor? Var medveten om på vilket sätt det påverkar dig.
 
 *”Målet med yoga är att väcka din innersta kraft, och utveckla din fulla potential.”*
-
-
 
 <!--EndFragment-->
