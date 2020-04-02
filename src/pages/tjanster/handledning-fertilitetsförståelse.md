@@ -33,4 +33,4 @@ Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva p�
 
 **Skicka ett meddelande via [kontaktformuläret](https://dinrytm.se/kontakt) om du önskar:**<br/> - mer information om kursupplägg?<br/>- anmäla dig till väntelista för kommande kurs <br/><br/>**Är ni redan en grupp** som är intresserade av att lära er mer om detta.<br/>Skriv i meddelandet hur många ni är, era namn och vem av er jag kan kontakta, så planerar vi ett upplägg tillsammans. Vi kan ses hemma hos någon av er eller i lokal som jag ordnar.<br/><br/>
 
-**Nuvarande pris**<br/>500 kr/deltagare (6 deltagare) om annat antal deltagare justeras priset något.
+**Nuvarande pris:**<br/>500 kr/deltagare (6 deltagare) om annat antal deltagare justeras priset något.
