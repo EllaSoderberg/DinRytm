@@ -1,5 +1,5 @@
 ---
-title: Yoga
+title: MediYoga
 order: 4
 image: /img/waterflower.jpg
 date: 2013-12-16T20:17:31.834Z
