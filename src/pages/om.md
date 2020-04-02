@@ -4,10 +4,18 @@ image: /img/MalinS.jpg
 about: >-
   Jag startade Din rytm 2014 efter många år som kliniskt verksam sjuksköterska
   och barnmorska, en forskarexamen inom reproduktiv hälsa och några år som
-  universitetslärare och vårdsamordnare. I min nya verksamhet ville jag erbjuda
-  ett helhetsperspektiv i mötet, där det mänskliga fick plats och behandlingen
-  kunde anpassas efter klientens behov och mål.  Viktiga ledord i verksamheten
-  är värme, empati, närvaro och respekt.<br/>
+  universitetslärare och vårdsamordnare. Resultatet av forskarstudierna stärkte
+  mig i att börja jobba mer förebyggande och med ett helhetsperspektiv på
+  fertilitet och hälsa. Under de senaste åren har jag utbildat mig inom
+  holistisk reproduktiv hälsa, mindfulness och mediyoga, samt psykoterapi för
+  att även kunna erbjuda behandling vid långvarig stress, utmattning, kris och
+  psykisk ohälsa. <br/><br/>
+
+
+  I min verksamhet är ett helhetsperspektiv viktigt för att få ett sammanhang
+  att förstå hälsa och lidande och göra det mer begripligt för klienten. I mötet
+  är närvaro, empati, värme och respekt viktiga hörnstenar där det mänskliga,
+  sårbara får ta plats.<br/><br/>
 
 
   I samtal, terapi och handledning arbetar jag utifrån olika evidensbaserade
@@ -17,31 +25,22 @@ about: >-
   samtal kan ge nya perspektiv på livsfrågor som kan kännas stora och svåra.
   Andra metoder för läkande och utveckling är mindfulness, mediyoga och
   fertilitetsförståelse som kan användas var och en för sig eller i
-  kombination.<br/>
+  kombination.<br/><br/>
 
 
   Vår kontakt kan se ut på olika sätt och vara lång eller kort beroende på vad
-  du söker för. I handeldning och terapi arbetar vi tillsammans som ett team,
-  där du är expert på dig själv och jag bidrar med teoretisk kunskap och
-  kliniska erfarenheter. Jag har erfarenhet från flera områden såsom psykisk
-  hälsa/ohälsa, reproduktiv hälsa, sex- och samlevnad, existentiella frågor,
-  menscykelhälsa och hälsa i klimakteriet. Jag arbetar utifrån ett
-  helhetsperspektiv som stödjer reproduktiv frihet och respekterar dina sexuella
-  och reproduktiva val.<br/>
+  du söker för. Vi tillsammans som ett team, där du är expert på dig själv och
+  jag bidrar med teoretisk kunskap och kliniska erfarenheter. Jag har erfarenhet
+  från flera områden såsom psykisk hälsa/ohälsa, reproduktiv hälsa, sex- och
+  samlevnad, existentiella frågor, menscykelhälsa och hälsa i klimakteriet. Jag
+  arbetar utifrån ett helhetsperspektiv som stödjer reproduktiv frihet och
+  respekterar dina sexuella och reproduktiva val.<br/><br/>
 
 
   Som barnmorska har jag arbetat bland annat inom födande och eftervård, på
   preventivmedelsmottagning, RFSU-klinik, ungdomsmottagning och hälsocentral.
   Efter min disputation 2013 arbetade jag några år som universitetslärare och
-  senare som samordnare av Mödrahälsovården i Stockholms läns landsting på
-  halvtid, samtidigt som jag började bygga upp min egen verksamhet. Jag har
-  under de senaste 5 åren studerat holistisk reproduktiv hälsa, utbildat mig
-  till mediyogalärare&terapeut och psykoterapeut steg 1.
-
-
-
-
-  <!--EndFragment-->
+  senare som samordnare av Mödrahälsovården i Stockholms läns landsting.
 aboutme: >-
   Jag grundade Din rytm 2014 efter många år som kliniskt verksam sjuksköterska
   och barnmorska, en forskarexamen inom reproduktiv hälsa och några år som
