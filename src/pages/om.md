@@ -15,7 +15,10 @@ about: >-
   I min verksamhet är ett helhetsperspektiv viktigt för att få ett sammanhang
   att förstå hälsa och lidande och göra det mer begripligt för klienten. I mötet
   är närvaro, empati, värme och respekt viktiga hörnstenar där det mänskliga,
-  sårbara får ta plats.<br/><br/>
+  sårbara får ta plats. Vår kontakt kan se ut på olika sätt och vara lång eller
+  kort beroende på vad du söker för. Vi arbetar tillsammans som ett team, där du
+  är expert på dig själv och jag bidrar med teoretisk kunskap och kliniska
+  erfarenheter.<br/><br/>
 
 
   I samtal, terapi och handledning arbetar jag utifrån olika evidensbaserade
@@ -28,16 +31,7 @@ about: >-
   kombination.<br/><br/>
 
 
-  Vår kontakt kan se ut på olika sätt och vara lång eller kort beroende på vad
-  du söker för. Vi tillsammans som ett team, där du är expert på dig själv och
-  jag bidrar med teoretisk kunskap och kliniska erfarenheter. Jag har erfarenhet
-  från flera områden såsom psykisk hälsa/ohälsa, reproduktiv hälsa, sex- och
-  samlevnad, existentiella frågor, menscykelhälsa och hälsa i klimakteriet. Jag
-  arbetar utifrån ett helhetsperspektiv som stödjer reproduktiv frihet och
-  respekterar dina sexuella och reproduktiva val.<br/><br/>
-
-
-  Som barnmorska har jag arbetat bland annat inom födande och eftervård, på
+  Jag har arbetat bland annat inom födande och eftervård, på
   preventivmedelsmottagning, RFSU-klinik, ungdomsmottagning och hälsocentral.
   Efter min disputation 2013 arbetade jag några år som universitetslärare och
   senare som samordnare av Mödrahälsovården i Stockholms läns landsting.
