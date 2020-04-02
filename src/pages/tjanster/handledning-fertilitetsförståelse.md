@@ -27,7 +27,7 @@ Första besöket (90 min) 1500 kr
 
 Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva på nätet finns flera olika så välj en som passar era behov.
 
-<br/>*Önskar du boka en tid? Skicka ett meddelande via** [kontaktformuläret](https://dinrytm.se/kontakt).***<br/><br/>
+<br/>*Önskar du boka en tid? Skicka ett meddelande via** [kontaktformuläret](https://dinrytm.se/kontakt).**<br/><br/>
 
 **Lär dig Justissemetoden tillsammans med andra!**<br/>För dig som vill veta mer om din menscykel, din hälsa och fertilitet. Det här är ett populärt sätt att lära sig mer om menscykelns och fruktsamhetens anatomi och fysiologi, lära dig observera och kartföra menscykeln, och samtidigt dela erfarenheter med andra.<br/><br/>Vi ses tre kvällar med 4 veckors mellanrum. Varje träff är 3 timmar inklusive fikapaus.<br/><br/>
 
