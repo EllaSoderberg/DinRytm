@@ -22,7 +22,7 @@ Första besöket (75 min) – 1200kr
 
 Återbesök (30 min) –500 kr
 
-<br/>*Önskar du boka en tid? Skicka ett meddelande via **[kontaktformuläret](https://dinrytm.se/kontakt).***<br/><br/>**\
+<br/>Önskar du boka en tid? Skicka ett meddelande via **[kontaktformuläret](https://dinrytm.se/kontakt).**<br/><br/>**\
 MediYoga i grupp**<br/>
 
 Det här är för dig som vill träna kropp och sinne i en mindre yogaklass på 8-10 personer. Det passar för dig som kan sitta på matta men även dig som vill sitta på stol.<br/><br/>
