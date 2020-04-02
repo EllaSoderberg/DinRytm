@@ -11,4 +11,4 @@ Kognitiv terapi är hjälpsamt för att få en förståelse för hur känslor, t
 
 300kr/session (normalpris 1000kr).
 
-Om du är intresserad, skicka ett meddelande genom att klicka här eller ring mig på 0766-144118.
+**Om du är intresserad, skicka ett meddelande genom att klicka[ här ](https://dinrytm.se/kontakt)eller ring mig på 0766-144118.**
