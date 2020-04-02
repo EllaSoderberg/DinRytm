@@ -22,7 +22,7 @@ Första besöket (75 min) – 1200kr
 
 Återbesök (30 min) –500 kr
 
-<br/>Önskar du boka en tid? Skicka ett meddelande via **[kontaktformuläret](https://dinrytm.se/kontakt).**<br/><br/>**\
+<br/>Önskar du boka en tid? Skicka ett meddelande via **kontaktformuläret.**<br/><br/>**\
 MediYoga i grupp**<br/>
 
 Det här är för dig som vill träna kropp och sinne i en mindre yogaklass på 8-10 personer. Det passar för dig som kan sitta på matta men även dig som vill sitta på stol.<br/><br/>
@@ -33,4 +33,4 @@ Yogapassen är utformade så att alla, utifrån sina egna förutsättningar, ska
 
 Kursstart varje termin i vackra Hönshuset på Färingsö. Kontakta mig för pris då det är beroende på antal deltagare och antal kurstillfällen.
 
-**För anmälan och mer information skicka ett meddelande till mig [här](https://dinrytm.se/kontakt).**
+För anmälan och mer information skicka ett meddelande till mig **här.**
