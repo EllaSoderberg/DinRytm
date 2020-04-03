@@ -1,7 +1,9 @@
 # Din rytm website
 This is the first website I've built myself, for the company of my mother. 
+
 I've used the framework [Gatsby](https://www.gatsbyjs.org/) and the CSS framework [Tailwind CSS](https://tailwindcss.com).
-I've also used Netlify CMS so that my mother can easily edit the content of the website herself.
+I've also used [Netlify CMS](https://www.netlifycms.org/) so that my mother can easily edit the content of the website herself.
+
 To get started I used the starter [Gatsby Starter Tailwind](https://gatsby-starter-tailwind.oddstronaut.com/).
 
 # Get started
@@ -29,8 +31,8 @@ gatsby develop
 
 # Netlify
 
-This website is deployed to Netlify.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/532fdda3-3952-4bd5-9f1d-7b40e5346f67/deploy-status)](https://app.netlify.com/sites/sleepy-villani-569b1f/deploys)
+This website is deployed to Netlify.
 
 # TODO
   - Make images load faster
