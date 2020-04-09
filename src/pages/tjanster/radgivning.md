@@ -11,4 +11,4 @@ ingress: ''
 Har du frågor som rör något av områdena ovan och behöver råd & vägledning är du välkommen att boka en tid för telefonrådgivning.<br/>
 
 *Nuvarande pris*<br/>Telefonsamtal (30 min) 500 kr\
-<br/>Om du i samband med rådgivningen bokar ett nybesök kostar samtalet 250 kr.<br/>Önskar du boka en tid? Skicka ett meddelande via **kontaktformuläret.**
+<br/>Om du i samband med rådgivningen bokar ett nybesök kostar samtalet 250 kr.<br/>Önskar du boka en tid? Skicka ett meddelande via[ **kontaktformuläret.**](https://dinrytm.se/kontakt)
