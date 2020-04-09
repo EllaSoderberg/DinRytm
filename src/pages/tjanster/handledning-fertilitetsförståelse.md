@@ -31,6 +31,6 @@ Instruktionsbok (eng.) tillkommer. Fertilitetstermometer köper du/ni själva p�
 
 **Lär dig Justissemetoden tillsammans med andra!**<br/>För dig som vill veta mer om din menscykel, din hälsa och fertilitet. Det här är ett populärt sätt att lära sig mer om menscykelns och fruktsamhetens anatomi och fysiologi, lära dig observera och kartföra menscykeln, och samtidigt dela erfarenheter med andra.<br/><br/>Vi ses tre kvällar med 4 veckors mellanrum. Varje träff är 3 timmar inklusive fikapaus.<br/><br/>
 
-*Skicka ett meddelande via **[kontaktformuläret](https://dinrytm.se/kontakt)** om du önskar:*<br/> - mer information om kursupplägg?<br/>- anmäla dig till väntelista för kommande kurs <br/><br/>**Är ni redan en grupp** som är intresserade av att lära er mer om detta.<br/>Skriv i meddelandet hur många ni är, era namn och vem av er jag kan kontakta, så planerar vi ett upplägg tillsammans. Vi kan ses hemma hos någon av er eller i lokal som jag ordnar.<br/><br/>
+Skicka ett meddelande via **[kontaktformuläret](https://dinrytm.se/kontakt)** om du önskar:<br/> - mer information om kursupplägg?<br/>- anmäla dig till väntelista för kommande kurs <br/><br/>**Är ni redan en grupp** som är intresserade av att lära er mer om detta.<br/>Skriv i meddelandet hur många ni är, era namn och vem av er jag kan kontakta, så planerar vi ett upplägg tillsammans. Vi kan ses hemma hos någon av er eller i lokal som jag ordnar.<br/><br/>
 
 *Nuvarande pris:*<br/>500 kr/deltagare (6 deltagare) om annat antal deltagare justeras priset något.
