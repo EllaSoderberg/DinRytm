@@ -42,7 +42,7 @@ Instruktionsbok (eng.) och fertilitetstermometer tillkommer.
 
 <br/>
 
-Önskar du boka en tid? Skicka ett meddelande via [kontaktformuläret](https://dinrytm.se/kontakt).
+Önskar du boka en tid? Skicka ett meddelande via **[kontaktformuläret](https://dinrytm.se/kontakt).**
 
 <br/><br/>
 
