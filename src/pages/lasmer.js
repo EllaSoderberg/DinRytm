@@ -61,7 +61,7 @@ class LasMer extends React.Component {
                             date
                             image {
                               childImageSharp {
-                                fluid(maxWidth: 300, quality: 100) {
+                                fluid(maxWidth: 250, quality: 90) {
                                   ...GatsbyImageSharpFluid
                                 }
                               }

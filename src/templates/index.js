@@ -19,7 +19,7 @@ class IndexPage extends React.Component {
               frontmatter {
                 image {
                   childImageSharp {
-                    fluid(maxWidth: 2048, quality: 100) {
+                    fluid(maxWidth: 1240, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
