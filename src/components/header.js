@@ -2,7 +2,7 @@ import { Link } from "gatsby";
 import React from "react";
 import PropTypes from "prop-types";
 import { Nav } from "./nav";
-import Logo from "../images/LogoWhite.svg";
+import Logo from "../img/LogoWhite.svg";
 
 export class Header extends React.Component {
   constructor(props) {
