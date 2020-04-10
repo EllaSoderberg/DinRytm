@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
+import CompatibleImage from "../components/CompatibleImage";
 
 export default function Om({ data }) {
   const text = data.markdownRemark.frontmatter;
@@ -23,8 +24,10 @@ export default function Om({ data }) {
               dangerouslySetInnerHTML={{ __html: text.about }}
             ></p>
           </div>
-          <div className="w-full flex justify-center md:w-1/3 self-center" >
-            <img className="max-w-xs" src={text.image}></img>
+          <div className="max-w-xs flex justify-center md:w-1/3 self-center">
+            <div className="w-xxl">
+              <CompatibleImage imageInfo={text.image} />
+            </div>
           </div>
         </div>
       </div>
@@ -33,11 +36,17 @@ export default function Om({ data }) {
 }
 
 export const query = graphql`
-  query($slug: String) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+  query($id: String) {
+    markdownRemark(id: { eq: $id }) {
       frontmatter {
         about
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 240, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
@@ -48,8 +57,8 @@ Om.propTypes = {
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.shape({
         about: PropTypes.string,
-        image: PropTypes.string
-      })
-    })
-  })
+        image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      }),
+    }),
+  }),
 };

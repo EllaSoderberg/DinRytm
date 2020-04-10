@@ -11,6 +11,13 @@
     "strict": 0,
     "react/display-name": 0
   },
+  "overrides": [
+    { "files": ["*.js"],
+      "rules": {
+        "no-extra-boolean-cast": "off"
+      }
+    }
+  ],
   "extends": [
     // https://eslint.org/docs/rules/
     "eslint:recommended",

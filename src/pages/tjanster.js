@@ -22,15 +22,21 @@ class Tjanster extends React.Component {
                   query={graphql`
                     query {
                       allMarkdownRemark(
-                        filter: { fields: { slug: { regex: "/(tjanster)/" } } }
-                        sort: {fields: frontmatter___order}
+                        filter: { frontmatter: { template: { eq: "tjanst" } } }
+                        sort: { fields: frontmatter___order }
                       ) {
                         edges {
                           node {
                             id
                             frontmatter {
                               title
-                              image
+                              image {
+                                childImageSharp {
+                                  fluid(maxWidth: 300, quality: 100) {
+                                    ...GatsbyImageSharpFluid
+                                  }
+                                }
+                              }
                             }
                             fields {
                               slug
@@ -40,7 +46,7 @@ class Tjanster extends React.Component {
                       }
                     }
                   `}
-                  render={data =>
+                  render={(data) =>
                     data.allMarkdownRemark.edges.map(({ node }) => (
                       <Card
                         key={node.id}

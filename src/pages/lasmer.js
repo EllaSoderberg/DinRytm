@@ -59,7 +59,13 @@ class LasMer extends React.Component {
                           frontmatter {
                             title
                             date
-                            image
+                            image {
+                              childImageSharp {
+                                fluid(maxWidth: 300, quality: 100) {
+                                  ...GatsbyImageSharpFluid
+                                }
+                              }
+                            }
                             category
                           }
                           excerpt(pruneLength: 100, format: PLAIN)
@@ -71,7 +77,7 @@ class LasMer extends React.Component {
                     }
                   }
                 `}
-                render={data =>
+                render={(data) =>
                   data.allMarkdownRemark.edges.map(({ node }) => (
                     <Card
                       key={node.title}

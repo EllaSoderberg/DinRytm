@@ -3,8 +3,8 @@ import { graphql, StaticQuery } from "gatsby";
 
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-//import Poppy from "../images/poppy.jpg";
-import greenB from "../images/GreenPattern.png";
+//import Poppy from "../img/poppy.jpg";
+import greenB from "../img/GreenPattern.png";
 import { BackgroundImg } from "../components/backgroundimg";
 import { TextboxRow } from "../components/textboxrow";
 import { CenterText } from "../components/centertext";
@@ -17,7 +17,13 @@ class IndexPage extends React.Component {
           query {
             markdownRemark(fileAbsolutePath: { regex: "/(index)/" }) {
               frontmatter {
-                image
+                image {
+                  childImageSharp {
+                    fluid(maxWidth: 2048, quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+                }
                 box1title
                 box1text
                 box1slug
@@ -33,10 +39,10 @@ class IndexPage extends React.Component {
             }
           }
         `}
-        render={data => (
+        render={(data) => (
           <div>
             <BackgroundImg
-              src={data.markdownRemark.frontmatter.image}
+              src={!!data.markdownRemark.frontmatter.image.childImageSharp ? data.markdownRemark.frontmatter.image.childImageSharp.fluid.src : data.markdownRemark.frontmatter.image}
               height={110}
             />
             <Layout isIndex={true}>
@@ -54,22 +60,22 @@ class IndexPage extends React.Component {
                         slug:
                           "/tjanster/" +
                           data.markdownRemark.frontmatter.box1slug,
-                        text: data.markdownRemark.frontmatter.box1text
+                        text: data.markdownRemark.frontmatter.box1text,
                       },
                       {
                         title: data.markdownRemark.frontmatter.box2title,
                         slug:
                           "/tjanster/" +
                           data.markdownRemark.frontmatter.box2slug,
-                        text: data.markdownRemark.frontmatter.box2text
+                        text: data.markdownRemark.frontmatter.box2text,
                       },
                       {
                         title: data.markdownRemark.frontmatter.box3title,
                         slug:
                           "/tjanster/" +
                           data.markdownRemark.frontmatter.box3slug,
-                        text: data.markdownRemark.frontmatter.box3text
-                      }
+                        text: data.markdownRemark.frontmatter.box3text,
+                      },
                     ]}
                   />
                 </div>
@@ -88,7 +94,7 @@ class IndexPage extends React.Component {
                       className="relative bg-contain"
                       style={{
                         backgroundImage: "url(" + greenB + ")",
-                        minHeight: 100 + "%"
+                        minHeight: 100 + "%",
                       }}
                     >
                       <span className="w-full h-full absolute opacity-25 bg-green-400"></span>

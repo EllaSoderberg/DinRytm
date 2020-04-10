@@ -15,9 +15,15 @@ export const Card = props => {
     <Link to={props.slug}>
       <div
         className="block h-40 bg-center bg-cover rounded-t-lg"
-        style={{
-          backgroundImage: "url(" + props.img + ")"
-        }}
+        style={{ backgroundImage:
+                  "url(" +
+                  `${
+                    !!props.img.childImageSharp
+                      ? props.img.childImageSharp.fluid.src
+                      : props.img
+                  }` +
+                  ")",
+              }}
       ></div>
       <div className="block p-2 px-4 text-white">
         <div className="text-sm uppercase">{props.category}</div>

@@ -13,7 +13,11 @@ export default function Article({ data }) {
             <div
               className="h-full bg-center bg-cover flex"
               style={{
-                backgroundImage: "url(" + post.frontmatter.image + ")"
+                backgroundImage: 'url(' + `${
+                  !!post.frontmatter.image.childImageSharp
+                    ? post.frontmatter.image.childImageSharp.fluid.src
+                    : post.frontmatter.image
+                }` + ')',
               }}
             >
               <div className="text-white bg-green-layover-50 h-auto w-full m-4 p-4 self-end">
@@ -36,13 +40,19 @@ export default function Article({ data }) {
 }
 
 export const query = graphql`
-  query($slug: String) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+  query($id: String) {
+    markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
         title
         date(formatString: "YYYY-MM-DD hh:mm")
-        image
+        image {
+          childImageSharp {
+            fluid(maxWidth: 1080, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         category
       }
     }
@@ -56,9 +66,9 @@ Article.propTypes = {
       frontmatter: PropTypes.shape({
         title: PropTypes.string,
         date: PropTypes.string,
-        image: PropTypes.string,
-        category: PropTypes.string
-      })
-    })
-  })
+        image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+        category: PropTypes.string,
+      }),
+    }),
+  }),
 };
