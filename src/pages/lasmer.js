@@ -1,6 +1,6 @@
 import React from "react";
 
-import Layout from "../components/layout";
+import PageContainer from "../components/PageContainer";
 import SEO from "../components/seo";
 import { Card } from "../components/card";
 import { GreenButton } from "../components/greenbutton";
@@ -27,14 +27,13 @@ class LasMer extends React.Component {
   render() {
     return (
       <div>
-        <Layout isIndex={false}>
           <SEO
             keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
             title="Forskning"
           />
-          <div className="mt-32 flex flex-col">
-            <div className="text-5xl font-serif p-4 sm:px-12">Läs mer</div>
-            <div className="block flex uppercase px-4 sm:px-12">
+          <PageContainer>
+            <div className="text-5xl font-serif p-4 ">Läs mer</div>
+            <div className="block flex uppercase px-4">
               <div onClick={this.toggleAktuellt}>
                 <GreenButton isActive={this.state.aktuelltIsActive}>
                   Aktuellt
@@ -46,7 +45,7 @@ class LasMer extends React.Component {
                 </GreenButton>
               </div>
             </div>
-            <div className="block flex flex-wrap justify-around sm:p-12">
+            <div className="block flex flex-wrap justify-around">
               <StaticQuery
                 query={graphql`
                   query {
@@ -94,8 +93,7 @@ class LasMer extends React.Component {
                 }
               />
             </div>
-          </div>
-        </Layout>
+            </PageContainer>
       </div>
     );
   }

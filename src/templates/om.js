@@ -2,21 +2,20 @@ import React from "react";
 import { graphql } from "gatsby";
 import PropTypes from "prop-types";
 
-import Layout from "../components/layout";
+import PageContainer from "../components/PageContainer";
 import SEO from "../components/seo";
 import CompatibleImage from "../components/CompatibleImage";
 
 export default function Om({ data }) {
   const text = data.markdownRemark.frontmatter;
   return (
-    <Layout isIndex={false}>
+    <div>
       <SEO
         keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
         title="Forskning"
       />
-
-      <div className="mt-32 mb-8 flex justify-center">
-        <div className="block w-full md:max-w-6xl mb-8 flex flex-col md:flex-row">
+      <PageContainer>
+        <div className="block flex flex-col md:flex-row">
           <div className="w-full md:w-2/3 p-6">
             <h1 className="font-serif text-4xl xs:text-6xl">Om Din rytm</h1>
             <p
@@ -30,8 +29,8 @@ export default function Om({ data }) {
             </div>
           </div>
         </div>
-      </div>
-    </Layout>
+      </PageContainer>
+    </div>
   );
 }
 
@@ -57,8 +56,8 @@ Om.propTypes = {
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.shape({
         about: PropTypes.string,
-        image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-      }),
-    }),
-  }),
+        image: PropTypes.oneOfType([PropTypes.object, PropTypes.string])
+      })
+    })
+  })
 };

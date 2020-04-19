@@ -24,11 +24,11 @@ class Layout extends React.Component {
             </p>
             <p className="p-2">
               Designad av {` `}
-              <a className="font-bold no-underline" href="#">
-                Maja Lundquist
+              <a className="font-bold no-underline">
+                 Maja Lundquist 
               </a>
-              {` `} & {` `}
-              <a className="font-bold no-underline" href="#">
+              {" "} & {` `}
+              <a className="font-bold no-underline">
                 Sanna Mogren
               </a>
             </p>
