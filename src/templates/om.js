@@ -19,7 +19,7 @@ export default function Om({ data }) {
           <div className="w-full md:w-2/3 p-6">
             <h1 className="font-serif text-4xl xs:text-6xl">Om Din rytm</h1>
             <p
-              className="text-md sm:text-xl py-4"
+              className="text-sm py-4"
               dangerouslySetInnerHTML={{ __html: text.about }}
             ></p>
           </div>
