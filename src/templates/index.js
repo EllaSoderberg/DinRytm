@@ -39,10 +39,15 @@ class IndexPage extends React.Component {
             }
           }
         `}
-        render={(data) => (
+        render={data => (
           <div>
             <BackgroundImg
-              src={!!data.markdownRemark.frontmatter.image.childImageSharp ? data.markdownRemark.frontmatter.image.childImageSharp.fluid.src : data.markdownRemark.frontmatter.image}
+              src={
+                !!data.markdownRemark.frontmatter.image.childImageSharp
+                  ? data.markdownRemark.frontmatter.image.childImageSharp.fluid
+                      .src
+                  : data.markdownRemark.frontmatter.image
+              }
               height={110}
             />
             <Layout isIndex={true}>
@@ -52,32 +57,36 @@ class IndexPage extends React.Component {
               />
               <CenterText text={data.markdownRemark.frontmatter.slogan} />
               <section className="block z-30 pb-20 bg-white">
-                <div className="-mt-16 text-white">
-                  <TextboxRow
-                    boxData={[
-                      {
-                        title: data.markdownRemark.frontmatter.box1title,
-                        slug:
-                          "/tjanster/" +
-                          data.markdownRemark.frontmatter.box1slug,
-                        text: data.markdownRemark.frontmatter.box1text,
-                      },
-                      {
-                        title: data.markdownRemark.frontmatter.box2title,
-                        slug:
-                          "/tjanster/" +
-                          data.markdownRemark.frontmatter.box2slug,
-                        text: data.markdownRemark.frontmatter.box2text,
-                      },
-                      {
-                        title: data.markdownRemark.frontmatter.box3title,
-                        slug:
-                          "/tjanster/" +
-                          data.markdownRemark.frontmatter.box3slug,
-                        text: data.markdownRemark.frontmatter.box3text,
-                      },
-                    ]}
-                  />
+                <div className="flex justify-center">
+                  <div className="flex flex-col w-full max-w-7xl">
+                  <div className="-mt-16 text-white">
+                    <TextboxRow
+                      boxData={[
+                        {
+                          title: data.markdownRemark.frontmatter.box1title,
+                          slug:
+                            "/tjanster/" +
+                            data.markdownRemark.frontmatter.box1slug,
+                          text: data.markdownRemark.frontmatter.box1text
+                        },
+                        {
+                          title: data.markdownRemark.frontmatter.box2title,
+                          slug:
+                            "/tjanster/" +
+                            data.markdownRemark.frontmatter.box2slug,
+                          text: data.markdownRemark.frontmatter.box2text
+                        },
+                        {
+                          title: data.markdownRemark.frontmatter.box3title,
+                          slug:
+                            "/tjanster/" +
+                            data.markdownRemark.frontmatter.box3slug,
+                          text: data.markdownRemark.frontmatter.box3text
+                        }
+                      ]}
+                    />
+                  </div>
+                </div>
                 </div>
               </section>
               {/*Bottom section*/}
@@ -94,7 +103,7 @@ class IndexPage extends React.Component {
                       className="relative bg-contain"
                       style={{
                         backgroundImage: "url(" + greenB + ")",
-                        minHeight: 100 + "%",
+                        minHeight: 100 + "%"
                       }}
                     >
                       <span className="w-full h-full absolute opacity-25 bg-green-400"></span>

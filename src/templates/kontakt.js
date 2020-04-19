@@ -2,7 +2,7 @@ import React from "react";
 import { graphql } from "gatsby";
 import PropTypes from "prop-types";
 
-import Layout from "../components/layout";
+import PageContainer from "../components/PageContainer";
 import SEO from "../components/seo";
 import Form from "../components/form";
 
@@ -10,32 +10,28 @@ export default function Kontakt({ data }) {
   const info = data.markdownRemark.frontmatter;
   return (
     <div>
-      <Layout isIndex={false}>
-        <SEO
-          keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
-          title="Tjanster"
-        />
-        <div className="mt-32 flex justify-center">
-          <div className="block flex flex-col w-full max-w-5xl mb-8 h-full px-4">
-            <div className="font-bold text-3xl px-8 pb-8">Kontakt:</div>
-            <p className="pb-8 px-8">
-              <b>Malin Söderberg</b>
-              <br></br>
-              <br></br>
-              Telefon: <a href={"tel:" + info.phone}>{info.phone}</a>
-              <br></br>
-              Mail: <a href={"mailto:" + info.email}>{info.email}</a>
-              <br></br>
-              <br></br>
-              <b>
-                Välkommen att höra av dig om du har frågor eller vill boka en
-                tid.
-              </b>
-            </p>
-            <Form></Form>
-          </div>
-        </div>
-      </Layout>
+      <SEO
+        keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
+        title="Tjanster"
+      />
+      <PageContainer>
+        <div></div>
+        <div className="font-bold text-3xl py-4">Kontakt:</div>
+        <p className="pb-8 px-8">
+          <b>Malin Söderberg</b>
+          <br></br>
+          <br></br>
+          Telefon: <a href={"tel:" + info.phone}>{info.phone}</a>
+          <br></br>
+          Mail: <a href={"mailto:" + info.email}>{info.email}</a>
+          <br></br>
+          <br></br>
+          <b>
+            Välkommen att höra av dig om du har frågor eller vill boka en tid.
+          </b>
+        </p>
+        <Form></Form>
+      </PageContainer>
     </div>
   );
 }
