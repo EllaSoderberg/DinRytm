@@ -1,7 +1,7 @@
 import { Link } from "gatsby";
 import React from "react";
 import PropTypes from "prop-types";
-import { Nav } from "./nav";
+import { Nav } from "./Nav";
 import Logo from "../img/LogoWhite.svg";
 
 export class Header extends React.Component {
@@ -33,7 +33,7 @@ export class Header extends React.Component {
           transparent ? `` : `bg-green-400`
         } z-40 uppercase fixed w-full ease-out duration-300 transition-all`}
       >
-        <div className="flex items-center justify-between max-w-4xl mx-auto p-4 md:p-8">
+        <div className="flex justify-start mx-auto p-4 md:p-8 ">
           <Nav />
           <Link
             className={`${

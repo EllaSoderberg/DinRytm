@@ -1,8 +1,8 @@
 import React from "react";
 
 import PageContainer from "../components/PageContainer";
-import SEO from "../components/seo";
-import { Card } from "../components/card";
+import SEO from "../components/SEO";
+import { Card } from "../components/Card";
 import { graphql, StaticQuery } from "gatsby";
 
 class Tjanster extends React.Component {

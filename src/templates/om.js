@@ -3,7 +3,7 @@ import { graphql } from "gatsby";
 import PropTypes from "prop-types";
 
 import PageContainer from "../components/PageContainer";
-import SEO from "../components/seo";
+import SEO from "../components/SEO";
 import CompatibleImage from "../components/CompatibleImage";
 
 export default function Om({ data }) {
