@@ -1,4 +1,4 @@
-import React from "react";
+import React from "React";
 
 import Layout from "../components/Layout";
 import SEO from "../components/SEO";
