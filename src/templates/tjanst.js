@@ -2,6 +2,7 @@ import React from "react";
 import { graphql } from "gatsby";
 import PageContainer from "../components/PageContainer";
 import PropTypes from "prop-types";
+import { QuoteBlock } from "../components/QuoteBlock";
 
 export default function Tjanst({ data }) {
   const post = data.markdownRemark;
@@ -37,6 +38,7 @@ export default function Tjanst({ data }) {
         className="p-8 break-words text-sm"
         dangerouslySetInnerHTML={{ __html: post.html }}
       />
+      <QuoteBlock quote={"Det var ett värdefullt möte och jag känner mig peppad och glad."} author={"Ulrika, 34 år"}/>
     </PageContainer>
   );
 }
