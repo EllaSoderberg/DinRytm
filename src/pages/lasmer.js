@@ -1,9 +1,9 @@
 import React from "react";
 
 import PageContainer from "../components/PageContainer";
-import SEO from "../components/seo";
-import { Card } from "../components/card";
-import { GreenButton } from "../components/greenbutton";
+import SEO from "../components/SEO";
+import { Card } from "../components/Card";
+import { GreenButton } from "../components/GreenButton";
 import { graphql, StaticQuery } from "gatsby";
 
 class LasMer extends React.Component {
@@ -28,8 +28,8 @@ class LasMer extends React.Component {
     return (
       <div>
           <SEO
-            keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
-            title="Forskning"
+            keywords={[`graviditet`, `oro`, `fertilitetsoro`,`fertilitetsråd`, `justissemetoden`,`terapi`, `handledning`, `menscykel`, `oregelbunden`, `mens`, `ägglossning`, `pmds`, `depression`, `ångest`, `ivf`, `pms`, `sekret`, `mensvärk`, `justisse`, `preventivmedel`, `menssmärtor`, `pcos`, `p-piller`, `hormonspiral`, `hormonfri`, `preventivmetod`]}
+            title="Läs mer"
           />
           <PageContainer>
             <div className="text-5xl font-serif p-4 ">Läs mer</div>

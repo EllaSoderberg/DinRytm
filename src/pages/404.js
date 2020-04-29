@@ -1,13 +1,13 @@
 import React from "react";
 
 import Layout from "../components/layout";
-import SEO from "../components/seo";
+import SEO from "../components/SEO";
 import spiralingStairs from "../img/SpiralingStairs.jpg";
 
 function NotFoundPage() {
   return (
     <Layout>
-      <SEO title="404: Not found" />
+      <SEO title="404: Sidan hittades ej" />
       <div className="z-0 top-0 left-0 block h-screen w-full">
         <div
           title="Trappor ned i avgrunden"

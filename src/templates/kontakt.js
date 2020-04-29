@@ -3,8 +3,8 @@ import { graphql } from "gatsby";
 import PropTypes from "prop-types";
 
 import PageContainer from "../components/PageContainer";
-import SEO from "../components/seo";
-import Form from "../components/form";
+import SEO from "../components/SEO";
+import Form from "../components/Form";
 
 export default function Kontakt({ data }) {
   const info = data.markdownRemark.frontmatter;
@@ -12,7 +12,7 @@ export default function Kontakt({ data }) {
     <div>
       <SEO
         keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
-        title="Tjanster"
+        title="Kontakt"
       />
       <PageContainer>
         <div></div>

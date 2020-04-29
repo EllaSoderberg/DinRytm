@@ -2,10 +2,10 @@ import React from "react";
 import { graphql, StaticQuery } from "gatsby";
 
 import Layout from "../components/layout";
-import SEO from "../components/seo";
+import SEO from "../components/SEO";
 //import Poppy from "../img/poppy.jpg";
 import greenB from "../img/GreenPattern.png";
-import { BackgroundImg } from "../components/backgroundimg";
+import { BackgroundImg } from "../components/BackgroundImg";
 import { TextboxRow } from "../components/textboxrow";
 import { CenterText } from "../components/centertext";
 
@@ -52,8 +52,8 @@ class IndexPage extends React.Component {
             />
             <Layout isIndex={true}>
               <SEO
-                keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
-                title="Home"
+                keywords={[`din rytm`, `malin söderberg`, `justisse`, `graviditet`, `justissemetoden`, `fertilitet`, `vulverine`,]}
+                title="Din rytm"
               />
               <CenterText text={data.markdownRemark.frontmatter.slogan} />
               <section className="block z-30 pb-20 bg-white">
