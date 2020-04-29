@@ -3,8 +3,8 @@ import { graphql } from "gatsby";
 import PropTypes from "prop-types";
 
 import PageContainer from "../components/PageContainer";
-import SEO from "../components/seo";
-import Form from "../components/form";
+import SEO from "../components/SEO";
+import Form from "../components/Form";
 
 export default function Kontakt({ data }) {
   const info = data.markdownRemark.frontmatter;
@@ -16,7 +16,7 @@ export default function Kontakt({ data }) {
       />
       <PageContainer>
         <div></div>
-        <div className="font-bold text-3xl py-4">Kontakt:</div>
+        <div className="font-bold text-3xl py-4 px-8">Kontakt:</div>
         <p className="pb-8 px-8">
           <b>Malin Söderberg</b>
           <br></br>
