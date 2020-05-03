@@ -3,8 +3,8 @@ import { graphql } from "gatsby";
 import PropTypes from "prop-types";
 
 import PageContainer from "../components/PageContainer";
-import SEO from "../components/SEO";
-import Form from "../components/Form";
+import SEO from "../components/seo";
+import Form from "../components/form";
 
 export default function Kontakt({ data }) {
   const info = data.markdownRemark.frontmatter;

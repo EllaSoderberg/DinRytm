@@ -1,8 +1,10 @@
 ---
 template: tjanst
 title: Handledning fertilitetsförståelse
-image: /img/blur.jpg
 order: 3
+image: /img/blur.jpg
+quote: ""
+quoteauthor: ""
 ---
 **För vem?**
 

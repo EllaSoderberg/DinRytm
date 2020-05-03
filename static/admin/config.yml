@@ -33,6 +33,9 @@ collections:
       - { label: "Bild", name: "image",  widget: "image"}
       - { label: "Sammanfattning", name: "ingress", required: false, widget: "text"}
       - { label: "Text", name: "body", widget: "markdown" }
+      - { label: "Citat", name: "quote", widget: "text"}
+      - { label: "Citatförfattare", name: "quoteauthor", widget: "string"}
+
 
   - name: "start"
     label: "Texter startsida"

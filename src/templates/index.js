@@ -2,10 +2,10 @@ import React from "react";
 import { graphql, StaticQuery } from "gatsby";
 
 import Layout from "../components/layout";
-import SEO from "../components/SEO";
+import SEO from "../components/seo";
 //import Poppy from "../img/poppy.jpg";
 import greenB from "../img/GreenPattern.png";
-import { BackgroundImg } from "../components/BackgroundImg";
+import { BackgroundImg } from "../components/backgroundimg";
 import { TextboxRow } from "../components/textboxrow";
 import { CenterText } from "../components/centertext";
 

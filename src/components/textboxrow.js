@@ -1,5 +1,5 @@
 import React from "react";
-import { Textbox } from "./Textbox";
+import { Textbox } from "./textbox";
 import PropTypes from "prop-types";
 
 

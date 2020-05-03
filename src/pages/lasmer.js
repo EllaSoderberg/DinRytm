@@ -1,9 +1,9 @@
 import React from "react";
 
 import PageContainer from "../components/PageContainer";
-import SEO from "../components/SEO";
-import { Card } from "../components/Card";
-import { GreenButton } from "../components/GreenButton";
+import SEO from "../components/seo";
+import { Card } from "../components/card";
+import { GreenButton } from "../components/greenbutton";
 import { graphql, StaticQuery } from "gatsby";
 
 class LasMer extends React.Component {

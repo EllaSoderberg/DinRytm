@@ -5,6 +5,8 @@ image: /img/waterflower.jpg
 date: 2013-12-16T20:17:31.834Z
 template: tjanst
 ingress: ''
+quote: ""
+quoteauthor: ""
 ---
 **Individuell mediyoga**<br/>
 
