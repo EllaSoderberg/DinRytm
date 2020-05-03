@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import PropTypes from "prop-types";
-import { SocialMedia } from "./socialmedia";
+import { SocialMedia } from "./SocialMedia";
 
 export const Sidebar = props => {
   return (
@@ -22,7 +22,7 @@ export const Sidebar = props => {
         <div className="relative flex flex-col h-full w-full font-bold overflow-scroll">
           {props.navData.map(link => (
             <Link
-              className="text-white text-lg p-4 hover:bg-green-300"
+              className="text-white text-l p-4 hover:bg-green-300"
               key={link.title}
               to={link.route}
             >
