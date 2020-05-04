@@ -1,8 +1,12 @@
 ---
 template: tjanst
 title: Handledning fertilitetsförståelse
-image: /img/blur.jpg
 order: 3
+image: /img/blur.jpg
+quote: >
+  ”Tack! Det betyder så mycket att få normalisera sin egen kropp, jag känner mig
+  motiverad med större självförtroende” 
+quoteauthor: 'Karin '
 ---
 **För vem?**
 
