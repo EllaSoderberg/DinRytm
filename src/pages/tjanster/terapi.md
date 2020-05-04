@@ -1,9 +1,8 @@
 ---
+template: tjanst
 title: Samtal och Terapi
 order: 1
 image: /img/wheat.jpg
-date: 2011-12-16T20:17:31.834Z
-template: tjanst
 ingress: ''
 quote: Det har känts så bra att du har väglett oss. Vi har tyckt om den mjuka, tydliga och förstående atmosfären.
 quoteauthor: Jessica & Pär

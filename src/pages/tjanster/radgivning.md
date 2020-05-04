@@ -1,9 +1,8 @@
 ---
+template: tjanst
 title: Rådgivning
 order: 2
 image: /img/kopia-av-5.jpg
-date: 2010-12-16T20:17:31.834Z
-template: tjanst
 ingress: ''
 quote: Stort tack, det var ett mycket värdefullt möte och jag känner mig peppad och glad
 quoteauthor: Ulrika, 24 år
