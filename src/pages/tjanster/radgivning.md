@@ -1,10 +1,13 @@
 ---
+template: tjanst
 title: Rådgivning
 order: 2
 image: /img/kopia-av-5.jpg
-date: 2010-12-16T20:17:31.834Z
-template: tjanst
 ingress: ''
+quote: |2
+   "Stort tack, det var ett mycket värdefullt möte och jag känner mig peppad och glad" 
+quoteauthor: Ulrika
+date: 2010-12-16T20:17:31.834Z
 ---
 **För vem?** <br/>Rådgivningen är för dig som känner att du behöver vägledning i vården, för dig som behöver råd kring din gynekologiska och reproduktiva hälsa, för dig som behöver mer kunskap om vilken preventivmetod som passar dig, för dig som är i klimakteriet och för dig som undrar hur jag kan hjälpa dig. <br/><br/>
 
