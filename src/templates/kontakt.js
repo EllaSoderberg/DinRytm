@@ -12,7 +12,7 @@ export default function Kontakt({ data }) {
     <div>
       <SEO
         keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
-        title="Tjanster"
+        title="Kontakt"
       />
       <PageContainer>
         <div></div>

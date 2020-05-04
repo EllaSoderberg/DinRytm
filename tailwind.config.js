@@ -4,6 +4,8 @@ module.exports = {
   theme: {
     colors: {
       green: {
+        'layover-85': tinycolor('#4A5950').setAlpha(0.85).toRgbString(),
+        'layover-75': tinycolor('#4A5950').setAlpha(0.75).toRgbString(),
         'layover-50': tinycolor('#4A5950').setAlpha(0.5).toRgbString(),
         'layover-25': tinycolor('#4A5950').setAlpha(0.25).toRgbString(),
         '600': '#4A5950',

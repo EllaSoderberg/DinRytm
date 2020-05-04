@@ -10,7 +10,7 @@ class Tjanster extends React.Component {
     return (
       <div>
         <SEO
-          keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
+          keywords={[`graviditet`, `oro`, `fertilitetsoro`,`fertilitetsråd`, `justissemetoden`,`terapi`, `handledning`, `menscykel`, `oregelbunden`, `mens`, `ägglossning`, `pmds`, `depression`, `ångest`, `ivf`, `pms`, `sekret`, `mensvärk`, `justisse`, `preventivmedel`, `menssmärtor`, `pcos`, `p-piller`, `hormonspiral`, `hormonfri`, `preventivmetod`]}
           title="Tjänster"
         />
         <PageContainer>

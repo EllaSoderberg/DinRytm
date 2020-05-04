@@ -2,6 +2,8 @@ import React from "react";
 import { graphql } from "gatsby";
 import PageContainer from "../components/PageContainer";
 import PropTypes from "prop-types";
+import { QuoteBlock } from "../components/QuoteBlock";
+
 
 export default function Tjanst({ data }) {
   const post = data.markdownRemark;
@@ -18,7 +20,7 @@ export default function Tjanst({ data }) {
                   ? post.frontmatter.image.childImageSharp.fluid.src
                   : post.frontmatter.image
               }` +
-              ")"
+              ")",
           }}
         >
           <div className="text-white bg-green-layover-50 h-auto w-full m-4 p-4 self-end">
@@ -36,6 +38,12 @@ export default function Tjanst({ data }) {
       <div
         className="p-8 break-words text-sm"
         dangerouslySetInnerHTML={{ __html: post.html }}
+      />
+        <QuoteBlock
+        quote={
+          post.frontmatter.quote
+        }
+        author={post.frontmatter.quoteauthor}
       />
     </PageContainer>
   );
@@ -55,6 +63,8 @@ export const query = graphql`
           }
         }
         ingress
+        quote
+        quoteauthor
       }
     }
   }
@@ -67,8 +77,10 @@ Tjanst.propTypes = {
       frontmatter: PropTypes.shape({
         title: PropTypes.string,
         image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-        ingress: PropTypes.string
-      })
-    })
-  })
+        ingress: PropTypes.string,
+        quote: PropTypes.string,
+        quoteauthor: PropTypes.string,
+      }),
+    }),
+  }),
 };

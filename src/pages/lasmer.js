@@ -28,8 +28,8 @@ class LasMer extends React.Component {
     return (
       <div>
           <SEO
-            keywords={[`Fertilitet`, `Din rytm`, `yoga`, `mediyoga`]}
-            title="Forskning"
+            keywords={[`graviditet`, `oro`, `fertilitetsoro`,`fertilitetsråd`, `justissemetoden`,`terapi`, `handledning`, `menscykel`, `oregelbunden`, `mens`, `ägglossning`, `pmds`, `depression`, `ångest`, `ivf`, `pms`, `sekret`, `mensvärk`, `justisse`, `preventivmedel`, `menssmärtor`, `pcos`, `p-piller`, `hormonspiral`, `hormonfri`, `preventivmetod`]}
+            title="Läs mer"
           />
           <PageContainer>
             <div className="text-5xl font-serif p-4 ">Läs mer</div>

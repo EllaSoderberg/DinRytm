@@ -4,11 +4,8 @@ title: MediYoga
 order: 4
 image: /img/waterflower.jpg
 ingress: ''
-quote: >-
-  “Tack för en underbar yoga! Jag mår så bra efter yogapasset, längtar redan
-  till nästa pass”
+quote: Tack för en underbar yoga! Jag mår så bra efter yogapasset, längtar redan till nästa pass
 quoteauthor: Deltagare i Mediyogaklass
-date: 2013-12-16T20:17:31.834Z
 ---
 **Individuell mediyoga**<br/>
 
