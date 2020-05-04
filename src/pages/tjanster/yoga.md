@@ -5,8 +5,8 @@ image: /img/waterflower.jpg
 date: 2013-12-16T20:17:31.834Z
 template: tjanst
 ingress: ''
-quote: ""
-quoteauthor: ""
+quote: Tack för en underbar yoga! Jag mår så bra efter yogapasset, längtar redan till nästa pass
+quoteauthor: Deltagare i Mediyogaklass
 ---
 **Individuell mediyoga**<br/>
 
