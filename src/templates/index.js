@@ -52,7 +52,7 @@ class IndexPage extends React.Component {
             />
             <Layout isIndex={true}>
               <SEO
-                keywords={[`din rytm`, `malin söderberg`, `justisse`, `graviditet`, `justissemetoden`, `fertilitet`, `vulverine`,]}
+                keywords={[`din rytm`, `malin söderberg`, `justisse`, `graviditet`, `justissemetoden`, `fertilitet`, `vulverine`, `stockholm`]}
                 title="Din rytm"
               />
               <CenterText text={data.markdownRemark.frontmatter.slogan} />
