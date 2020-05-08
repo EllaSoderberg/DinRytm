@@ -12,7 +12,7 @@ export default function Om({ data }) {
     <div>
       <SEO
         keywords={[`malin söderberg`, `din rytm`, `justissemetoden`, `fertilitet`]}
-        title="Om mig"
+        title="Om Din rytm"
       />
       <PageContainer>
         <div className="block flex flex-col md:flex-row">
