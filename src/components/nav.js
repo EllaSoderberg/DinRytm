@@ -58,7 +58,7 @@ export class Nav extends React.Component {
     ];
 
     return (
-      <div>
+      <div className="">
         <Sidebar
           isExpanded={this.state.isExpanded}
           toggleExpansion={this.toggleExpansion}
@@ -78,11 +78,11 @@ export class Nav extends React.Component {
           </svg>
         </button>
         <div className="hidden md:block">
-          <div className="lg:-ml-32 flex font-bold text-xl md:text-2xl">
+          <div className="flex font-bold text-l">
             {navData.map(link => (
               <Link
                 className={
-                  "md:inline-block md:ml-6 lg:ml-12 no-underline text-white hover:text-green-100 active:text-green-600"
+                  "md:inline-block ml-4 mt-1 no-underline text-white hover:text-green-100 active:text-green-600"
                 }
                 key={link.title}
                 to={link.route}

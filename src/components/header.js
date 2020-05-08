@@ -33,7 +33,7 @@ export class Header extends React.Component {
           transparent ? `` : `bg-green-400`
         } z-40 uppercase fixed w-full ease-out duration-300 transition-all`}
       >
-        <div className="flex items-center justify-between max-w-4xl mx-auto p-4 md:p-8">
+        <div className="flex justify-start mx-auto p-4 md:p-8 ">
           <Nav />
           <Link
             className={`${
@@ -54,4 +54,3 @@ export class Header extends React.Component {
 Header.propTypes = {
   isIndex: PropTypes.bool
 };
-
