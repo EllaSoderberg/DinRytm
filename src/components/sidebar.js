@@ -21,13 +21,24 @@ export const Sidebar = props => {
         </div>
         <div className="relative flex flex-col h-full w-full font-bold overflow-scroll">
           {props.navData.map(link => (
+            <div key={link.title}>
             <Link
-              className="text-white text-lg p-4 hover:bg-green-300"
-              key={link.title}
+              className="text-white text-l px-4 py-2 hover:bg-green-300 block"
+              
               to={link.route}
             >
               {link.title}
             </Link>
+            {link.nodes.map((sublink) => (
+                    <Link
+                      className="text-white text-sm block px-8 py-2 hover:bg-green-300"
+                      key={sublink.title}
+                      to={link.route + sublink.url}
+                    >
+                    {sublink.title}
+                    </Link>
+                  ))}
+                  </div>
           ))}
           <SocialMedia />
         </div>

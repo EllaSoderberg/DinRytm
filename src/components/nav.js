@@ -20,41 +20,45 @@ export class Nav extends React.Component {
       {
         route: `/`,
         title: `Hem`,
-        nodes: []
+        nodes: [],
       },
       {
         route: `/tjanster`,
         title: `Tjänster`,
         nodes: [
           {
-            title: "Terapi",
-            url: "/terapi"
-          },
-          {
-            title: "Handledning",
-            url: "/handledning"
+            title: "Samtal och Terapi",
+            url: "/terapi",
           },
           {
             title: "Rådgivning",
-            url: "/radgivning"
-          }
-        ]
+            url: "/radgivning",
+          },
+          {
+            title: "Handledning fertilitetsförståelse",
+            url: "/handledning-fertilitetsförståelse",
+          },
+          {
+            title: "Mediyoga",
+            url: "/yoga",
+          },
+        ],
       },
       {
         route: `/lasmer`,
         title: `Läs Mer`,
-        nodes: []
+        nodes: [],
       },
       {
         route: `/om`,
         title: `Om`,
-        nodes: []
+        nodes: [],
       },
       {
         route: `/kontakt`,
         title: `Kontakt`,
-        nodes: []
-      }
+        nodes: [],
+      },
     ];
 
     return (
@@ -79,16 +83,29 @@ export class Nav extends React.Component {
         </button>
         <div className="hidden md:block">
           <div className="flex font-bold text-l">
-            {navData.map(link => (
-              <Link
-                className={
-                  "md:inline-block ml-4 mt-1 no-underline text-white hover:text-green-100 active:text-green-600"
-                }
-                key={link.title}
-                to={link.route}
-              >
-                {link.title}
-              </Link>
+            {navData.map((link) => (
+              <div className="dropdown relative" key={link.title}>
+                <Link
+                  className={
+                    "dropbtn md:inline-block ml-4 mt-1 no-underline text-white hover:text-green-100 active:text-green-600"
+                  }
+                  key={link.title}
+                  to={link.route}
+                >
+                  {link.title}
+                </Link>
+                <div className="dropdown-content hidden absolute z-0 ml-1 pt-2">
+                  {link.nodes.map((sublink) => (
+                    <Link
+                      className="text-white text-sm block px-3 py-2 bg-green-400 hover:bg-green-300"
+                      key={sublink.title}
+                      to={link.route + sublink.url}
+                    >
+                      {sublink.title}
+                    </Link>
+                  ))}
+                </div>
+              </div>
             ))}
             <SocialMedia />
           </div>
