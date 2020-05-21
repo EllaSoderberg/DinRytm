@@ -12,8 +12,6 @@ quoteauthor: Karin
 
 Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<br/><br/>
 
-
-
 ## **Handledning - hur går det till?**
 
 Handledningen baseras på reproduktionens anatomi och fysiologi, och ger dig kunskap om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Kunskapen är sedan hjälpsam för att förstå din helhetshälsa, fertilitet och infertilitet, gynekologiska hälsa och förändringar i menscykeln under livet. Handledningen skräddarsys efter dina behov, vare sig du har regelbundna eller oregelbundna cykler, har slutat med hormonella preventivmedel, eller är i klimakteriet. Ibland kan samtalsterapi bli ett komplement till handledningen, eller så växlar vi från handledning till samtalsterapeutisk behandling.<br/>
@@ -41,9 +39,7 @@ Instruktionsbok (eng.) och fertilitetstermometer tillkommer.
 
 ## Hormonfri preventivmetod
 
-Justissemetoden är en symtothermalmetod vilket innebär att du observerar både livmoderhalssekret och basal kroppstemperatur. Du lär dig fertila och infertila dagar och får en förståelse för din helhetshälsa och gynekologiska hälsa. Fem till åtta återbesök rekommenderas för att du ska få återkoppling på dina observationer, din kartföring och känna dig trygg i att kunna tolka dina fertila och infertila dagar på egen hand.
-
-<br/>\
+Justissemetoden är en symtothermalmetod vilket innebär att du observerar både livmoderhalssekret och basal kroppstemperatur. Du lär dig fertila och infertila dagar och får en förståelse för din helhetshälsa och gynekologiska hälsa. Fem till åtta återbesök rekommenderas för att du ska få återkoppling på dina observationer, din kartföring och känna dig trygg i att kunna tolka dina fertila och infertila dagar på egen hand.<br/>\
 *Nuvarande pris:*
 
 Första besöket (90 min) 1500 kr
