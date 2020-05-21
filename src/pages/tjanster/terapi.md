@@ -3,9 +3,7 @@ template: tjanst
 title: Samtalsterapi
 order: 1
 image: /img/wheat.jpg
-ingress: >-
-  Kognitiv beteendeterapi är hjälpsamt för att få en förståelse för hur känslor,
-  tankar och beteenden påverkar oss så att vi kan förstå och välja förändra.
+ingress: ''
 quote: >-
   Det har känts så bra att du har väglett oss. Vi har tyckt om den mjuka,
   tydliga och förstående atmosfären.
