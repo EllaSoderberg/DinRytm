@@ -16,6 +16,8 @@ Handledningen är för dig som planerar för en graviditet och/eller har försö
 
 Handledningen baseras på reproduktionens anatomi och fysiologi, och ger dig kunskap om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Kunskapen är sedan hjälpsam för att förstå din helhetshälsa, fertilitet och infertilitet, gynekologiska hälsa och förändringar i menscykeln under livet. Handledningen skräddarsys efter dina behov, vare sig du har regelbundna eller oregelbundna cykler, har slutat med hormonella preventivmedel, eller är i klimakteriet. Ibland kan samtalsterapi bli ett komplement till handledningen, eller så växlar vi från handledning till samtalsterapeutisk behandling.<br/>
 
+
+
 Vi går igenom din tidigare och nuvarande hälsa och livssituation utifrån ett helhetsperspektiv. För de flesta som söker för mensrelaterade besvär är en introduktion till reproduktionens anatomi och fysiologi, samt till Justissemetoden en bra start. Med den kunskapen och tekniken kan du börja observera och registrera de biokemiska tecken som din kropp signalerar när hormonerna skiftar.<br/>
 
 Återbesök rekommenderas för att du ska få återkoppling på dina observationer, din kartföring och lära dig tolka din menscykel på egen hand.<br/>
