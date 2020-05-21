@@ -5,8 +5,8 @@ order: 2
 image: /img/kopia-av-5.jpg
 ingress: ''
 quote: >-
-  Stort tack, det var ett mycket värdefullt möte och jag<br/>känner mig peppad
-  och glad
+  Stort tack, det var ett mycket värdefullt möte och jag känner mig peppad och
+  glad
 quoteauthor: 'Ulrika, 24 år'
 ---
 **För vem?** <br/>Rådgivningen är för dig som känner att du behöver vägledning i vården, för dig som behöver råd kring din gynekologiska och reproduktiva hälsa, för dig som behöver mer kunskap om vilken preventivmetod som passar dig, för dig som är i klimakteriet och för dig som undrar hur jag kan hjälpa dig. <br/><br/>
