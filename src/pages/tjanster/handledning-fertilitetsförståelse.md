@@ -6,7 +6,7 @@ image: /img/blur.jpg
 quote: >-
   Tack! Det betyder så mycket att få normalisera sin egen kropp, jag känner mig
   motiverad med större självförtroende
-quoteauthor: Karin
+quoteauthor: 'Karin, 24 år'
 ---
 ## **Lär känna din menscykel**
 
