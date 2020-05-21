@@ -12,7 +12,7 @@ quoteauthor: Karin
 
 Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<br/>
 
-### Handledning - hur går det till?
+## Handledning - hur går det till?
 
 Handledningen baseras på reproduktionens anatomi och fysiologi, och ger dig kunskap om menscykeln och dess hormonella skiftningar som kan observeras och tolkas. Kunskapen är sedan hjälpsam för att förstå din helhetshälsa, fertilitet och infertilitet, gynekologiska hälsa och förändringar i menscykeln under livet. Handledningen skräddarsys efter dina behov, vare sig du har regelbundna eller oregelbundna cykler, har slutat med hormonella preventivmedel, eller är i klimakteriet. Ibland kan samtalsterapi bli ett komplement till handledningen, eller så växlar vi från handledning till samtalsterapeutisk behandling.
 
