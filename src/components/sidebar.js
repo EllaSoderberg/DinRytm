@@ -31,7 +31,7 @@ export const Sidebar = props => {
             </Link>
             {link.nodes.map((sublink) => (
                     <Link
-                      className="text-white text-sm block px-8 py-2 hover:bg-green-300"
+                      className="text-white text-sm block px-8 py-2 bg-green-500 hover:bg-green-300"
                       key={sublink.title}
                       to={link.route + sublink.url}
                     >
