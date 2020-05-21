@@ -11,7 +11,7 @@ quoteauthor: 'Jessica & Pär '
 ---
 ## **Kognitiv beteendeterapi (KBT)**
 
-Livet går i cykler och alla går vi igenom perioder som känns extra tunga, obegripliga eller smärtsamma. Ibland behöver vi söka stöd och hjälp för att förstå och hantera dessa perioder så att vi sedan kan gå vidare med den nya erfarenheten. Du kan söka samtalsterapi för depression/utmattning, ångest/panikångest, social fobi, stöd- eller krissamtal.<br/>
+Livet går i cykler och alla går vi igenom perioder som känns extra tunga, obegripliga eller smärtsamma. Ibland behöver vi söka stöd och hjälp för att förstå och hantera dessa perioder så att vi sedan kan gå vidare med den nya erfarenheten. Du kan söka samtalsterapi för depression/utmattning, ångest/panikångest, social fobi, stöd- eller krissamtal.<br/><br/>
 
 ### **KBT - hur går det till?**
 
