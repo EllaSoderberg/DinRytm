@@ -14,7 +14,7 @@ quoteauthor: Karin
 
 <br/>
 
-### Handledning - h**ur går det till?**
+### Handledning - hur går det till?
 
 <br/>
 
