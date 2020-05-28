@@ -33,7 +33,7 @@ Instruktionsbok (eng.) och fertilitetstermometer tillkommer.
 
 Önskar du boka en tid? Skicka ett meddelande via **[kontaktformuläret](https://dinrytm.se/kontakt).**<br/><br/>
 
-## **Hormonfri preventivmetod**
+## **Hormonfri preventivmetod** 
 
 Justissemetoden är en symtothermalmetod vilket innebär att du observerar både livmoderhalssekret och basal kroppstemperatur. Du lär dig fertila och infertila dagar och får en förståelse för din helhetshälsa och gynekologiska hälsa. Fem till åtta återbesök rekommenderas för att du ska få återkoppling på dina observationer, din kartföring och känna dig trygg i att kunna tolka dina fertila och infertila dagar på egen hand.<br/>\
 *Nuvarande pris:*
