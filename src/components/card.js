@@ -39,7 +39,7 @@ export const Card = props => {
 };
 
 Card.propTypes = {
-  img: PropTypes.string,
+  img: PropTypes.element,
   category: PropTypes.string,
   title: PropTypes.string,
   exc: PropTypes.string,
