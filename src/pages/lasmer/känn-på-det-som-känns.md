@@ -7,7 +7,7 @@ category: aktuellt
 ---
 <!--StartFragment-->
 
-***Yoga handlar om att lära känna sig själv, att tämja tankeflödet landa i kroppen och hitta kraft och glädje i livet.*** <br></br> När vi är för mycket i huvudet tappar vi kontakten med kroppen. Kroppen som är vår kompass till vad som får oss att må bra och mindre bra. När vi inte mår så bra försöker vi lösa det genom att tänka ut vad vi mår bra av men misslyckas alltid när vi inte har kontakt med vår egen guide och inre kompass, kroppen. Kroppen finns alltid där för oss men den har svårt att hinna med i alla svängar när sinnet sätter igång och tankarna snurrar runt i huvudet.
+**Yoga handlar om att lära känna sig själv, att tämja tankeflödet landa i kroppen och hitta kraft och glädje i livet.** <br></br> När vi är för mycket i huvudet tappar vi kontakten med kroppen. Kroppen som är vår kompass till vad som får oss att må bra och mindre bra. När vi inte mår så bra försöker vi lösa det genom att tänka ut vad vi mår bra av men misslyckas alltid när vi inte har kontakt med vår egen guide och inre kompass, kroppen. Kroppen finns alltid där för oss men den har svårt att hinna med i alla svängar när sinnet sätter igång och tankarna snurrar runt i huvudet.
 <br></br>
 
 **Chakra – vårt energisystem** <br></br> Ordet chakra är sanskrit och betyder roterande hjul av energi. Av all energi som snurrar i universum är människan ett eget hjul, flödande av energi som interagerar och kommunicerar med andra energihjul omkring dig. Vi är på samma gång fysisk kropp, medvetande och tankar, känslor.
