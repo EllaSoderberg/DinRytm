@@ -16,7 +16,6 @@ Andningssystemet förser kroppen med syre genom andetaget. Luften värms, fuktas
 Syret används som bränsle i cellen vid sönderdelningen av näring. Vid sönderdelningen av näringen frigörs energi som i sin tur driver cellprocesserna. Resterna av processerna i cellerna består huvudsakligen av koldioxid och vatten, vilket vi avlägsnar via vår andning.<br/>
 
 **Tips för insomning**
-
 <br/>När du går och lägger dig på kvällen, börja med att ligga på vänster sida i fem till tio minuter för att värma upp systemet. Sedan vänder du över till höger sida, vänster näsborre öppnar upp och varm och behaglig slappnar du av och somnar lättare.<br/>
 
 Prana – livsenergin
