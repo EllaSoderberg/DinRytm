@@ -23,8 +23,8 @@ export default function Tjanst({ data }) {
               ")",
           }}
         >
-          <div className="text-white h-auto w-full m-4 ml-12 p-4 self-end">
-            <div className="text-3xl sm:text-6xl font-serif">
+          <div className="text-white h-auto w-full ml-4 p-4 self-end">
+            <div className="text-3xl sm:text-5xl font-serif">
               {post.frontmatter.title}
             </div>
             <div className="text-md sm:text-xl ml-4">
