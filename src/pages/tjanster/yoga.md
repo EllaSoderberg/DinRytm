@@ -2,7 +2,7 @@
 template: tjanst
 title: MediYoga
 order: 4
-image: /img/waterflower.jpg
+image: /img/dinrytm_mediyoga.jpg
 ingress: ''
 quote: |-
   Tack för en underbar yoga! Jag mår så bra efter yogapasset, 
