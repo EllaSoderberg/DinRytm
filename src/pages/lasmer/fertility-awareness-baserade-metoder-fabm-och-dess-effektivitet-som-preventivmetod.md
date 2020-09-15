@@ -1,8 +1,6 @@
 ---
 template: article
-title: >-
-  Fertility awareness baserade metoder (FABM) och dess effektivitet som
-  preventivmetod
+title: FERTILITY AWARENESS BASERADE METODER - EFFEKTIVITET SOM PREVENTIVMETOD
 date: 2020-03-29T22:00:00.000Z
 image: /img/manhart-m-fambs-2013.png
 category: forskning
