@@ -1,6 +1,6 @@
 ---
 template: article
-title: Mens - en unik erfarenhet
+title: MENS - EN UNIK ERFARENHET
 date: 2020-09-11T10:27:05.264Z
 image: /img/_händer-hjärta_din_rytm-1.jpg
 category: forskning
