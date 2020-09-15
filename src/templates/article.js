@@ -21,7 +21,7 @@ export default function Article({ data }) {
               ")"
           }}
         >
-          <div className="text-white bg-green-layover-50 h-auto w-full m-4 p-4 self-end">
+          <div className="text-white h-auto w-full m-6 p-6 self-end">
             <div className="text-3xl font-serif font-bold">
               {post.frontmatter.title}
             </div>
