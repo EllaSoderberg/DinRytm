@@ -1,6 +1,6 @@
 ---
 template: om
-image: /img/MalinS.jpg
+image: /img/dinrytm_malin_soderberg.jpg
 about: >-
   Jag startade Din rytm 2014 efter många år som kliniskt verksam sjuksköterska
   och barnmorska, en forskarexamen inom reproduktiv hälsa och några år som
