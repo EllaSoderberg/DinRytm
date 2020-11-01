@@ -2,7 +2,7 @@
 template: article
 title: DET LÅNGA DJUPA ANDETAGET
 date: 2019-08-21T19:29:22.474Z
-image: /img/bryggasjö.jpg
+image: /img/dinrytm_langa-djupa_andetag.jpg
 category: aktuellt
 ---
 <!--StartFragment-->

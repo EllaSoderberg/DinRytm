@@ -2,7 +2,7 @@
 template: article
 title: DEN VIKTIGA ANDNINGEN
 date: 2018-12-16T20:17:31.834Z
-image: /img/breath-beach.jpg
+image: /img/dinrytm_den_viktiga_andningen.jpg
 category: aktuellt
 ---
 **Andningen har sedan begynnelsen förknippats med livsprocesserna och med livet självt.** <br/>

@@ -2,7 +2,7 @@
 template: article
 title: 'CHATT MED LÄSARNA: HUR PÅVERKAS MENSEN AV TRÄNING?'
 date: 2015-08-11T22:00:00.000Z
-image: /img/träning.jpg
+image: /img/traning.jpg
 category: aktuellt
 ---
 <!--StartFragment-->

@@ -2,7 +2,7 @@
 template: article
 title: VAD ÄR FERTILITY AWARENESS OCH JUSTISSEMETODEN?
 date: 2018-01-29T21:18:58.585Z
-image: /img/justisse-300x200.png
+image: /img/dinrytm_justissemetoden.png
 category: aktuellt
 ---
 <!--StartFragment-->
