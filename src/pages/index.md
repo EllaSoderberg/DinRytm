@@ -3,9 +3,8 @@ image: /img/poppy.jpg
 slogan: Lär känna dig själv på nytt
 box1title: Samtalsterapi
 box1text: >-
-  När det känns som att tillvaron tyngs av en grå filt, tankar och relationer
-  skaver, humöret och känslorna åker berg och dalbana. Du kan få hjälp att
-  förstå vad du behöver.
+  Vill du må bättre, lära känna dig själv lite mer, utveckla dina relationer,
+  förändra något i din livssituation eller behöver vägledning i en livskris.
 box1slug: terapi
 box2title: MediYoga
 box2text: >-
