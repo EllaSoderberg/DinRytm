@@ -31,6 +31,11 @@ about: >-
   kombination.<br/><br/>
 
 
+  Jag vidareutbildar mig kontinuerligt och går regelbundet i handledning. I mitt
+  nätverk har jag flera yrkesverksamma psykoterapeuter med olika inriktningar.
+  <br/><br/>
+
+
   Jag har arbetat bland annat inom födande och eftervård, på
   preventivmedelsmottagning, RFSU-klinik, ungdomsmottagning och hälsocentral.
   Efter min disputation 2013 arbetade jag några år som universitetslärare och
