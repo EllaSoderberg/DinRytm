@@ -9,7 +9,8 @@ box1slug: Kognitiv beteendeterapi
 box2title: MediYoga
 box2text: >-
   När du vill ge dig själv mer uppmärksamhet och tid genom övningar för
-  stillhet, närvaro, styrka och rörlighet. Hitta din rytm i livet.
+  stillhet, närvaro, styrka och rörlighet. Hitta till medveten närvaro och din
+  rytm i livet.
 box2slug: yoga
 box3title: Fertilitetsförståelse
 box3text: >-
