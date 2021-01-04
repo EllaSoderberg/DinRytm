@@ -8,8 +8,9 @@ about: >-
   mig i att börja jobba mer förebyggande och med ett helhetsperspektiv på
   fertilitet och hälsa. Under de senaste åren har jag utbildat mig inom
   holistisk reproduktiv hälsa, mediyoga, samt kognitiv beteendeterapi för att
-  även kunna erbjuda behandling vid långvarig stress, utmattning, kris och
-  psykisk ohälsa. <br/><br/>
+  även kunna erbjuda behandling vid olika typer av psykisk ohälsa, stress &
+  utmattning, sorg/kris, parterapi, hälsa/ohälsa i
+  fertilitet/infertilitet/klimakteriet, PMS/PMDS med mera.
 
 
   I min verksamhet är ett helhetsperspektiv viktigt för att få ett sammanhang
@@ -32,8 +33,8 @@ about: >-
 
 
   Jag vidareutbildar mig kontinuerligt och går regelbundet i handledning. I mitt
-  nätverk har jag flera yrkesverksamma psykoterapeuter med olika inriktningar.
-  <br/><br/>
+  nätverk har jag flera yrkesverksamma psykoterapeuter med olika grundutbildning
+  och inriktningar. <br/><br/>
 
 
   Jag har arbetat bland annat inom födande och eftervård, på
