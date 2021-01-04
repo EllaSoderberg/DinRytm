@@ -11,7 +11,7 @@ quoteauthor: 'Jessica & Pär '
 ---
 ## **Kognitiv beteendeterapi (KBT)**
 
-Det finns många anledningar att gå i terapi. Kanske vill du må bättre, lära känna dig själv lite mer, utveckla dina relationer, förändra något i din livssituation eller behöver vägledning i en livskris. I terapin får du stöd och hjälp att förstå, bearbeta och förändra det som gör att vardagen blir problematisk. Det är början på en resa av personlig läkning och utvecklig som ger nya perspektiv och erfarenheter.<br/><br/> **Jag erbjuder behandling vid:** <br/>Ångest, oro/rädsla<br/>Nedstämdhet/depression<br/>Stress och utmattning<br/>Sömnproblem<br/>Relationsproblem<br/>Parterapi (ICBT)<br/>Sorg/kris<br/>Livsförändring (exv klimakteriet)<br/>PMS/PMDS<br/>
+Det finns många anledningar att gå i terapi. Kanske vill du må bättre, lära känna dig själv lite mer, utveckla dina relationer, förändra något i din livssituation eller behöver vägledning i en livskris. I terapin får du stöd och hjälp att förstå, bearbeta och förändra det som gör att vardagen blir problematisk. Det är början på en resa av personlig läkning och utvecklig som ger nya perspektiv och erfarenheter.<br/><br/> **Jag erbjuder behandling vid:** <br/>Ångest, oro/rädsla<br/>Nedstämdhet/depression<br/>Stress och utmattning<br/>Sömnproblem<br/>Relationsproblem<br/>Parterapi (ICBT)<br/>Sorg/kris<br/>Livsförändring (exv klimakteriet)<br/>PMS/PMDS<br/><br/>
 
 ### **KBT - hur går det till?**
 
