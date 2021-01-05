@@ -5,7 +5,7 @@ box1title: Kognitiv psykoterapi
 box1text: >-
   Vill du må bättre, lära känna dig själv lite mer, utveckla dina relationer,
   förändra något i din livssituation eller behöver vägledning i en livskris.
-box1slug: 'https://dinrytm.se/tjanster/terapi'
+box1slug: terapi
 box2title: MediYoga
 box2text: >-
   När du vill ge dig själv mer uppmärksamhet och tid genom övningar för
