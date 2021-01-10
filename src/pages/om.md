@@ -7,9 +7,10 @@ about: >-
   universitetslärare och vårdsamordnare. Resultatet av forskarstudierna stärkte
   mig i att börja jobba mer förebyggande och med ett helhetsperspektiv på
   fertilitet och hälsa. Under de senaste åren har jag utbildat mig inom
-  holistisk reproduktiv hälsa, mindfulness och mediyoga, samt psykoterapi för
-  att även kunna erbjuda behandling vid långvarig stress, utmattning, kris och
-  psykisk ohälsa. <br/><br/>
+  holistisk reproduktiv hälsa, mediyoga, samt kognitiv beteendeterapi för att
+  även kunna erbjuda behandling vid olika typer av psykisk ohälsa, stress &
+  utmattning, sorg/kris, parterapi, hälsa/ohälsa i
+  fertilitet/infertilitet/klimakteriet, PMS/PMDS med mera.
 
 
   I min verksamhet är ett helhetsperspektiv viktigt för att få ett sammanhang
@@ -26,9 +27,14 @@ about: >-
   påverkar oss och hur vi genom ett förändrat tankemönster kan bli mer
   självreflekterande, närvarande och öka vår självmedkänsla. Existentiella
   samtal kan ge nya perspektiv på livsfrågor som kan kännas stora och svåra.
-  Andra metoder för läkande och utveckling är mindfulness, mediyoga och
-  fertilitetsförståelse som kan användas var och en för sig eller i
+  Andra metoder för läkande och utveckling är meditation, andningsövningar, yoga
+  och fertilitetsförståelse som kan användas var och en för sig eller i
   kombination.<br/><br/>
+
+
+  Jag vidareutbildar mig kontinuerligt och går regelbundet i handledning. I mitt
+  nätverk har jag flera yrkesverksamma psykoterapeuter med olika grundutbildning
+  och inriktningar. <br/><br/>
 
 
   Jag har arbetat bland annat inom födande och eftervård, på

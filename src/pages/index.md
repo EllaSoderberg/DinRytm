@@ -1,22 +1,22 @@
 ---
 image: /img/poppy.jpg
 slogan: Lär känna dig själv på nytt
-box1title: Samtalsterapi
+box1title: Kognitiv psykoterapi
 box1text: >-
-  När det känns som att tillvaron tyngs av en grå filt, tankar och relationer
-  skaver, humöret och känslorna åker berg och dalbana. Du kan få hjälp att
-  förstå vad du behöver.
+  Vill du må bättre, lära känna dig själv lite mer, utveckla dina relationer,
+  förändra något i din livssituation eller behöver vägledning i en livskris.
 box1slug: terapi
 box2title: MediYoga
 box2text: >-
   När du vill ge dig själv mer uppmärksamhet och tid genom övningar för
-  stillhet, närvaro, styrka och rörlighet. Hitta din rytm i livet.
+  stillhet, närvaro, styrka och rörlighet. Hitta till medveten närvaro och din
+  rytm i livet.
 box2slug: yoga
 box3title: Fertilitetsförståelse
 box3text: >-
   När det känns som menscykeln är obegriplig och påverkar din vardag. När du
-  vill lära dig mer om din fertilitet, din hälsa inför graviditet och få råd om
-  preventivmetoder.
+  vill lära dig mer om din fertilitet, din hälsa inför graviditet, klimakteriet
+  eller få råd om hormonfria/hormonella preventivmetoder.
 box3slug: handledning-fertilitetsförståelse
 template: index
 om: >-

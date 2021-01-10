@@ -23,7 +23,7 @@ Vid första besöket samtalar vi kring din situation och går igenom dina särsk
 
 Första besöket (75 min) – 1200kr
 
-Återbesök (30 min) –500 kr
+Återbesök (30 min) – 600 kr
 
 <br/>Önskar du boka en tid? Skicka ett meddelande via **[kontaktformuläret.](https://dinrytm.se/kontakt)**<br/><br/>**\
 MediYoga i grupp**<br/>
