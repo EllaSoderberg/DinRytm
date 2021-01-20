@@ -10,7 +10,7 @@ quoteauthor: 'Karin, 24 år'
 ---
 ## **Lär känna din menscykel**
 
-Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever mensrelaterade besvär som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar eller för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<br/><br/>
+Handledningen är för dig som planerar för en graviditet och/eller har försökt bli gravid utan framgång. För dig som upplever besvär relaterade till menscykeln som till exempel humörsvängningar, nedstämdhet, smärtsam mens, rikliga mensblödningar/mellanblödningar, klimakteriet eller för dig som redan använder eller önskar börja använda en hormonfri preventivmetod.<br/><br/>
 
 ## **Handledning - hur går det till?**
 
