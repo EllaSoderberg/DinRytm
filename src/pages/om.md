@@ -7,9 +7,8 @@ about: >-
   universitetslärare och vårdsamordnare. Resultatet av forskarstudierna stärkte
   mig i att börja jobba mer förebyggande och med ett helhetsperspektiv på
   fertilitet och hälsa. Under de senaste åren har jag utbildat mig inom
-  holistisk reproduktiv hälsa, mediyoga, samt kognitiv beteendeterapi för att
-  även kunna erbjuda behandling vid olika typer av psykisk ohälsa, stress &
-  utmattning, sorg/kris, parterapi, hälsa/ohälsa i
+  holistisk reproduktiv hälsa, mediyoga, och psykoterapi och erbjuder behandling
+  vid psykisk ohälsa, stress & utmattning, sorg/kris, parterapi, hälsa/ohälsa i
   fertilitet/infertilitet/klimakteriet, PMS/PMDS med mera.
 
 
