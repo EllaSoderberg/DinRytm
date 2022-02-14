@@ -3,7 +3,7 @@ template: tjanst
 title: MediYoga
 order: 4
 image: /img/dinrytm_mediyoga.jpg
-ingress: ''
+ingress: ""
 quote: |-
   Tack för en underbar yoga! Jag mår så bra efter yogapasset, 
   längtar redan till nästa pass
@@ -21,8 +21,8 @@ Vid första besöket samtalar vi kring din situation och går igenom dina särsk
 
 *Nuvarande pris:*
 
-Första besöket (75 min) – 1200kr
+Session 60 min – 1000 kr
 
-Återbesök (30 min) – 600 kr
+
 
 <br/>Önskar du boka en tid? Skicka ett meddelande via **[kontaktformuläret.](https://dinrytm.se/kontakt)**<br/><br/>
