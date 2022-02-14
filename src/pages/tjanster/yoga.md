@@ -1,6 +1,6 @@
 ---
 template: tjanst
-title: MediYoga
+title: Friskvård MediYoga
 order: 4
 image: /img/dinrytm_mediyoga.jpg
 ingress: ""
