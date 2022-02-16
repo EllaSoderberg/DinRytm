@@ -27,7 +27,7 @@ export class Nav extends React.Component {
         title: `Tjänster`,
         nodes: [
           {
-            title: "Kognitiv beteendeterapi",
+            title: "Psykoterapi",
             url: "/terapi",
           },
           {
