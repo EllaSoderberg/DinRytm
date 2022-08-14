@@ -4,6 +4,11 @@ import PageContainer from "../components/PageContainer";
 import PropTypes from "prop-types";
 
 export default function Article({ data }) {
+  
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname);
+  }, []);
+
   const post = data.markdownRemark;
   return (
     <PageContainer>
