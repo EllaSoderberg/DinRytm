@@ -7,6 +7,11 @@ import SEO from "../components/seo";
 import CompatibleImage from "../components/CompatibleImage";
 
 export default function Om({ data }) {
+  
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname);
+  }, []);
+
   const text = data.markdownRemark.frontmatter;
   return (
     <div>

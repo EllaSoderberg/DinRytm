@@ -7,6 +7,11 @@ import SEO from "../components/seo";
 import Form from "../components/form";
 
 export default function Kontakt({ data }) {
+  
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname);
+  }, []);
+
   const info = data.markdownRemark.frontmatter;
   return (
     <div>

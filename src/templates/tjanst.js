@@ -6,6 +6,11 @@ import { QuoteBlock } from "../components/QuoteBlock";
 
 
 export default function Tjanst({ data }) {
+
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname);
+  }, []);
+
   const post = data.markdownRemark;
   return (
     <PageContainer>
