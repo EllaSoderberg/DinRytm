@@ -20,10 +20,23 @@ export default function Kontakt({ data }) {
         <p className="pb-8 px-8">
           <b>Malin Söderberg</b>
           <br></br>
+          PHD, Leg. barmorska
+          <br></br>
+          Psykoterapeut KBT/CFT
+          <br></br>
+          Handledare FAM, MediYogaterapeut
+          <br></br>
           <br></br>
           Telefon: <a href={"tel:" + info.phone}>{info.phone}</a>
           <br></br>
           Mail: <a href={"mailto:" + info.email}>{info.email}</a>
+          <br></br>
+          <br></br>
+          Address till mottagning: 
+          <br></br>
+          Långholmsgatan 20
+          <br></br>
+          117 33 Stockholm
           <br></br>
           <br></br>
           <b>
