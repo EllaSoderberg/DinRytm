@@ -17,7 +17,7 @@ Näsborrarna har kopplingar till det autonoma nervsystemet. Höger näsborre är
 
 Målet är att andas i ställningen i 11 minuter men börja gärna med 3 min öka när du känner att du vill, först till 7 min och sedan till 11 min.<br></br>
 
-**Övning**\
+Övning
 Du sitter rak i ryggen i lätt meditationsställning eller på en stol. Ögonen slutna och fokus i tredje ögat (blicken inåt-uppåt på en punkt mellan ögonbrynen).<br></br>
 
 Vänster hand ligger ner i knät med tumme mot pekfinger, höger hand går upp till ansiktet tryck höger tumme mot höger näsborre.<br></br>
