@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=12"
+  },
   "name": "din-rytm-hemsida",
   "description": "Din rytm, din hälsa",
   "version": "1.0.0",
@@ -23,7 +26,7 @@
     "gatsby-transformer-sharp": "^2.4.4",
     "netlify-cms-app": "^2.11.29",
     "prop-types": "15.7.2",
-    "react": "20",
+    "react": "16.12.0",
     "react-accessible-accordion": "^3.0.1",
     "react-dom": "16.12.0",
     "react-helmet": "5.2.1",
