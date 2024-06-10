@@ -28,10 +28,10 @@ about: "Jag startade Din rytm 2014 efter många år som kliniskt verksam
   och fertilitetsförståelse som kan användas var och en för sig eller i
   kombination.\r
 
-  Jag är medlem i Svenska föreningen för Compassionfokuserad terapi och
-  vidareutbildar mig kontinuerligt och går regelbundet i handledning. I mitt
-  nätverk har jag flera yrkesverksamma psykoterapeuter med olika grundutbildning
-  och inriktningar.\r
+  Jag är medlem i Svenska föreningen för Compassionfokuserad terapi och The
+  Compassionate Mind Foundation, England. Jag vidareutbildar mig kontinuerligt
+  och går regelbundet i handledning. I mitt nätverk har jag flera yrkesverksamma
+  psykoterapeuter med olika grundutbildning och inriktningar.\r
 
   \r\n"
 aboutme: >-
